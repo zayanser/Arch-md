@@ -65,7 +65,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ----- 
 ### ⏏️ **DEPLOY VIA RAILWAY**
-[![Deploy to Railway](https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black)](https://railway.com/deploy?type=git&repository=github.com/Ednut001/Arch-MD&branch=main&name=Arch-md)
+[![Deploy to Railway](https://img.shields.io/badge/RAILWAY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black)](https://railway.com/deploy?type=git&repository=github.com/Ednut001/Arch-MD&branch=main&name=Arch-md)
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ednuthimself)
 ------------------
