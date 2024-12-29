@@ -36,7 +36,7 @@
 2. Get Session ID 
    > if not generating code please use the second one or scan method
     
- <a href='https://ednut-pair-code.onrender.com/pair/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+ <a href='https://ednut-pair-code.onrender.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
  
  how to input session id tutorial 👇
  
