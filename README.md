@@ -41,6 +41,8 @@
  how to input session id tutorial 👇
  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/_OrbTQmCljo?si=e6sptQCSxcdaJIcQ)
+
+> if deploying on panel download zip and edit settings.js change the pair code to true
  
 ### 🟣 ARCH MD ON HEROKU 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ednut001/Arch-Md-Heroku) 
@@ -73,7 +75,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FEdnut001-Li%2FArch-MD)
 
 ------------------
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ednuthimself)  [tutorial soon]
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ednuthimself)
 
 
 
