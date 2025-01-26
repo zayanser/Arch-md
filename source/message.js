@@ -358,7 +358,7 @@ return m
 			buffer = Buffer.concat([buffer, chunk]);
 		}
 		const type = await FileType.fromBuffer(buffer);
-		const trueFileName = attachExtension ? `./tmp/${filename ? filename : Date.now()}.${type.ext}` : filename;
+		const trueFileName = attachExtension ? `tmp/${filename ? filename : Date.now()}.${type.ext}` : filename;
 		await fs.promises.writeFile(trueFileName, buffer);
 		return trueFileName;
 	}
