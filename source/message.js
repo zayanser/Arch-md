@@ -358,7 +358,7 @@ return m
 			buffer = Buffer.concat([buffer, chunk]);
 		}
 		const type = await FileType.fromBuffer(buffer);
-		const trueFileName = attachExtension ? `tmp/${filename ? filename : Date.now()}.${type.ext}` : filename;
+		const trueFileName = attachExtension ? `./library/database/tmp/${filename ? filename : Date.now()}.${type.ext}` : filename;
 		await fs.promises.writeFile(trueFileName, buffer);
 		return trueFileName;
 	}
@@ -370,7 +370,7 @@ return m
 			mime: 'application/octet-stream',
 			ext: '.bin'
 		}
-		filename = path.join(__filename, './tmp/' + new Date * 1 + '.' + type.ext)
+		filename = path.join(__filename, './library/database/tmp/' + new Date * 1 + '.' + type.ext)
 		if (data && save) fs.promises.writeFile(filename, data)
 		return {
 			res,
