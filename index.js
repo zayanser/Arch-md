@@ -145,7 +145,7 @@ ednut.end(`Unknown DisconnectReason : ${reason}|${connection}`)
 			}
 		}
 		if (connection == 'open' && global.startup) {
-ednut.sendMessage(ednut.user.id.split(":")[0] + "@s.whatsapp.net", {text:`\`\`\`Arch Md connected successfully\`\`\`\n\n\`\`\`prefix:-  ${global.prefix}\`\`\`\n\n\`\`\`channel :- https://whatsapp.com/channel/0029VamspnPB4hdUnvLaIX17 \n\nsupport :- https://chat.whatsapp.com/HO2JGN8YHr9IOf4XOSRhGe \n\nnote if bot doesn't respond kindly restart from host don't forget to follow up for latest update on arch Md thanks for using 👋 Regards\n𝓔𝓭𝓷𝓾𝓽\`\`\``})
+ednut.sendMessage(ednut.user.id.split(":")[0] + "@s.whatsapp.net", {text:`\`\`\`Arch Md connected successfully\`\`\`\n\n\`\`\`prefix:-  ${global.prefix}\`\`\`\n\n\`\`\`channel :- https://whatsapp.com/channel/0029VamspnPB4hdUnvLaIX17 \n\nsupport :- https://chat.whatsapp.com/GmHOFOqQsM8A160ZCjcVnb \n\nnote if bot doesn't respond kindly restart from host don't forget to follow up for latest update on arch Md thanks for using 👋 Regards\n𝓔𝓭𝓷𝓾𝓽\`\`\``})
 console.log(chalk.magenta.italic(`Arch Md successfully connected ✓\n`))
 		} else if (receivedPendingNotifications == 'true') {
 			console.log('Please wait About 1 Minute...')
