@@ -46,7 +46,7 @@
     "google-tts-api": "^2.0.2",
     "groq-sdk": "^0.9.1",
     "human-readable": "^0.2.1",
-    "jimp": "^0.16.13",
+    "jimp": "^0.16.1",
     "js-confuser": "^1.7.3",
     "link-preview-js": "^3.0.4",
     "lowdb": "^2.1.0",
