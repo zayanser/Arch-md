@@ -1,4 +1,7 @@
 let handler = async ( m, {ednut, isCreator, example, Reply, LoadDataBase }) => {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
 if (global.db.users[m.sender].banned) return m.reply(global.mess.ban)
 if (m.isGroup) {
 if (!isCreator && !m.isAdmin) return m.reply(mess.admin)
