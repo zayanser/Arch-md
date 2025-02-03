@@ -193,13 +193,13 @@ for (let num of participants) {
   }
 
   // Welcome Message
-  if (global.db.groups && global.db.groups[anu.id].welcome && anu.action == 'add') {
+  if (global.db.groups && global.db.groups[anu.id] && global.db.groups[anu.id].welcome && anu.action == 'add') {
     let wel = `Hello 🤗 @${num.split("@")[0]} welcome to  ${metadata.subject}\n*READ GROUP DESCRIPTION!!!*\n${groupDesc}`
     await ednut.sendMessage(anu.id, { image: { url: ppuser }, caption: wel }).catch(e => { })
   }
 
   // Goodbye Message
-  if (global.db.groups && global.db.groups[anu.id].goodbye && (anu.action === 'remove' || anu.action === 'leave')) {
+  if (global.db.groups && global.db.groups[anu.id] && global.db.groups[anu.id].goodbye && (anu.action === 'remove' || anu.action === 'leave')) {
     let txtLeft = `Bye 😣 @${num.split("@")[0]} leaving group  ${metadata.subject}`
     await ednut.sendMessage(anu.id, { image: { url: ppuser }, caption: txtLeft })
   }
@@ -209,34 +209,6 @@ console.log(err)
 }
 })
 
-ednut.ev.on('call', async (user) => {
-try {
-if (global.db.settings.anticall) return
-let botNumber = await ednut.decodeJid(ednut.user.id)
-for (let ff of user) {
-if (ff.isGroup == false) {
-if (ff.status == "offer") {
-let sendcall = await ednut.sendMessage(ff.from, {
-text: `@${ff.from.split("@")[0]} Sorry, I Will Block You Because the Bot Owner Turned on the *Anti Call* Feature\nIf You Accidentally Contact the Owner Immediately to Unblock This`,
-contextInfo: {
-mentionedJid: [ff.from],
-externalAdReply: {
-thumbnailUrl: `${global.image.reply}`,
-title: "CALL DETECTED",
-previewType: "PHOTO"
-}
-}
-}, { quoted: null })
-ednut.sendContact(ff.from, [owner], "Call or Vc = Block", sendcall)
-await sleep(8000)
-await ednut.updateBlockStatus(ff.from, "block")
-}
-}
-}
-} catch (error) {
-console.error(error)
-}
-})
 
 //================================================================================
 
