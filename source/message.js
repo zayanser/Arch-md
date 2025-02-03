@@ -73,7 +73,9 @@ async function LoadDataBase(conn, m) {
 				if (!('goodbye' in group)) group.goodbye = false
 						if (!('mute' in group)) group.mute = false
 														if (!('open' in group)) group.open = false
-																if (!('antitag' in group)) group.antitag = false
+															if (!('antitag' in group)) group.antitag = false	
+		if (!('banned' in group)) group.banned = false
+			if (!('antidelete' in group)) group.antidelete = false
 			} else {
 				global.db.groups[m.chat] = {
 					antilink: false,
@@ -82,7 +84,9 @@ async function LoadDataBase(conn, m) {
 					goodbye: false,
 					mute: false,
 					open: false,
-					antitag: false
+					antitag: false,
+					banned: false,
+					antidelete: false
 				}
 			}
 		}
@@ -101,9 +105,9 @@ async function MessagesUpsert(conn, message, store) {
 		if (global.db.settings.readsw && global.db.settings.readsw == true) {
 		conn.readMessages([msg.key])
 		} else return
-		}		
+		}	
 		if (!msg.message) return
-		if (!conn.public && !msg.key.fromMe && message.type === 'notify') return
+		if (!conn.public && !msg.key.fromMe && !msg.key.global.owner && message.type === 'notify') return
 		if (global.db.settings.autoread && global.db.settings.autoread == true) conn.readMessages([msg.key])
 		if (global.db.settings.autotyping && global.db.settings.autotyping == true && !msg.key.fromMe) conn.sendPresenceUpdate('composing', msg.key.remoteJid)
 				if (global.db.settings.available && global.db.settings.available == true && !msg.key.fromMe) conn.sendPresenceUpdate('available', msg.key.remoteJid)
