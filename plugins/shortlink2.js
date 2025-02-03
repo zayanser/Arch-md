@@ -2,6 +2,9 @@ const axios = require("axios")
 const { generateWAMessageFromContent, proto } = require("@whiskeysockets/baileys")
 
 let handler = async (m, { ednut, example, text, LoadDataBase }) => {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
 if (global.db.users[m.sender].banned) return m.reply(global.mess.ban)
 if (!text) return m.reply(example("input a link"))
 if (!text.startsWith("http://") && !text.startsWith("https://")) return m.reply("input a valid link")
