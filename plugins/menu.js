@@ -12,6 +12,9 @@ const latensi = speed() - timestamp
 const welDate = moment.tz(`${global.timezone}`).format('DD/MM/YYYY')
 const mark = "0@s.whatsapp.net"
 var tot = await nou.drive.info();
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
 if (global.db.users[m.sender].banned) return m.reply(global.mess.ban)
 let archmenu = `┏━《 ${botname} 》━━━
 ♞ Creator: ᴇᴅɴᴜᴛ
@@ -44,6 +47,7 @@ let archmenu = `┏━《 ${botname} 》━━━
 ┃${global.simbol} ${global.prefix}Joinch
 ┃${global.simbol} ${global.prefix}Ban
 ┃${global.simbol} ${global.prefix}Unban
+┃${global.simbol} ${global.prefix}save
 ┗━━━━━━━━━━━━━━━━━
 
 ┏━━《ᴅᴏᴡɴʟᴏᴀᴅ ᴍᴇɴᴜ》━━
@@ -70,7 +74,7 @@ let archmenu = `┏━《 ${botname} 》━━━
 ┃${global.simbol} ${global.prefix}autorecording 
 ┃${global.simbol} ${global.prefix}autoread
 ┃${global.simbol} ${global.prefix}unavailable 
-┃${global.simbol} ${global.prefix}anticall
+┃${global.simbol} ${global.prefix}autobio
 ┗━━━━━━━━━━━━━━━━━
 
 ┏━━《ʙᴏᴛ ᴍᴇɴᴜ》━━
@@ -106,6 +110,9 @@ let archmenu = `┏━《 ${botname} 》━━━
 ┃${global.simbol} ${global.prefix}resetwarn
 ┃${global.simbol} ${global.prefix}idgc
 ┃${global.simbol} ${global.prefix}Antitag
+┃${global.simbol} ${global.prefix}antidelete
+┃${global.simbol} ${global.prefix}banchat
+┃${global.simbol} ${global.prefix}unbanchat
 ┗━━━━━━━━━━━━━━━━━
 
 ┏━━《ᴄᴏɴᴠᴇʀᴛ ᴍᴇɴᴜ》━━
@@ -199,11 +206,7 @@ if (typeMenu === 'v1') {
                         quoted: m
                     })
 } else if (typeMenu === 'v2' ) {
-                    ednut.sendMessage(m.chat, {
-                        video: fs.readFileSync('./ednutmedia/archvid.mp4'),
-                        caption: archmenu,
-                        gifPlayback: true
-                    }, {
+                    ednut.sendMessage(m.chat, { text: archmenu }, {
                         quoted: m
                     })
  } else if ( typeMenu === 'v3' )
