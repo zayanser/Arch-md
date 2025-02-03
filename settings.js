@@ -14,10 +14,9 @@ const { version } = require("./package.json")
 //======= Change settings =======\\
 global.owner = "2347036214381"
 global.botname = "αrch md"
-global.ownername = ""
+global.ownername = "" //set bot owner name here 
 global.simbol = "♘"
-global.typeMenu = 'v1' //don't change 
-global.anticall = false // set true to turn anticall always on
+global.typeMenu = 'v1' // choose between 1,2,3
 global.prefix = '.' // your desired prefix symbol only
 global.channel = ''
 global.timezone = 'Africa/Lagos'
