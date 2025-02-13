@@ -6,7 +6,6 @@
   
 */
 
-
 require('./settings');
 const fs = require('fs');
 const pino = require('pino');
@@ -72,7 +71,7 @@ async function startingBot() {
 	const { state, saveCreds } = await useMultiFileAuthState('session');
 	const { version, isLatest } = await fetchLatestWaWebVersion()
 	
-const ednut = WAConnection({
+	const ednut = WAConnection({
         printQRInTerminal: !pairingCode, 
         logger: pino({ level: "silent" }),
         auth: state,
@@ -81,19 +80,24 @@ const ednut = WAConnection({
         keepAliveIntervalMs: 10000,
         emitOwnEvents: true,
         fireInitQueries: true,
-        browser: ["Ubuntu","Chrome","22.04.2"],
+        browser: ["Ubuntu","Chrome","20.0.04"],
         generateHighQualityLinkPreview: false, 
         syncFullHistory: false,
         markOnlineOnConnect: false,    
-    	getMessage: async (key) => {
-         if (store) {
-           const msg = await store.loadMessage(key.remoteJid, key.id, undefined)
-           return msg?.message || undefined
-         }
-           return {
-          conversation: 'Arch Md (By Ednut)'
-         }}		
-	})
+        getMessage: async (key) => {
+        try {
+        if (store) {
+      const msg = await store.loadMessage(key.remoteJid, key.id, undefined)
+      return msg?.message || undefined
+    }
+    return { conversation: 'Arch Md (By Ednut)' }
+  } catch (error) {
+    console.error('Error loading message:', error)
+    return { conversation: 'Arch Md (By Ednut)' }
+  }
+}
+})
+
 	
 	
 		if (pairingCode && !ednut.authState.creds.registered) {
@@ -106,6 +110,7 @@ const ednut = WAConnection({
 			console.log(chalk.magenta.italic(`here's your pairing code :`), chalk.white.bold(code))
 	}
 
+	
 //================================================================================
 	
 ednut.ev.on('creds.update', await saveCreds)
@@ -127,6 +132,9 @@ ednut.ev.on('connection.update', async (update) => {
 				startingBot()
 			} else if (reason === DisconnectReason.timedOut) {
 				console.log('Connection Timed Out, Attempting to Reconnect...');
+				startingBot()
+			} else if (reason === DisconnectReason.badSession) {
+				console.log('Delete Session and Scan again...');
 				startingBot()
 			} else if (reason === DisconnectReason.connectionReplaced) {
 				console.log('Close current Session first...');
@@ -165,16 +173,15 @@ ednut.ev.on('messages.upsert', async (message) => {
 //================================================================================
 
 ednut.ev.on('contacts.update', (update) => {
-try {
-for (let contact of update) {
-let id = ednut.decodeJid(contact.id)
-if (store && store.contacts) store.contacts[id] = { id, name: contact.notify }
-}
-} catch (error) {
-console.error('Error updating contacts:', error)
-}
-})
+		for (let contact of update) {
+			let id = 
+ednut.decodeJid(contact.id)
+			if (store && store.contacts) store.contacts[id] = { id, name: contact.notify }
+		}
+});
+
 //================================================================================
+	
 ednut.ev.on('group-participants.update', async (anu) => {
 try {
 let metadata = await ednut.groupMetadata(anu.id)
@@ -209,8 +216,8 @@ console.log(err)
 }
 })
 
-
 //================================================================================
+	
 
 return ednut
 
