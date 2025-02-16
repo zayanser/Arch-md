@@ -45,7 +45,7 @@
 > if deploying on panel download zip and edit settings.js change the pair code to true
  
 ### 🟣 ARCH MD ON HEROKU 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ednut001/Arch-Md-Heroku) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ednut001/Arch-Md) 
 
 ```open settings.js edit owner number and owner name```
 
