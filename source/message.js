@@ -36,6 +36,9 @@ async function LoadDataBase(conn, m) {
 			if (!('unavailable' in setBot)) setBot.unavailable = false
 			if (!('readsw' in setBot)) setBot.readsw = false	
 				if (!('mode' in setBot)) setBot.mode = true	
+						if (!('antidelete' in setBot)) setBot.antidelete = false 
+								if (!('antidelete2' in setBot)) setBot.antidelete2 = false 	
+								if (!('send' in setBot)) setBot.send = false
 		} else {
 			global.db.settings = {
 				anticall: false,
@@ -45,7 +48,10 @@ async function LoadDataBase(conn, m) {
 				available: false,
 				unavailable: false,
 				readsw: false,
-				mode: true
+				mode: true,
+				antidelete: false,
+				antidelete2: false,
+				send: false
 			}
 		}
 		
@@ -75,7 +81,6 @@ async function LoadDataBase(conn, m) {
 														if (!('open' in group)) group.open = false
 															if (!('antitag' in group)) group.antitag = false	
 		if (!('banned' in group)) group.banned = false
-			if (!('antidelete' in group)) group.antidelete = false
 			} else {
 				global.db.groups[m.chat] = {
 					antilink: false,
@@ -85,8 +90,7 @@ async function LoadDataBase(conn, m) {
 					mute: false,
 					open: false,
 					antitag: false,
-					banned: false,
-					antidelete: false
+					banned: false
 				}
 			}
 		}
@@ -101,11 +105,11 @@ async function MessagesUpsert(conn, message, store) {
 		const msg = message.messages[0];
 		const type = msg.message ? (getContentType(msg.message) || Object.keys(msg.message)[0]) : '';
 		
-		if (msg.key && msg.key.remoteJid === 'status@broadcast') {
-		if (global.db.settings.readsw && global.db.settings.readsw == true) {
-		conn.readMessages([msg.key])
-		} else return
-		}	
+if (msg.key && msg.key.remoteJid == 'status@broadcast') {
+  if (global.db.settings.readsw && global.db.settings.readsw == true) {
+    conn.readMessages([msg.key])
+  } else return
+}
 		if (!msg.message) return
 		if (!conn.public && !msg.key.fromMe && !msg.key.global.owner && message.type === 'notify') return
 		if (global.db.settings.autoread && global.db.settings.autoread == true) conn.readMessages([msg.key])
