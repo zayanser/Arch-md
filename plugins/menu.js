@@ -75,6 +75,7 @@ let archmenu = `┏━《 ${botname} 》━━━
 ┃${global.simbol} ${global.prefix}autoread
 ┃${global.simbol} ${global.prefix}unavailable 
 ┃${global.simbol} ${global.prefix}autobio
+┃${global.simbol} ${global.prefix}autosend
 ┗━━━━━━━━━━━━━━━━━
 
 ┏━━《ʙᴏᴛ ᴍᴇɴᴜ》━━
@@ -120,11 +121,25 @@ let archmenu = `┏━《 ${botname} 》━━━
 ┃${global.simbol} ${global.prefix}qc
 ┃${global.simbol} ${global.prefix}toimg
 ┃${global.simbol} ${global.prefix}tomp3
+┃${global.simbol} ${global.prefix}tomp4
 ┃${global.simbol} ${global.prefix}tovn
 ┃${global.simbol} ${global.prefix}tovv
 ┃${global.simbol} ${global.prefix}Write
 ┃${global.simbol} ${global.prefix}shortlink
 ┃${global.simbol} ${global.prefix}Ssweb
+┃${global.simbol} ${global.prefix}tourl
+┃${global.simbol} ${global.prefix}bass
+┃${global.simbol} ${global.prefix}robot
+┃${global.simbol} ${global.prefix}nightcore
+┃${global.simbol} ${global.prefix}fat
+┃${global.simbol} ${global.prefix}fast
+┃${global.simbol} ${global.prefix}earrape
+┃${global.simbol} ${global.prefix}reverse
+┃${global.simbol} ${global.prefix}slow
+┃${global.simbol} ${global.prefix}smooth
+┃${global.simbol} ${global.prefix}squirrel
+┃${global.simbol} ${global.prefix}blown
+┃${global.simbol} ${global.prefix}deep
 ┗━━━━━━━━━━━━━━━━━
 
 ┏━━《sᴇᴀʀᴄʜ ᴍᴇɴᴜ》━━
