@@ -41,7 +41,7 @@
     },
     "ONLYGC_MSG": {
       "description": "set your desired message when the bot mode is set to only group",
-      "value": ""
+      "value": "",
       "required": false
     },
     "ONLYPC_MSG": {
