@@ -45,19 +45,14 @@
 > if deploying on panel download zip and edit settings.js change the pair code to true
  
 ### 🟣 ARCH MD ON HEROKU 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ednut001/Arch-Md) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Ednut001/Arch-Md) 
 
 ```open settings.js edit owner number and owner name```
 
 ### 👇Buildpack for heroku: 
+### copy this url to your clipboard input session id in the session folder of the bot then change your GitHub username 
 ```bash
-heroku/nodejs
-```
-```bash
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-```
-```bash
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+https://dashboard.heroku.com/new?template=https://github.com/Ednut001/Arch-Md
 ```
 - [x] Result <details><summary>Buildpack</summary><img src="https://i.imgur.com/t3Xzgnh.jpeg"></details>
 -----
