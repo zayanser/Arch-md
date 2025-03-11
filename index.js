@@ -19,6 +19,7 @@ const { say } = require('cfonts');
 const { Boom } = require('@hapi/boom');
 const NodeCache = require('node-cache');
 const speed = require('performance-now');
+const resolveMsgBuffer = new NodeCache()
 
 const { default: WAConnection, generateWAMessageFromContent, 
 prepareWAMessageMedia, useMultiFileAuthState, Browsers, DisconnectReason, makeInMemoryStore, makeCacheableSignalKeyStore, fetchLatestWaWebVersion, proto, PHONENUMBER_MCC, getAggregateVotesInPollMessage } = require('@whiskeysockets/baileys');
@@ -84,6 +85,7 @@ async function startingBot() {
         generateHighQualityLinkPreview: false, 
         syncFullHistory: false,
         markOnlineOnConnect: false,    
+        resolveMsgBuffer,
         getMessage: async (key) => {
         try {
         if (store) {
