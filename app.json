@@ -8,17 +8,17 @@
   "env": {
     "PREFIX": {
       "description": "Enter your desired prefix for bot. You can set make sure it a single prefix `| . | .!*`",
-      "value": "."
+      "value": ".",
       "required": true
     },
     "SESSION_ID": {
       "description": "input bot session id here the one you received when you paired with Whatsapp",
-      "value": " "
+      "value": " ",
       "required": true
     },
     "THUMB_IMAGE": {
       "description": "This image will show when you used a v1/v3 menu you can get your image url from catbox",
-      "value": " "
+      "value": " ",
       "required": false
     },
     "OWNER_NAME": {
@@ -43,17 +43,17 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + \",\").",
-      "value": "2347036214381"
+      "value": "2347036214381",
       "required": false
     },
     "WARN": {
       "description": "how many times you want the bot should warn user before kick",
-      "value": "3"
+      "value": "3",
       "required": false
     },
     "SYMBOL": {
       "description": "This will show as the bot symbol before the menu",
-      "value": "♘"
+      "value": "♘",
       "required": false
     },
     "ONLYGC_MSG": {
