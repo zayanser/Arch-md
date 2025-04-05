@@ -8,7 +8,7 @@
     },
     "type": "commonjs",
     "scripts": {
-        "start": "pm2 start start/index.js --deep-monitoring --attach --name ARCH-MD --restart=always"
+        "start": "pm2 start start/index.js --deep-monitoring --attach --name ARCH-MD"
     },
     "keywords": [
         "whiskeysockets",
