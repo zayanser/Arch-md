@@ -19,7 +19,7 @@
         "@colors/colors": "^1.5.0",
         "@hapi/boom": "^10.0.0",
         "@vreden/youtube_scraper": "^1.2.6",
-        "@whiskeysockets/baileys": "github:AxellNetwork/Baileys",
+        "@whiskeysockets/baileys": "github:nstar-y/Bail",
         "api-dylux": "^1.8.5",
         "awesome-phonenumber": "^2.70.0",
         "axios": "^1.1.3",
