@@ -51,7 +51,7 @@
         "https": "^1.0.0",
         "human-readable": "^0.2.1",
         "install": "^0.13.0",
-        "jimp": "^0.16.1",
+        "jimp": "^0.22.12",
         "js-confuser": "^1.0.0",
         "jsdom": "^16.4.0",
         "link-preview-js": "^3.0.4",
