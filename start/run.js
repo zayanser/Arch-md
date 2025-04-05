@@ -216,7 +216,7 @@ await LoadDataBase(ednut, m)
         const mime = (quoted.msg || quoted).mimetype || '';
         const qmsg = (quoted.msg || quoted);
         const isMedia = /image|video|sticker|audio/.test(mime);
-        const thumb = fs.readFileSync ('./arch.jpg')
+        const thumb = fs.readFileSync ('./start/arch.jpg')
 
         //================= { USER } =================\\
      const botNumber = await ednut.decodeJid(ednut.user.id);
