@@ -13,7 +13,7 @@
     },
     "SESSION_ID": {
       "description": "input bot session id here the one you received when you paired with Whatsapp",
-      "value": " ",
+      "value": "",
       "required": true
     },
     "THUMB_IMAGE": {
