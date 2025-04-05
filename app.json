@@ -7,7 +7,7 @@
   "stack": "heroku-24",
   "scripts": {
   "postdeploy": "npm run scale-dyno"
-}
+},
   "env": {
     "PREFIX": {
       "description": "Enter your desired prefix for bot. You can set make sure it a single prefix `| . | .!*`",
