@@ -649,26 +649,6 @@ console.error("Error in AutoReact:", error.message || error);
 }
 
 
-let {getDevice} = require("@whiskeysockets/baileys")
-let device = await getDevice(m.key.id)
-
-if (m.isBaileys && m.fromMe) return true;
-let chat = global.db.groups[m.chat];
-let sender = global.db.users[m.sender];
-let hapus = m.key.participant;
-let bang = m.key.id;
-if (chat.antiBot) {
-  if (m.isBaileys && !m.fromMe) {
-    if (isAdmin || !isBotAdmin) {
-      return true;
-    } else {
-      await ednut.sendText(m.chat, `Bot detected user kicked out..`);
-      sleep(2000)
-      return await ednut.groupParticipantsUpdate(m.chat, [m.sender], 'remove');
-    }
-  }
-}
-return true;
 
 
 // Antilink Kick
