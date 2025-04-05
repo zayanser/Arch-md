@@ -1524,16 +1524,35 @@ break
 
 //================================================================================
 
-case "s": case "sticker": case "stiker": {
+case 'sticker': case 's': {
 if (m.isGroup) {
 if (global.db.groups[m.chat].banned) return
 }
 if (global.db.users[m.sender].banned) return m.reply(mess.ban)
-if (!/image|video/gi.test(mime)) return m.reply(example("reply to a media"))
-if (/video/gi.test(mime) && qmsg.seconds > 15) return m.reply("video duration more than 15 seconds!")
-var image = await ednut.downloadAndSaveMediaMessage(qmsg)
-await ednut.sendAsSticker(m.chat, image, m, {packname: global.packname})
-await fs.unlinkSync(image)
+if (!/image|video/.test(mime)) return m.reply(example("reply to a image or video"))   
+let getRandom = (ext) => {
+return `${Math.floor(Math.random() * 10000)}${ext}`
+  }
+	let ahuh = args.join(' ').split('|')
+	let satu = ahuh[0] !== '' ? ahuh[0] : (global.author)
+	let dua = typeof ahuh[1] !== 'undefined' ? ahuh[1] : ``
+	let { Sticker, createSticker, StickerTypes } = require('wa-sticker-formatter')
+	let media = await ednut.downloadAndSaveMediaMessage(quoted)
+	let jancok = new Sticker(media, {
+	pack: satu, // The pack name
+	author: dua, // The author name
+	type: StickerTypes.FULL, // The sticker type
+	categories: ['🤩', '🎉'], // The sticker category
+	id: '12345', // The sticker id
+	quality: 70, // The quality of the output file
+	background: '#FFFFFF00' // The sticker background color (only for full stickers)
+	})
+	let stok = getRandom(".webp")
+	let nono = await jancok.toFile(stok)
+	let nah = fs.readFileSync(nono)
+	await ednut.sendMessage(m.chat,{sticker: nah},{quoted: m})
+	await fs.unlinkSync(stok)
+	await fs.unlinkSync(media)
 }
 break
 //================================================================================
@@ -3462,7 +3481,7 @@ m.reply(support)
 }
 break
 
-case 'mine': case 'steal': case 'stickerwm': case 'take': case 'wm': {
+case 'steal': case 'stickerwm': case 'take': case 'wm': {
 if (m.isGroup) {
 if (global.db.groups[m.chat].banned) return
 }
