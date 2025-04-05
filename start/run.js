@@ -216,6 +216,7 @@ await LoadDataBase(ednut, m)
         const mime = (quoted.msg || quoted).mimetype || '';
         const qmsg = (quoted.msg || quoted);
         const isMedia = /image|video|sticker|audio/.test(mime);
+        const thumb = fs.readFileSync ('../arch.jpg')
 
         //================= { USER } =================\\
      const botNumber = await ednut.decodeJid(ednut.user.id);
@@ -843,7 +844,7 @@ showAdAttribution: true, thumbnailUrl: pp, title: `${global.botname}`, body: `${
         };
         
      const reply4 = async (teks) => {
-   ednut.sendMessage(m.chat, {image: {url: `${global.thumb}` }, caption: teks, }, {quoted: m })
+   ednut.sendMessage(m.chat, {image: thumb, caption: teks, }, {quoted: m })
 }
 
 		if (m.sender.startsWith(`${global.db.settings.autoblock}`) && global.db.settings.autoblocknum === true) {
