@@ -15,11 +15,22 @@
     ],
     "author": "Ednut",
     "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Ednut001/Arch-Md/issues"
+    },
+    "homepage": "https://github.com/Ednut001/Arch-Md#readme",
+    "devDependencies": {
+        "@adiwajshing/keyed-db": "^0.2.4",
+        "@hapi/boom": "^10.0.1",
+        "jimp": "^0.16.13",
+        "pino": "^7.0.5",
+        "qrcode-terminal": "^0.12.0"
+    },
     "dependencies": {
         "@colors/colors": "^1.5.0",
         "@hapi/boom": "^10.0.0",
         "@vreden/youtube_scraper": "^1.2.6",
-        "@whiskeysockets/baileys": "github:anonphoenix007/Baileys-6.6.0",
+        "@whiskeysockets/baileys": "^6.6.0",
         "api-dylux": "^1.8.5",
         "awesome-phonenumber": "^2.70.0",
         "axios": "^1.1.3",
@@ -48,7 +59,7 @@
         "https": "^1.0.0",
         "human-readable": "^0.2.1",
         "install": "^0.13.0",
-        "jimp": "^0.16.13",
+        "jimp": "^0.16.3",
         "js-confuser": "^1.0.0",
         "jsdom": "^16.4.0",
         "link-preview-js": "^3.0.4",
