@@ -5,8 +5,9 @@
     "main": "start/index.js",
     "type": "commonjs",
     "scripts": {
-        "start": "node index.js",
-        "restart": "node index.js"
+        "start": "pm2 start start/index.js --deep-monitoring --attach --name ARCH-MD",
+        "stop": "pm2 stop ARCH-MD",
+        "restart": "pm2 restart ARCH-MD"
     },
     "keywords": [
         "whiskeysockets",
