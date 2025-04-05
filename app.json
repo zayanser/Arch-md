@@ -6,7 +6,7 @@
   "success_url": "/",
   "stack": "heroku-24",
   "scripts": {
-  "postdeploy": "npm run scale-dyno",
+  "postdeploy": "npm run scale-dyno"
 }
   "env": {
     "PREFIX": {
