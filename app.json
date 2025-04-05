@@ -18,7 +18,7 @@
     },
     "THUMB_IMAGE": {
       "description": "This image will show when you used a v1/v3 menu you can get your image url from catbox",
-      "value": " ",
+      "value": "https://files.catbox.moe/1uhvld.jpg",
       "required": false
     },
     "OWNER_NAME": {
