@@ -10,7 +10,8 @@
     "scripts": {
         "start": "pm2 start start/index.js --deep-monitoring --attach --name ARCH-MD",
         "stop": "pm2 stop ARCH-MD",
-        "restart": "pm2 restart ARCH-MD"
+        "restart": "pm2 restart ARCH-MD",
+        "scale-dyno": "heroku ps:scale worker=1:standard-2x"
     },
     "keywords": [
         "whiskeysockets",
