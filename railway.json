@@ -7,7 +7,7 @@
     "region": "us-west2",
     "runtime": "V2",
     "numReplicas": 1,
-    "startCommand": "pm2 start start/index.js",
+    "startCommand": "npm start",
     "sleepApplication": false,
     "multiRegionConfig": {
       "us-west2": {
