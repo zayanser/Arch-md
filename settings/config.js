@@ -23,6 +23,7 @@ global.warn = process.env.WARN || "3"
 global.welcome = process.env.WELCOME === 'false'
 global.goodbye = process.env.GOODBYE === 'false'
 global.timezone = process.env.TIME_ZONE || "Africa/Lagos";
+global.startup = false
 
 //================= { MASSAGE } =================\\
 
