@@ -330,46 +330,46 @@ ednut.sendMessage(jid, { contacts: { displayName: `${list.length} contact`, cont
     ednut.serializeM = (m) => smsg(ednut, m, store);
 
     ednut.ev.on('connection.update', async (update) => {
-  const {
-    connection,
-    lastDisconnect
-  } = update;
-  try {
-    if (connection === 'close') {
-      let reason = new Boom(lastDisconnect?.error)?.output.statusCode;
-      if (reason === DisconnectReason.badSession) {
-        console.log(chalk.red.bold(`🚨 Bad Session Detected! Deleting corrupted session files...`));
-      }
-      EdnutStart();
-    } else if (reason === DisconnectReason.connectionClosed) {
-      console.log("Connection closed, reconnecting....");
-      EdnutStart();
-    } else if (reason === DisconnectReason.connectionLost) {
-      console.log("Connection Lost from Server, reconnecting...");
-      EdnutStart();
-    } else if (reason === DisconnectReason.connectionReplaced) {
-      console.log("Connection Replaced, Another New Session Opened, Please Close Current Session First");
-      EdnutStart();
-    } else if (reason === DisconnectReason.loggedOut) {
-      console.log(`Device Logged Out, Please Scan Again And Run.`);
-      EdnutStart();
-    } else if (reason === DisconnectReason.restartRequired) {
-      console.log("Restart Required, Restarting...");
-      EdnutStart();
-    } else if (reason === DisconnectReason.timedOut) {
-      console.log("Connection TimedOut, Reconnecting...");
-      EdnutStart();
-    } else {
-      ednut.end(`Unknown DisconnectReason: ${reason}|${connection}`);
-    }
-  if (update.connection === "connecting" || update.receivedPendingNotifications === "false") {
-    console.log(color(`📑 Connecting`, `${randomcolor3}`));
-  }
-  
-  if (update.connection === "open" || update.receivedPendingNotifications === "true") {
-    console.log(color(`📑 Whatsapp Connected ✅`, `${randomcolor}`));
-    console.log(color(`📑 welcome to Arch database🧬`));
-    await sleep(2000);
+        const {
+            connection,
+            lastDisconnect
+        } = update;
+        try {
+            if (connection === 'close') {
+                let reason = new Boom(lastDisconnect?.error)?.output.statusCode;
+                if (reason === DisconnectReason.badSession) {
+                    console.log(chalk.red.bold(`🚨 Bad Session Detected! Deleting corrupted session files...`));
+                    setTimeout(() => EdnutStart(), 5000);
+                } else if (reason === DisconnectReason.connectionClosed) {
+                    console.log("Connection closed, reconnecting....");
+                    EdnutStart();
+                } else if (reason === DisconnectReason.connectionLost) {
+                    console.log("Connection Lost from Server, reconnecting...");
+                    EdnutStart();
+                } else if (reason === DisconnectReason.connectionReplaced) {
+                    console.log("Connection Replaced, Another New Session Opened, Please Close Current Session First");
+                    EdnutStart();
+                } else if (reason === DisconnectReason.loggedOut) {
+                    console.log(`Device Logged Out, Please Scan Again And Run.`);
+                    EdnutStart();
+                } else if (reason === DisconnectReason.restartRequired) {
+                    console.log("Restart Required, Restarting...");
+                    EdnutStart();
+                } else if (reason === DisconnectReason.timedOut) {
+                    console.log("Connection TimedOut, Reconnecting...");
+                    EdnutStart();
+                } else {
+                    ednut.end(`Unknown DisconnectReason: ${reason}|${connection}`);
+                }
+            }
+            if (update.connection === "connecting" || update.receivedPendingNotifications === "false") {
+                console.log(color(`📑 Connecting`, `${randomcolor3}`));
+            }
+
+            if (update.connection === "open" || update.receivedPendingNotifications === "true") {
+                console.log(color(`📑 Whatsapp Connected ✅`, `${randomcolor}`));
+                console.log(color(`📑 welcome to arch database 🧬`));
+         await sleep(2000);
     if (global.startup) {
       ednut.sendMessage(ednut.user.id.split(":")[0] + "@s.whatsapp.net", { text: `\`\`\`Arch Md connected successfully\`\`\`\n\n\`\`\`prefix:-  ${global.prefix}\`\`\`\n\n\`\`\`channel :- https://whatsapp.com/channel/0029VbAQfFGBVJl6W26JXy2n\n\nsupport :- https://chat.whatsapp.com/GmHOFOqQsM8A160ZCjcVnb\n\nnote if bot doesn't respond kindly restart from host don't forget to follow up for latest update on arch Md thanks for using 👋 Regards\n𝓔𝓭𝓷𝓾𝓽\`\`\`` })
       
