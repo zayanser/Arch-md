@@ -119,13 +119,7 @@ const database = new DataBase();
 	}, 3500)
 })();
 
-const EventEmitter = require('events');
-const emitter = new EventEmitter();
-
-
-// Increase the max listeners limit
-emitter.setMaxListeners(20);
-
+require("events").EventEmitter.defaultMaxListeners = 600;
 // Create an in-memory store
 const store = makeInMemoryStore({
     logger: pino().child({
