@@ -7,7 +7,7 @@
     "region": "us-west2",
     "runtime": "V2",
     "numReplicas": 1,
-    "startCommand": "npm start",
+    "startCommand": "node main.js",
     "sleepApplication": false,
     "multiRegionConfig": {
       "us-west2": {
