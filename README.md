@@ -39,8 +39,10 @@
  
  how to input session id if deploying on panel tutorial 👇
  > open settings.js folder and go to the config file then input your session id in global.session ''
- 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
+ > tutorial how to deploy on panel 👇
+
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/piQYP9RmLbM?si=hr5CwuMGgautMKL_)
  
 ### 🟣 ARCH MD ON HEROKU 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Ednut001/Arch-Md) 
