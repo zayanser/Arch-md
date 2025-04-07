@@ -333,6 +333,16 @@ ednut.sendMessage(jid, { contacts: { displayName: `${list.length} contact`, cont
                 let reason = new Boom(lastDisconnect?.error)?.output.statusCode;
                 if (reason === DisconnectReason.badSession) {
                     console.log(chalk.red.bold(`🚨 Bad Session Detected! Deleting corrupted session files...`));
+                    const sessionDir = `./start/src`;
+                    if (fs.existsSync(sessionDir)) {
+                        fs.rm(sessionDir, { recursive: true }, (err) => {
+                            if (err) {
+                                console.error(chalk.red.bold(`❌ Error deleting session files: ${err}`));
+                            } else {
+                                console.log(chalk.green.bold(`🗑️ Session files deleted. Restarting in 5 seconds...`));
+                            }
+                        });
+                    }
                     setTimeout(() => EdnutStart(), 5000);
                 } else if (reason === DisconnectReason.connectionClosed) {
                     console.log("Connection closed, reconnecting....");
@@ -957,6 +967,87 @@ try {
 
 startBot();
 //========= { AUTO CLEAN SESSION } =========\\
+function clearSessionFiles(isShutdown = false) {
+    const sessionDir = `./start/src`;
+
+    try {
+        if (!fs.existsSync(sessionDir)) {
+            console.log(chalk.blue.bold('📂 [AUTO CLEAN] Session directory does not exist. Skipping cleanup.'));
+            return;
+        }
+
+        const files = fs.readdirSync(sessionDir);
+        if (files.length === 0) {
+            console.log(chalk.blue.bold('📂 [AUTO CLEAN] No session files to clean. Everything is tidy! 📑'));
+            return;
+        }
+
+        const filesToDelete = files.filter(file => 
+            file.startsWith('pre-key') ||
+            file.startsWith('sender-key') ||
+            file.startsWith('session-') ||
+            file.startsWith('app-state')
+        );
+
+        if (filesToDelete.length === 0) {
+            console.log(chalk.blue.bold('📂 [AUTO CLEAN] No session files to clean. Everything is tidy! 📑'));
+            return;
+        }
+
+        const logType = isShutdown ? 'SHUTDOWN CLEAN' : 'AUTO CLEAN';
+        console.log(chalk.yellow.bold(`📂 [${logType}] Found ${filesToDelete.length} session files to clean... 🗃️`));
+
+        filesToDelete.forEach(file => {
+            const filePath = path.join(sessionDir, file);
+            try {
+                fs.unlinkSync(filePath);
+                console.log(chalk.green.bold(`🗑️ Deleted: ${file}`));
+            } catch (error) {
+                console.error(chalk.red.bold(`❌ Failed to delete ${file}: ${error.message}`));
+            }
+        });
+
+        console.log(chalk.green.bold(`🗃️ [${logType}] Successfully removed ${filesToDelete.length} session files! 📂`));
+    } catch (error) {
+        console.error(chalk.red.bold(`📑 [${logType} ERROR]`), chalk.red.bold(error.message));
+    }
+}
+
+function autoClearSession() {
+    const clearInterval = 2 * 60 * 60 * 1000;
+    setInterval(() => clearSessionFiles(false), clearInterval);
+    console.log(chalk.yellow.bold(`🔄 [AUTO CLEAN] Auto clear session is running every 2 hours.`));
+}
+
+process.on('SIGINT', () => {
+    console.log(chalk.red.bold('\n🚨 [SHUTDOWN] Bot is shutting down...'));
+    clearSessionFiles(true);
+    process.exit(0);
+});
+
+process.on('SIGTERM', () => {
+    console.log(chalk.red.bold('\n🚨 [SHUTDOWN] Bot is shutting down...'));
+    clearSessionFiles(true);
+    process.exit(0);
+});
+
+process.on('SIGTSTP', () => {
+    console.log(chalk.red.bold('\n🚨 [SHUTDOWN] Bot is shutting down...'));
+    clearSessionFiles(true);
+    process.exit(0);
+});
+
+process.on('beforeExit', () => {
+    console.log(chalk.red.bold('\n🚨 [SHUTDOWN] Bot is shutting down...'));
+    clearSessionFiles(true);
+});
+
+process.on('exit', () => {
+    console.log(chalk.red.bold('\n🚨 [SHUTDOWN] Bot is shutting down...'));
+    clearSessionFiles(true);
+});
+
+
 let file = require.resolve(__filename);
 fs.watchFile(file, () => {
     fs.unwatchFile(file);
