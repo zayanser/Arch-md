@@ -26,4 +26,48 @@
 </div>
 
 ## [![Channel](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbAQfFGBVJl6W26JXy2n) 
-maintenance mode
+
+#### SETUP
+
+1. Fork the repo
+    <br>
+<a href='https://github.com/Ednut001/Arch-Md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+2. Get Session ID 
+    
+ <a href='https://arch-session.onrender.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+ 
+ how to input session id if deploying on panel tutorial 👇
+ > open the .env file then input your session id in session and change any other variables or you can also use the config otherwise''
+ > tutorial how to deploy on panel 👇
+
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/piQYP9RmLbM?si=hr5CwuMGgautMKL_)
+ 
+### 🟣 ARCH MD ON HEROKU 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Ednut001/Arch-Md) 
+
+### TUTORIAL VIA HEROKU
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ednuthimself)
+
+----- 
+### ⏏️ **DEPLOY VIA RAILWAY**
+[![Deploy to Railway](https://img.shields.io/badge/RAILWAY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black)](https://railway.com)
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ednuthimself)
+------------------
+### ☁️ DEPLOY ON RENDER
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FEdnut001-Li%2FArch-MD)
+
+------------------
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ednuthimself)
+
+
+### more tutorial soon don't forget to follow the channel for more bot updates
+## [![Channel](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbAQfFGBVJl6W26JXy2n) 
+
+
+### give credit if taking any plugin or case or command from this bot 
+
+
