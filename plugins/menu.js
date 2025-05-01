@@ -99,6 +99,11 @@ let archmenu = `┏━《 ${botname} 》━━━
 ┏━━《ɴᴇᴡ ᴍᴇɴᴜ》━━
 ┃${global.simbol} ${global.prefix}setcmd <text>
 ┃${global.simbol} ${global.prefix}delcmd <text>
+┃${global.simbol} ${global.prefix}update
+┃${global.simbol} ${global.prefix}update <now>
+┃${global.simbol} ${global.prefix}filter <text>
+┃${global.simbol} ${global.prefix}delfilter <text>
+┃${global.simbol} ${global.prefix}listfilter <text>
 ┗━━━━━━━━━━━━━━━━
 
 ┏━━《ɢᴀᴍᴇ ᴍᴇɴᴜ》━━
