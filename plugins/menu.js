@@ -154,6 +154,8 @@ let archmenu = `┏━《 ${botname} 》━━━
 ┃${global.simbol} ${global.prefix}Stoptime
 ┃${global.simbol} ${global.prefix}Welcome
 ┃${global.simbol} ${global.prefix}Goodbye
+┃${global.simbol} ${global.prefix}setwelcome
+┃${global.simbol} ${global.prefix}setgoodbye
 ┃${global.simbol} ${global.prefix}pdm
 ┃${global.simbol} ${global.prefix}Request
 ┃${global.simbol} ${global.prefix}approve
