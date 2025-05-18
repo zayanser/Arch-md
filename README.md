@@ -33,8 +33,14 @@
     <br>
 <a href='https://github.com/Ednut001/Arch-Md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-2. Get Session ID 
-    
+2. Get Session ID
+
+
+## server 1 (through telegram easier)
+[![Session](https://img.shields.io/badge/Support-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/c/2615217760/1006)
+
+
+## server 2    
  <a href='https://arch-session.onrender.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
  
  how to input session id if deploying on panel tutorial 👇
