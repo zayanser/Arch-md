@@ -1,13 +1,13 @@
 {
     "name": "archmd",
-    "version": "1.3.2",
+    "version": "1.3.5",
     "description": "ArchPatch",
     "main": "index.js",
     "scripts": {
     "start": "node index.js"
   },
    "engines": {
-     "node": "21.6.0"
+     "node": "21.19.0"
   },
   "author": "Ednut",
   "dependencies": {
