@@ -132,6 +132,7 @@ let archmenu = `┏━《 ${botname} 》━━━
 ┃${global.simbol} ${global.prefix}Ai
 ┃${global.simbol} ${global.prefix}Test
 ┃${global.simbol} ${global.prefix}Alive
+┃${global.simbol} ${global.prefix}chatbot
 ┗━━━━━━━━━━━━━━━━
 
 ┏━━《ɢʀᴏᴜᴘ ᴍᴇɴᴜ》━━
@@ -277,7 +278,7 @@ if (menutype === 'v1') {
                     })
  } else if (menutype === 'v3' )
  {
-reply4(archmenu)
+ednut.sendMessage(m.chat, { image: { url: `${global.thumb}` }, caption: archmenu }, { quoted: m })
 }
 }
 

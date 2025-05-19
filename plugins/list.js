@@ -250,6 +250,9 @@ talk to a gemini ai with text and get a response
 • Test
 check if bots online
 
+• chatbot
+chat with an artificial intelligence with text
+
 • Alive
 check bot alive message 
 setalive (use this to set your preffered alive message #alive for runtime #ping for bot speed #quote to get random quote)
