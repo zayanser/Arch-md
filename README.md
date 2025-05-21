@@ -37,7 +37,7 @@
 
 
 ## server 1 (through telegram easier)
-[![Session](https://img.shields.io/badge/Session-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/c/2615217760)
+[![Session](https://img.shields.io/badge/Session-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+KKioacSxodoxZjVk)
 
 
 ## server 2    
